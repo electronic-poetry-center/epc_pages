@@ -1,0 +1,63 @@
+body {
+	font-family: Helvetica;
+}
+
+#EPCTextLogo {
+	font-family: Arial;
+	text-shadow: 1px 1px 2px #000000;
+	margin: 10px;
+	margin-top:2px;
+}
+
+#topMenu {
+	text-shadow: 1px 1px 4px #A0A0A0;
+	background-color: #667755;
+	padding: 2px;
+	width: 1024px;
+	height: auto;
+	-moz-border-top-left-radius: 15px;
+	border-top-left-radius: 15px;
+	-moz-border-top-right-radius: 15px;
+	border-top-right-radius: 15px;
+}
+
+#menu0 {
+	margin-left:20px;
+}
+
+a.menuElement {
+	background-color: #DDDDBB;
+	opacity: 0.25;
+	float: left;
+	padding: 10px;
+	padding-bottom:15px;
+	margin-left: 3px;
+}
+a.menuElement:link {
+	text-decoration: none;
+	color: black;
+}
+a.menuElement:visited{
+	color: black;
+}
+a.menuElement:hover {
+	opacity: 1.00;
+	text-decoration: none;
+	color: black;
+	cursor: pointer;
+	cursor: hand;
+}
+
+#menuDesc {
+	background-color: #DDDDBB;
+	opacity: 1.00;
+	clear: left;
+	padding: 2px;
+	position: relative;
+	width: auto;
+	height: auto;
+}
+
+#menuDescP {
+	text-align: center;
+}

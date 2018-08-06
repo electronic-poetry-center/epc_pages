@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+ 
+<HEAD><meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+
+<script type="text/javascript" src="../epcTopMenu.js"></script>
+<script type ="text/javascript" src = "../epcBottomMenu.js"></script>
+
+<TITLE>Electronic Poetry Center</TITLE>
+
+
+<!-- BEGIN TOPBAR -->
+
+<a id="EPCTextLogo" href="../index.html"></a>
+<div id="topMenu"></div>
+
+<!-- END TOPBAR -->
+
+<!-- META HTTP-EQUIV="Refresh" CONTENT=10 TARGET=_self -->
+<link rel="shortcut icon" href="../images/epc-ico.jpg" type="image/jpeg"> 
+<meta name="keywords" content="poetry, poetics">
+<meta name="description" content="A resource of the
+Electronic Poetry Center, an edited site devoted to the presentation
+of full-text resources for innovative writing.">
+
+<!--	<style type="text/css">		-->
+<!--	a { text-decoration:none }		-->
+<!--	</style>				-->
+<link href="epc_css_1.css" rel="stylesheet" type="text/css">
+
+</HEAD>
+
+<BODY bgcolor="#ffffff" 
+link="#006699" vlink="#666666" alink="#666666" 
+onload="initTopMenu(); initBottomMenu()">
+
+<!-- END TOPBAR -->
+
+<!-- ================================================== -->
+<h1>
+<!-- img
+src="http://writing.upenn.edu/epc/images/authors/mccaffery.gif"align=middle
+hspace=10 -->
+<img src="http://writing.upenn.edu/epc/authors/mccaffery/images/mccaffery2.jpg">
+Steve McCaffery</h1>
+
+
+<a href="http://www.nacip.net/McCafferyCV.htm">Bio/List </a>of
+Publications and  Papers | <a href="http://www.nacip.net/">NACIP</a> | See also <A HREF="http://writing.upenn.edu/pennsound/x/4-Horsemen.html">Four
+ Horsemen</A> at PennSound <br>
+
+<hr>
+
+<center><font size=6>Online Works<br>
+</font>
+</center>
+
+<p>
+
+<ul>
+<p><b>E-book:</b><br>
+  <a href="http://www.lulu.com/product/ebook/paradigm-of-the-tinctures/12456406"><i>Paradigm of the Tinctures <br>
+  </i>by Steve McCaffery and Alan Halsey</a></p>
+<p><font size=5><i>Poems:</i></font></p>
+<li><a href="../rift/rift06/rift0601.html#mccaffery">Untitled for RC
+</a> from <i>RIF/T</i>
+<li><a href="http://archives.chbooks.com/online_books/carnival/index.html">Carnival</a>
+at Coach
+House Books 
+<li><a 
+href="../ezines/deluxe/two/attritions.html">ATTRITIONS</a>
+from <i>Deluxe Rubber Chicken</i>
+<li><a 
+href="../ezines/deluxe/two/corrigenda.html">CORRIGENDA
+IN TWO STANZAS</a> from <i>Deluxe Rubber Chicken</i>
+<li><a 
+href="../ezines/deluxe/two/notitle.html">NO
+TITLE PLEASE I'M NOT WELL</a> from <i>Deluxe Rubber Chicken</i> 
+</ul>
+
+<ul>
+  <font size=5><i>Soundfiles:</i></font> 
+  <li>McCaffery audio at <a href="http://www.writing.upenn.edu/pennsound/x/McCaffery.html">PENNsound</a> 
+  <li>McCaffery's <A HREF="http://writing.upenn.edu/epc/linebreak/programs/mccaffery/">LINEbreak Program<br></a></ul>
+<ul>
+  <p><font size=5><i>Essays</i></font><font size=5><i><br>
+  </i></font>
+  <li><a href="http://sibila.com.br/index.php/newsibyl/1298-steve-mccaffery">Afterword to <i>Verese and Worse: Selected Poems</i> <i>1989-2009</i></a>
+  <li>&quot;The Unreadable Text&quot; from <i><a href="http://www.durationpress.com/archives/code/codeofsignals.pdf">Code of Signals</a> </i>pp. 64-99    
+  <li>&ldquo;<a href="http://www.ubu.com/papers/mccaffery.html">Sound
+  Poetry &ndash; A Survey</a>.&rdquo;  
+  <li><a href="http://www.chax.org/eoagh/issuetwo/mccaffery.htm">A
+      Short Conclusion</a> (in memoriam Jackson
+  Mac Low).&rdquo;  
+  <li><a href="http://www.samizdateditions.com/issue7/mcaffery1.html%20">Remembrance:
+  Paul Celan (for Jerry and Pierre)</a>  
+  <li>&ldquo;<a href="http://www.slought.org/content/11291/">The Pataphysics
+    of Auschwitz</a>.&rdquo;
+    <p><br>
+      </p>
+  </ul>
+    <font size=5><i>Critical Responses </i></font><br>
+    Peter Jaeger. &ldquo;<a href="http://www.ubu.com/papers/jaeger.html">Steve
+      McCaffery&rsquo;s Visual Errata</a>.&rdquo;<br>
+Marjorie
+Perloff, &ldquo;&lsquo;<a href="perloff/mccaf.html">Inner
+      Tension / Inattention&rsquo;:
+      Steve McCaffery&rsquo;s Book Art</a>.&rdquo;<br>
+      <a href="http://www.full-stop.net/2012/05/15/reviews/sam/panopticon-steve-mccaffery/">Sam Rowe on<i> Panopticon</i> </a>(2012)
+
+<p>&nbsp; </p>
+    <p><!About the Author:<br>
+    </p>
+</ul>
+
+<ul>
+
+
+</ul><!-- ================================================== -->
+
+<br><br>
+
+<!-- BEGIN BOTTOMBAR -->
+
+<font size = 3>
+<div id="bottomMenu"></div>
+<div id="copyr" ></div>
+
+</body>
+<link rel="stylesheet" type="text/css" href="../epcTopMenuStyle.css">
+<link rel="stylesheet" type="text/css" href="../epcBottomMenuStyle.css">
+</html>
+
+<!-- END BOTTOMBAR -->

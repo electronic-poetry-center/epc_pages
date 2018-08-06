@@ -1,0 +1,43 @@
+body {
+	font-family: Helvetica;
+}
+
+#bottomStripe{
+	background-color: #DDDDBB;
+	opacity: 1.00;
+	clear: left;
+	padding: 2px;
+	position: relative;
+	width: auto;
+	height: 5px;
+	top: 2px;
+}
+
+#bottomMenu{
+
+	position: relative;
+	text-shadow: 1px 1px 4px #A0A0A0;
+	background-color: #667755;
+	padding: 2px;
+	padding-top: 0px;
+	width: 1024px;
+	height: 60px;
+	-moz-border-bottom-left-radius: 15px;
+	border-bottom-left-radius: 15px;
+	-moz-border-bottom-right-radius: 15px;
+	border-bottom-right-radius: 15px;
+	display: block;
+}
+
+a.bme {
+	opacity: 1.0;
+	margin-left: 10px;
+	height: auto;
+}
+
+#googleSearch {
+	width: 250px;
+	float: right;
+	margin: 12px;
+	margin-top:10px;
+}

@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+ 
+<HEAD><meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+
+<script type="text/javascript" src="../epcTopMenu.js"></script>
+<script type ="text/javascript" src = "../epcBottomMenu.js"></script>
+
+<TITLE>Electronic Poetry Center</TITLE>
+
+
+<!-- BEGIN TOPBAR -->
+
+<a id="EPCTextLogo" href="../index.html"></a>
+<div id="topMenu"></div>
+
+<!-- END TOPBAR -->
+
+<!-- META HTTP-EQUIV="Refresh" CONTENT=10 TARGET=_self -->
+<link rel="shortcut icon" href="../images/epc-ico.jpg" type="image/jpeg"> 
+<meta name="keywords" content="poetry, poetics">
+<meta name="description" content="A resource of the
+Electronic Poetry Center, an edited site devoted to the presentation
+of full-text resources for innovative writing.">
+
+<!--	<style type="text/css">		-->
+<!--	a { text-decoration:none }		-->
+<!--	</style>				-->
+<link href="epc_css_1.css" rel="stylesheet" type="text/css">
+
+</HEAD>
+
+<BODY bgcolor="#ffffff" 
+link="#006699" vlink="#666666" alink="#666666" 
+onload="initTopMenu(); initBottomMenu()">
+
+<!-- END TOPBAR -->
+
+<!-- ================================================== -->
+ 
+
+
+<!IMG ALIGN=top
+<!SRC="http://writing.upenn.edu/epc/authors/___/___.gif">
+
+
+<h1>Benjamin Friedlander</h1>
+
+
+<!a href=:"___/pub">
+<!Bio/List
+<!_/a>
+<!of Publications and Papers:<br>
+
+<center>
+  <a href="http://www.umit.maine.edu/%7Eben.friedlander/">University of Maine Home Page| 
+  </a>
+</center>
+
+
+<hr>
+
+<center><font size=6>Online Works</font></center>
+
+<p>
+
+<ul><font size=5><i>Poems:</i></font>
+
+  <li><A HREF="http://bostonreview.net/BR23.3/poetrysampler.html">Poetry Sampler</A> 
+    from <I>Boston Review</I>, introduced by Robert Creeley 
+  <li><a href="../rift/rift04/rift0401.html#friedlander">After Celan</a> from <i>RIF/T</i> 
+
+</ul>
+
+<ul><font size=5><i>Writings:</i></font>
+
+<li>Poetics, Polemic, and the Question of Intelligibility,
+<I>Postmodern Culture</I> 9.1 (<A
+HREF="http://muse.jhu.edu/journals/postmodern_culture/v009/9.1friedlander.html">Muse
+subscribers</A> or <A
+HREF="http://www.iath.virginia.edu/pmc/text-only/issue.998/9.1friedlander.txt">text
+only</A>)
+
+<li><a href="../rift/rift02/frie0201.html">
+Perpendicular and Parallel Theses For Reading Alongside Riffs 1-10</a>
+Chapbook extension of <i>RIF/T</i> 
+
+</ul>
+
+<ul><font size=5><i>Editorial Works:</i></font>
+<li><A HREF="http://www.ucpress.edu/books/pages/6739.html">Charles Olson: Collected Prose</A>
+<li><A
+HREF="../ezines/passages/passages5/pass5.html">Passages 5:
+  Larry Eigner Issue</A>
+  <li><a href="http://www.umit.maine.edu/%7Eben.friedlander/lagniappe.html">Lagniappe</a> 
+</ul>
+
+
+<ul><font size=5><i>Sound Files:</i></font>
+     <li><a
+href="http://writing.upenn.edu/epc/linebreak/programs/friedlander">LINEbreak
+radio program page</a>
+     <li>"Poem"
+          <ul>
+      <li><a
+href="http://writing.upenn.edu/sound/friedlander/friedlander_poem.wav"> 44.1 kHz / 16 bit .WAV (3.3 MB)</a> 
+      <li><a
+href="http://writing.upenn.edu/sound/friedlander/friedlander_poem.mp2">.MP2 (150 kB)</a> 
+    </ul>
+</ul>
+
+<!About the Author:<br>
+<!<ul>
+<!<li>
+<!<a href="http://writing.upenn.edu/authors/___/___">
+<!___title_of_source___</a>
+
+<!</ul>
+
+
+ 
+<!-- ================================================== -->
+
+<br><br>
+
+<!-- BEGIN BOTTOMBAR -->
+
+<font size = 3>
+<div id="bottomMenu"></div>
+<div id="copyr" ></div>
+
+</body>
+<link rel="stylesheet" type="text/css" href="../epcTopMenuStyle.css">
+<link rel="stylesheet" type="text/css" href="../epcBottomMenuStyle.css">
+</html>
+
+<!-- END BOTTOMBAR -->

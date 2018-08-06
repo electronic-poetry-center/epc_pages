@@ -1,0 +1,324 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0245)http://ptg.djnr.com/ccroot/asp/publib/story_clean_cpy.asp?articles=NYTF0301700011`NYTIMES01-1042761611&search=richard%20foreman&articledisplay=*&bHighlight=Y&Sessionid=AAAAAAAAAAAAAAAAAAAAAAAAAAAABZ62AAAAAAAAMjAwMzAyMTExNTU5MTMAAAAL&referer=true -->
+<!-- 
+Copyright Dow Jones & Company Inc. All Rights Reserved. 
+Release 12, build date: Thu Sep 21 16:56:13 EDT 2000
+ --><!-- /ccroot/asp/publib/story_clean_cpy.asp --><!-- Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; T312461) --><!-- 0 --><HTML><HEAD><TITLE>PANIC!</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252"><!-- Client Side API -->
+<SCRIPT language=javascript>
+
+function SetCookie (name, value) {
+ var argv = SetCookie.arguments ;
+ var argc = SetCookie.arguments.length ;
+ var expires = (argc > 2) ? argv[2] : null ;
+ var secure = (argc > 5) ? argv[5] : false;
+ document.cookie = name + "=" + escape (value) +
+ ((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
+ "; path=/" +
+ "; domain=ptg.djnr.com" +
+ ((secure == true) ? "; secure" : "");
+}
+
+function removeFromList(szKey, szValue, szDelimiter) {
+var szHiddenField, iNameStart, iNameEnd, szCurrentValue, iCurrentPos, blnValFound;
+var szSeparator = "";
+szHiddenField = document.forms[0].hState.value;
+iNameStart = szHiddenField.indexOf(szKey + "=");
+if (iNameStart != -1){
+iNameStart = (iNameStart + (szKey + "=").length);
+iNameEnd = szHiddenField.indexOf(szSeparator, iNameStart);
+if (iNameEnd == -1)
+iNameEnd = szHiddenField.length;
+szCurrentValue = szHiddenField.substring(iNameStart, iNameEnd);
+szCurrentValue = unescape(szCurrentValue);
+}
+else
+szCurrentValue = "";
+if (szCurrentValue != "") {
+szCurrentValue = unescape(szCurrentValue);
+iNameStart = 0;
+while (szCurrentValue.indexOf(szDelimiter, iNameStart) != -1) {
+iNameEnd = szCurrentValue.indexOf(szDelimiter, iNameStart);
+if (szCurrentValue.substring(iNameStart, iNameEnd) == szValue) {
+if (iNameStart == 0) {
+szCurrentValue = szCurrentValue.substring(iNameEnd + 1, szCurrentValue.length);
+}
+else {
+szCurrentValue = szCurrentValue.substring(0, iNameStart - 1) + szDelimiter +
+szCurrentValue.substring(iNameEnd + 1, szCurrentValue.length);
+}
+blnValFound = true;
+break;
+}
+iNameStart = iNameEnd + 1;
+}
+if (blnValFound) {
+replaceValue(szKey, szCurrentValue);
+}
+else {
+if (szCurrentValue.substring(iNameStart, szCurrentValue.length) == szValue) {
+if (iNameStart != 0) {
+szCurrentValue = szCurrentValue.substring(0, iNameStart - 1);
+replaceValue(szKey, szCurrentValue);
+}
+else {
+deleteKey(szKey);
+}
+}
+}
+}
+return true;
+}
+
+function appendToList(szKey, szValue, szDelimiter) {
+var szHiddenField, iNameStart, iNameEnd, szCurrentValue;
+var szSeparator = "";
+szHiddenField = document.forms[0].hState.value;
+iNameStart = szHiddenField.indexOf(szKey + "=");
+if (iNameStart != -1){
+iNameStart = (iNameStart + (szKey + "=").length);
+iNameEnd = szHiddenField.indexOf(szSeparator, iNameStart);
+if (iNameEnd == -1)
+iNameEnd = szHiddenField.length;
+szCurrentValue = szHiddenField.substring(iNameStart, iNameEnd);
+szCurrentValue = unescape(szCurrentValue);
+}
+else
+szCurrentValue = "";
+if (szCurrentValue != "")
+szCurrentValue = szCurrentValue + szDelimiter + szValue;
+else
+szCurrentValue = szValue;
+replaceValue(szKey, szCurrentValue);
+return true;
+}
+
+function replaceValue(szName, szValue) {
+var szHiddenField, strExistingNameValuePair, iNameStart, iNameEnd, iFormCount, iCounter;
+var szSeparator = "";
+szName = szName + "=";
+szValue = escape(szValue);
+szHiddenField = document.forms[0].hState.value;
+if ((szHiddenField.indexOf(szSeparator + szName.toLowerCase()) != -1) || (szHiddenField.indexOf(szName.toLowerCase()) == 0)) {
+if (szHiddenField.indexOf(szName.toLowerCase()) == 0)
+iNameStart = 0; 
+else
+iNameStart = szHiddenField.indexOf(szSeparator + szName.toLowerCase()) + szSeparator.length;
+iNameEnd = szHiddenField.indexOf(szSeparator, iNameStart);
+if (iNameEnd == -1) { 
+szHiddenField = szHiddenField.substring(0, iNameStart) + szName.toLowerCase() + szValue
+}
+else {
+if (iNameStart == 0) {
+szHiddenField = szName.toLowerCase() + szValue + szHiddenField.substring(iNameEnd, szHiddenField.length);
+}
+else {
+szHiddenField = szHiddenField.substring(0, iNameStart) + szName.toLowerCase() + szValue + szHiddenField.substring(iNameEnd, szHiddenField.length);
+}
+}
+}
+else {
+if (szHiddenField == "")
+szHiddenField += szName.toLowerCase() + szValue;
+else
+szHiddenField += szSeparator + szName.toLowerCase() + szValue;
+}
+
+iFormCount = document.forms.length;
+for (iCounter = 0; iCounter < iFormCount; iCounter++) {
+if (document.forms[iCounter].hState != null) {
+eval("document.forms[" + iCounter + "].hState.value='" + szHiddenField + "';");
+}
+}
+}
+
+function deleteKey(szName) {
+var szHiddenField, iNameStart, iNameEnd;
+var szSeparator = "";
+szHiddenField = document.forms[0].hState.value;
+if ((szHiddenField.indexOf(szSeparator + szName.toLowerCase() + "=") != -1) || (szHiddenField.indexOf(szName.toLowerCase() + "=") == 0)) {
+if (szHiddenField.indexOf(szName.toLowerCase()) == 0)
+iNameStart = 0; 
+else
+iNameStart = szHiddenField.indexOf(szSeparator + szName.toLowerCase() + "=") + szSeparator.length;
+iNameEnd = szHiddenField.indexOf(szSeparator, iNameStart);
+if (iNameEnd == -1) 
+szHiddenField = szHiddenField.substring(0, iNameStart - szSeparator.length);
+else {
+if (iNameStart == 0)
+szHiddenField = szHiddenField.substring(iNameEnd + szSeparator.length, szHiddenField.length);
+else
+szHiddenField = szHiddenField.substring(0, iNameStart - szSeparator.length) + szHiddenField.substring(iNameEnd, szHiddenField.length);
+}
+}
+iFormCount = document.forms.length;
+for (iCounter = 0; iCounter < iFormCount; iCounter++) {
+if (document.forms[iCounter].hState != null) {
+eval("document.forms[" + iCounter + "].hState.value='" + szHiddenField + "';");
+}
+}
+}
+
+function escapePlus(sourceText) {
+var outText = "";
+var thisChar = "";
+var plusChar = "+";
+var escapedPlus = "%2B";
+for (var i = 0; i < sourceText.length; i++) {
+thisChar = sourceText.charAt(i)
+if (thisChar == plusChar) {
+outText += escapedPlus;
+} else {
+outText += escape(thisChar);
+}
+}
+return outText;
+}
+function noAccess() {
+alert("");
+}
+</SCRIPT>
+<LINK media=all href="http://writing.upenn.edu/epc/authors/foreman/reviews/Times_Panic_files/css.txt" type=text/css rel=StyleSheet>
+<META content="MSHTML 6.00.2800.1141" name=GENERATOR></HEAD>
+<BODY>
+<P>
+<table width="70%" border="0" cellspacing="1" cellpadding="1">
+  <tr>
+    <td>
+      <p><font face=helvetica,arial size=2>Movies, Performing Arts/Weekend Desk; 
+        Section E; Part 1<br>
+        <b>THEATER REVIEW</b><br>
+        </font></p>
+      <p><b>PANIC!</b></p>
+      <p><font face=helvetica,arial size=2><br>
+        <b>In This Mind's Decor, Sex Is No Love Seat</b><br>
+        <br>
+        <br>
+        By BEN BRANTLEY<br>
+        <br>
+        01/17/2003</font></p>
+      <p><font face=helvetica,arial size=2><br>
+        The New York Times<br>
+        Page 3, Column 4<br>
+        c. 2003 New York Times Company<br>
+        <br>
+        </font></p>
+      <font face=helvetica,arial size=2><p> 
+      <p> 
+      <font face=helvetica,arial size=2>The decor has changed a bit since this 
+      time last year. There are playing cards on the walls now and an army of 
+      dolls with long golden curls on the ceiling. But in many ways, the old place 
+      looks the same -- creepy, disorienting and astonishingly familiar. 
+      <p> 
+      <font face=helvetica,arial size=2>It's both somewhere you would never consider 
+      living and somewhere you have lived all your life. Yes, you are back in 
+      <b>Richard</b> <b>Foreman</b>'s dream house, one of the prime pieces of 
+      surreal estate in Manhattan.<br>
+      <p> 
+      <font face=helvetica,arial size=2>Every winter Mr. Foreman, who has been 
+      practicing his particular, highly potent brand of theatrical witchcraft 
+      for more than three decades, reassembles his idea of the interior of the 
+      human mind in the tiny Ontological Theater space at St. Mark's Church. And 
+      every winter pilgrims of the avant-garde show up for a dose of senses-scrambling 
+      spectacle, much as other people attend the Christmas show at Radio City 
+      Music Hall. Like their Midtown counterparts Mr. Foreman's fans are rarely 
+      disappointed. 
+      <p> 
+      <font face=helvetica,arial size=2>The title of the new show that officially 
+      opened last night is ''Panic! (How to Be Happy!).'' The promise within the 
+      parentheses is deceptive, of course. ''Panic!'' is filled with all sorts 
+      of wise-sounding statements, often spoken in sepulchral voice-overs by Mr. 
+      Foreman, which have the tantalizing quality of phrases half-remembered from 
+      dreams. 
+      <p> 
+      <font face=helvetica,arial size=2>There are dotted lines and strings segmenting 
+      the play's ornate puzzle of a set, suggesting there must be some assured 
+      ordering principle at work, if you could only figure it out. But the disconnected, 
+      questing characters in ''Panic!'' end up as bewildered and hopeful as they 
+      begin. Such, in Mr. Foreman's world, is life: one long comedy of exasperation. 
+      <p> 
+      <font face=helvetica,arial size=2>There are four main performers in ''Panic!,'' 
+      attired in ways that bring to mind a nightmare version of ''The Pirates 
+      of Penzance.'' The men (Robert Cucuzza and D. J. Mendel) look like music 
+      hall brigands; the women (Tea Alagic and Elina Lowensohn) like mangled variations 
+      on the standard Victorian virgin and vamp. 
+      <p> 
+      <font face=helvetica,arial size=2>A chorus of battered refugee types move 
+      in hieroglyphic formation and rearrange the strange, bulky objects that 
+      might be called, for want of a better word, furniture. 
+      <p> 
+      <font face=helvetica,arial size=2>Human eroticism, a dominant aspect of 
+      Mr. Foreman's work in recent years, is given especially literal-minded representation 
+      here, as the men and women couple like colliding trucks and probe one another 
+      with swords. The oversized phallic and vaginal symbols (the latter accessorized 
+      with a flitting giant bee) suggest the work of an overzealous sex-education 
+      teacher, though ''Panic!'' is perhaps not the show for introducing children 
+      to the facts of life. 
+      <p> 
+      <font face=helvetica,arial size=2>Not that the play makes the pursuit of 
+      carnal pleasure seem remotely rewarding. The impeccably precise principal 
+      players, who move and speak with the mannered zeal of automatons in search 
+      of their inner humanity, clearly get no satisfaction from sex. They seem 
+      rather lonely, actually, though not entirely despairing. 
+      <p> 
+      <font face=helvetica,arial size=2>''This is my ticket to a better life,'' 
+      says one of the women in a whisper filled with great expectations. The men 
+      keep on trying to climb a mountain (that's right) at the back of the stage 
+      even though they always fall from their ropes. And everyone responds happily 
+      to the arrival of unsightly comestibles like a ravaged Miss Havisham-style 
+      wedding cake and some fungoid substance identified as bread. ''Here's tomorrow's 
+      baked goods,'' explains the voice-over on several occasions, ''stale already.'' 
+      <p> 
+      <font face=helvetica,arial size=2>Another repeated statement, delivered 
+      in a Mickey Mouse falsetto and spliced by a wide pause: ''Let's all join 
+      . . . the misfit club.'' In ''Panic!,'' even more than in most Foreman productions, 
+      it feels as if the world is made up of nothing but misfits, that no one 
+      is meant to find a comfortable niche in a life that will always thwart and 
+      confound. 
+      <p> 
+      <font face=helvetica,arial size=2>That Mr. Foreman always extracts such 
+      joyous showmanship from this gloomy premise is one of the continuing miracles 
+      of contemporary New York theater. ''A new perspective can only repeat old 
+      patterns,'' says the voice-over in ''Panic!'' While this may be true, Mr. 
+      Foreman's continuing shift of perspectives, unlike tomorrow's baked goods, 
+      never feels stale. 
+      <p> 
+      <font face=helvetica,arial size=2>PANIC! (HOW TO BE HAPPY!) 
+      <p> 
+      <font face=helvetica,arial size=2>Written, directed and designed by <b>Richard</b> 
+      <b>Foreman</b>; stage manager, Evan Cabnet; assistant stage manager, Joshua 
+      Briggs; technical director, Michael Darling; sound and lights by Mr. Foreman; 
+      costumes by Kasia Walicka Maimone; assistant costume designer, Kathrine 
+      Wong. Presented by the Ontological-Hysteric Theater. At St. Mark's Church, 
+      131 East 10th Street, East Village. 
+      <p><font face=helvetica,arial size=2>WITH: D. J. Mendel (Nikos), Elina Lowensohn 
+        (Luminitza), Tea Alagic (Svetlana) and Robert Cucuzza (Umberto).<br>
+        <br>
+        </font> 
+      <p> 
+      <font face="courier new" size=2> 
+      <pre></pre>
+      <p> 
+      <font face=helvetica,arial size=2><br>
+      <p>Photo: D. J. Mendel, left, and Robert Cucuzza, appearing in the Ontological-Hysteric 
+        Theater's production of ''Panic!'' by <b>Richard</b> <b>Foreman</b>. (Sara 
+        Krulwich/The New York Times) 
+      </font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></font></td>
+  </tr>
+</table>
+<FONT face=helvetica,arial size=2><FONT face=helvetica,arial size=2><FONT face=helvetica,arial size=2><FONT face=helvetica,arial size=2><FONT face=helvetica,arial size=2><FONT face=helvetica,arial size=2><FONT face=helvetica,arial size=2><FONT face=helvetica,arial size=2><FONT face=helvetica,arial size=2><FONT face=helvetica,arial size=2><FONT face=helvetica,arial size=2><FONT face=helvetica,arial size=2><FONT face=helvetica,arial size=2><FONT face=helvetica,arial size=2><FONT face=helvetica,arial size=2><FONT face="courier new" size=2><FONT face=helvetica,arial size=2>
+<P>&nbsp;
+</FONT>
+<P><FONT face=helvetica,arial size=2></font><BR>
+<P><BR>
+<TABLE cellSpacing=0 cellPadding=0 width=575 border=0>
+  <TBODY> 
+  <TR> 
+    <TD>&nbsp;</TD>
+  </TR>
+  </TBODY>
+</TABLE>
+<!-- -------------------------------------------- -->
+<p></P>
+</FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT>
+</BODY></HTML>

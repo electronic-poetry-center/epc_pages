@@ -1,0 +1,235 @@
+<!DOCTYPE html>
+ 
+<HEAD><meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+
+<script type="text/javascript" src="../epcTopMenu.js"></script>
+<script type ="text/javascript" src = "../epcBottomMenu.js"></script>
+
+<TITLE>Electronic Poetry Center</TITLE>
+
+
+<!-- BEGIN TOPBAR -->
+
+<a id="EPCTextLogo" href="../index.html"></a>
+<div id="topMenu"></div>
+
+<!-- END TOPBAR -->
+
+<!-- META HTTP-EQUIV="Refresh" CONTENT=10 TARGET=_self -->
+<link rel="shortcut icon" href="../images/epc-ico.jpg" type="image/jpeg"> 
+<meta name="keywords" content="poetry, poetics">
+<meta name="description" content="A resource of the
+Electronic Poetry Center, an edited site devoted to the presentation
+of full-text resources for innovative writing.">
+
+<!--	<style type="text/css">		-->
+<!--	a { text-decoration:none }		-->
+<!--	</style>				-->
+<link href="epc_css_1.css" rel="stylesheet" type="text/css">
+
+</HEAD>
+
+<BODY bgcolor="#ffffff" 
+link="#006699" vlink="#666666" alink="#666666" 
+onload="initTopMenu(); initBottomMenu()">
+
+<!-- END TOPBAR -->
+
+<!-- ================================================== -->
+
+
+             <center><table width=80%><tr><td>
+             <! img src="./authorname.jpg"   >
+             <!  border=1 width=300 height=300 align=center>
+             <font size=2><br>
+            <! Photo credit: &copy; 1995 Photographer Name  >
+             <br><br>
+             </td><td><center><font size=6>
+             Jim Rosenberg
+             </font></center>
+		</td></tr></table></center>
+
+
+<center>
+<! a href="http://writing.upenn.edu/epc/authors/name/name.pub.html">
+     <! Bio Notes  &amp; Publications */a>
+<br>
+</center>
+
+<a href="http://www.well.com/user/jer/">Jim Rosenberg's WELL Author Page</a>.
+<hr>
+
+<p></p>
+<center>
+<font size="+2">
+Pieces for Simultaneous Voices</h1>
+     </center>
+     </font>
+
+<ul>
+     <li><a
+href="http://writing.upenn.edu/epc/authors/rosenberg/completing.ram">Completing the
+Square</a> in RealAudio.  <a
+href="http://writing.upenn.edu/epc/sound/rosenberg/completing.rm">Right-click here</a> to
+download this file before playback.
+
+     <li><a
+href="http://writing.upenn.edu/epc/authors/rosenberg/dawn-quartet.ram">Dawn Quartet</a> in
+RealAudio.  <a
+href="http://writing.upenn.edu/epc/authors/rosenberg/dawn-quartet.rm">Right-click here</a> to
+download this file before playback.
+
+     <li><a
+href="http://writing.upenn.edu/epc/authors/rosenberg/homemade-1.ram">Homemade Emphasis
+#1</a> in RealAudio.  <a
+href="http://writing.upenn.edu/epc/authors/rosenberg/homemade-1.rm">Right-click here</a> to
+download this file before playback.
+
+
+     <li><a
+href="http://writing.upenn.edu/epc/authors/rosenberg/homemade-2.ram">Homemade Emphasis
+#2</a> in RealAudio.  <a
+href="http://writing.upenn.edu/epc/authors/rosenberg/homemade-2.rm">Right-click here</a> to
+download this file before playback.
+
+     <li><a
+href="http://writing.upenn.edu/epc/authors/rosenberg/homemade-3.ram">Homemade Emphasis
+#3</a> in RealAudio.  <a
+href="http://writing.upenn.edu/epc/authors/rosenberg/homemade-3.rm">Right-click here</a> to
+download this file before playback.
+
+     <li><a
+href="http://writing.upenn.edu/epc/authors/rosenberg/intermittence.ram">Intermittence</a> in RealAudio.  
+<a
+href="http://writing.upenn.edu/epc/authors/rosenberg/intermittence.rm">Right-click here</a> to
+download this file before playback.
+
+     <li><a
+href="http://writing.upenn.edu/epc/authors/rosenberg/pheasant.ram">Pheasant Glides Upon
+Landing</a> in RealAudio.  
+<a
+href="http://writing.upenn.edu/epc/authors/rosenberg/pheasant.rm">Right-click here</a> to
+download this file before playback.
+          </ul>
+
+<p></p>
+My pieces for simultaneous voices date mostly from 1972 to 1974. All of
+this work sprang from a day that changed my life. I had arranged to visit
+David Bromige at his house in Sebastopol, California. (At the time I was
+living in Berkeley.) When I got there, I found a house overflowing with
+the voices of poets: David played tape after tape. It was a transforming
+experience. Of course I had been to many readings by that time, but had
+never thought to get a tape recorder and collect tapes. Returning back
+to Berkeley I knew I would have to begin this. Shortly after getting a
+tape recorder, as an experiment I tried overlaying several layers of some
+material I had written earlier using chance operations. What I heard was
+a strange kind of pulsing prosody, almost like syllable prosody, but at
+a much much longer wavelength. I knew two things when I heard this: that
+I didn't understand this prosody at all, and that I would have to make
+several tape pieces to find out about it. Thus began the body of work which
+has thankfully been rescued and preserved here.
+<p>The textual material that was used to make these pieces is roughly of
+two types. Some of the texts were written using formal chance procedures
+that involved extracting found material. It turned out that I was using
+almost identical procedures to those discovered more than a decade earlier
+by Jackson Mac Low (e.g. works in <i>Stanzas for Iris Lezak</i>.) Other
+texts were simply written "by hand", but with the benefit of the experience
+of formal chance operations, and using almost a kind of "mental precomposition
+and extraction" process that is hard to explain. (I recall Jackson being
+amazed that the phrases in <i>Intermittence</i> were written without using
+formal procedures.)
+<p>The methods of combining the voices into clusters likewise consist of
+both rigorous formal procedures and a much more informal approach. I have
+notebooks of catalogs of overlay structures, and for some of the pieces
+used chance operations based on such criteria as density to choose overlay
+types from an exhaustive listing of all the possible patterns. I tended
+to think of these patterns as being somewhat like types of foot, but with
+the scale vastly expanded, so that a whole phrase would play the role of
+a single syllable. In other cases much more informal methods were used
+to combine the voices. Actual documentation of dates and precise composition
+methods for these pieces does not exist, and these works were made so long
+ago that I don't always have a clear memory of just how I made them.
+<p>The earliest work is <i>Dawn Quartet</i>. As recorded this is a "bi-linear"
+piece: the left channel and right channel consist of exactly the same text,
+but the lines of one channel are read in the reverse order of the lines
+in the other channel. The lines are notated as being either voiced, whispered
+or completely silent. The <i>Home Made Emphasis</i> pieces and <i>Completing
+The Square</i> form a series. The title <i>Home Made Emphasis</i> reflects
+an acute awareness on my part that I was using consumer tape equipment
+that was not up to "radio standards". Still, as I play these pieces back
+through low-cost PC speakers, there is an odd kind of rightness to that.
+I have no clear memory of how <i>Home Made Emphasis #2</i> was made; I
+recall 1 and 3 being made by using tape loops to control the precise offset
+of the voices in each cluster, according to a procedural compositional
+scheme. (It appears my records of this are not complete, alas ...) <i>Completing
+The Square</i> is the last of the series, and I believe it was mixed at
+Radio KPFA in Berkeley and completed in 1973. There would have been no
+way to have arranged enough studio time to have used the tape loop method,
+so as I recall I recorded a large amount of material and extracted clusters
+based on resemblance to an overlay that came out of a procedural scheme.
+<i>Intermittence</i>
+was first performed (1974, I think) at the San Francisco Poetry Center.
+The recording here was made at WBAI in New York in 1975; the readers were
+Barbara Barracks, Jackson Mac Low, Sharon Matlin, and Mac McCloud. The
+score for this piece was published in <i>Scores: An Anthology of New Music</i>
+edited by Roger Johnson, Schirmer Books, New York, 1981. The score gives
+the timing and the overlay structure; each reader receives 7 pages of 3
+stanzas each and orders them however the reader would like; some pages
+are given to only one reader, some to two, and some to three. Thus each
+performance is likely to be unique. <i>The Pheasant Glides Upon Landing</i>
+is constructed from a hand-drawn Diagram Poem. I had no memory of ever
+having made a tape piece from one of my diagrams, and was quite surprised
+to encounter the diagram in an old notebook, clearly notated as a text
+for a tape piece. My tape composition notebook is full of notations from
+the making of this piece, which I can't decipher even as I look at them.
+The diagram is notated as 10/74, so the tape piece probably dates to some
+time in 1975.
+<p>In 1974 I described this work as follows:
+<blockquote>By these overlays at times no words whatever can be made out.
+What is left may be described as 100% prosody. While I very much love the
+sounds that result from these overlays as sounds, my main interest lies
+in the area of using the occurrence of words whose meaning has been "nullified"
+to reflect on the language process in the full range of its contexts, including
+semantics. That is, by hearing speech elements where the words cannot be
+made out, the ears are tuned differently than they normally would be for
+hearing words where the meaning can be made out.</blockquote>
+There are many people I need to thank for making the appearance of these
+pieces at The Electronic Poetry Center possible. As I mentioned above,
+it was David Bromige who originally launched me on this journey. Charles
+Amirkhanian provided studio time at KPFA, encouragement, and broadcast
+some of these works. Loss Peque&ntilde;o Glazier, to whom we are all indebted
+for creating The Electronic Poetry Center, arranged for my old tapes to
+be dubbed off onto DAT. Steve Bradley generously donated his time at the
+music studio of SUNY Buffalo to dub the tapes. Martin Spinelli transformed
+the DAT tapes into Real Audio and brought them to the world.
+<p>Most of all, anyone will hear at once that the spirit of John Cage looms
+large in these works. At the time that John died, a phrase came to me that
+I and some others I know found useful:
+<blockquote>John Cage: not in memoriam, but in use: in <i>continuous</i>
+use</blockquote>
+May we all keep using ...
+
+<p></p>
+<hr>
+
+<br>
+<font size=-1><I>Page edited by:  Martin Spinelli (linebrk@acsu.buffalo.edu) <br>
+1 March 2000</I></font>
+
+ 
+<!-- ================================================== -->
+
+<br><br>
+
+<!-- BEGIN BOTTOMBAR -->
+
+<font size = 3>
+<div id="bottomMenu"></div>
+<div id="copyr" ></div>
+
+</body>
+<link rel="stylesheet" type="text/css" href="../epcTopMenuStyle.css">
+<link rel="stylesheet" type="text/css" href="../epcBottomMenuStyle.css">
+</html>
+
+<!-- END BOTTOMBAR -->

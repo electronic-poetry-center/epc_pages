@@ -1,0 +1,306 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3c.org/TR/1999/REC-html401-19991224/loose.dtd">
+<!-- saved from url=(0080)http://enjoyment.independent.co.uk/low_res/story.jsp?story=534511&host=5&dir=230 -->
+<HTML><HEAD><TITLE>Independent June 24. 2004</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+<SCRIPT type=text/javascript><!--
+
+function storeCookie(key,val) { 
+	var age =  100*24*3600 * 1000;	// ms in 100 days
+	storeCookieKey( key, val, age, true );
+}//storeCookie
+	
+
+function storeCookie(key,val,age,reloadPg) { 
+	var expDate = new Date();
+	var expTime = expDate.getTime()  + age;
+	expDate.setTime( expTime );
+	 	document.cookie = 	key +"="+ val + "; expires="+ expDate.toGMTString() ;
+	
+	
+	if( reloadPg )
+		window.location.reload();
+}//storeCookie
+	
+function getCookieVal( key ){
+	var cookiesText = document.cookie;
+	var keyAt = cookiesText.indexOf(key);		//get position of key
+	 
+	 	//window.alert("Cookie Key: "+key+" is at "+ keyAt );
+	
+	  if (keyAt == -1)  return null;  
+	  
+	  var sepAt = cookiesText.indexOf("=", keyAt );					//find next seperator pos after key
+	  var endAt = cookiesText.indexOf(";", sepAt );					//find first delim. after sep.
+	  if (endAt == -1) 	  endAt = cookiesText.length; 		// Last pair has no delimiter
+	  
+	  var val = cookiesText.substring( 1+ sepAt, endAt);
+	  
+ 	 	 //window.alert("Cookie Key: "+key+" has val \n"+val);
+	  return val;
+}//func
+
+
+
+var portfolioCookie = getCookieVal( "null" );
+SHOW_SUMMARIES =   (portfolioCookie == null) || (portfolioCookie== "1") ;
+//window.status="Show summaries: "+ SHOW_SUMMARIES;
+
+function interceptClickBuyStory( premUrl, premQS, jumpUrl  ){
+	displayClickBuyStory(SHOW_SUMMARIES, premUrl, premQS, jumpUrl);
+	return false;
+}//func
+
+
+function displayClickBuyStory( showSummaries,  premUrl, premQS, jumpUrl  ){
+	if( premUrl.length > 0 ){
+		if( showSummaries )
+			window.location = jumpUrl;
+		else{
+			var btAppend = "$$$javascript:self.close();";    // ensure c&b back button functions properly.
+			var styleQS = "&style_sheet="+ getCookieVal( "style_sheet" );
+			newWindow = window.open( premUrl + "?"+ premQS + styleQS + btAppend, "portfolio_window");
+			newWindow.focus();
+		}
+	}else
+		window.location = jumpUrl;
+}//func
+
+
+
+
+function openPremXwordWin( xword, printable){		//xword is the crossword filename, printable is flag (true/false)
+	var goDirect= ! SHOW_SUMMARIES;
+	var htmlPos = xword.lastIndexOf("cryptic.html");
+	if( htmlPos > 0 )
+		xword=xword.substring(0,htmlPos);
+
+	htmlPos = xword.lastIndexOf("printable.html");
+	if( htmlPos > 0 )
+		xword=xword.substring(0,htmlPos);
+	
+	var url="/crosswords/crossword.jsp";
+	if( goDirect )
+		url = "https://bt.premium-link.net/newauth/popup0/http://bt.premium-link.net/$59096$0$/crossword.jsp";
+	if( printable )
+		url += "?printable=true";
+   	else
+	    url += "?cryptic=true";
+	
+	url += "&crossword="+ xword;
+	url += "&cb_content_name="+ escape( "Cryptic Crossword: "+ xword );
+
+	
+	if( goDirect )
+		xwordWin  = window.open(url,"xwordWin",'toolbar=1,location=0,directories=0,status=0,menubar=0,scrollbars=1,resizable=1,width=750,height=750');
+	else
+		window.location=url;
+	
+	return false; //must return false to link
+}
+
+
+function getDateString(){ 
+	var months = new Array("January","February","March","April","May","June","July","August","September","October","November","December");	
+	var today  = new Date();
+	var year  = today.getYear() , 	month = today.getMonth(),
+	dayOfWk  = today.getDay(), dayOfMonth=today.getDate() ,
+	hh  = today.getHours(),	mm = today.getMinutes();
+
+	if(year < 1000)             year += 1900;         
+	if (hh < 10 ) 	   hh= "0" + hh; 
+	if (mm< 10 )   mm = "0" + mm; 
+
+	var dateStr = dayOfMonth + " "+ months[month] + " "+ year + "  "+ hh+ ":" + mm;
+
+	return dateStr;
+	
+}//function
+
+
+function toggle(button, trueVal, falseVal){
+	if(button.value==trueVal){
+		button.value=falseVal;
+		button.checked=false; 
+	}else{
+		button.value=trueVal;
+		button.checked=true;  
+	}//else
+}//function
+
+
+function openWin1 (url){
+	openNewWin(url,520,600);
+}
+
+function openNewWin(url, w, h){
+	var atts =  'width='+w+',height='+h+',menubar=yes,scrollable=yes,resizable=no,toolbar=no,location=no,directories=no,status=0,toolbar=0,menubar=0,scrollbars=1,resizable=0';
+	var newWindow = open (url, '_blank',atts);
+	newWindow.focus ();
+	if (document.layers)
+		open (location, '_self')
+}
+
+
+
+STYLE_FILES = new Array ("BIG","style_large.css", "MEDIUM", "style_medium.css", "SMALL", "style_small.css");
+DEFAULT_STYLE = "style_small.css", DEFAULT_STYLE_KEY = "SMALL";
+
+function getStyleFile(){
+	var key = getCookieVal( "style_sheet" );
+	var file=DEFAULT_STYLE;
+	for( s=0; s< STYLE_FILES.length; s+=2 ){
+		if( key == STYLE_FILES[s] )
+			file = STYLE_FILES[s+1];
+	}//for
+	
+	//window.status = "styleKey :  "+ key;
+
+	return file;
+}//func
+
+function getStyleKey(){
+	var key = getCookieVal( "style_sheet" );
+	var setting=DEFAULT_STYLE_KEY;
+	for( s=0; s< STYLE_FILES.length; s+=2 ){
+		if( key == STYLE_FILES[s] )
+			setting = key;
+	}//for
+
+	return setting;
+}//func
+
+function getStyleSheet(){
+	document.writeln("<link rel=\"STYLESHEET\" type=\"text/css\" href=\"/includes/styles/style_main.css\">");
+	document.writeln("<link rel=\"STYLESHEET\" type=\"text/css\" href=\"/includes/styles/"+ getStyleFile() +"\">");
+	document.writeln("<style type=\"text/css\" media=\"all\">@import \"/includes/styles/style_ie.css\";</style>");	
+}//func
+
+
+
+function openWin1 (url){
+	openNewWin(url,520,600);
+}
+
+function openNewWin(url, w, h){
+	var atts =  'width='+w+',height='+h+',menubar=yes,scrollable=yes,resizable=no,toolbar=no,location=no,directories=no,status=0,toolbar=0,menubar=0,scrollbars=1,resizable=0';
+	var newWindow = open (url, '_blank',atts);
+	newWindow.focus ();
+	if (document.layers)
+		open (location, '_self')
+}
+
+
+
+function shuffleArray( dataArray, shuffles ){
+	if( dataArray.length <2)
+		return dataArray;
+	
+	var len = dataArray.length;
+	for( s=0; s< shuffles; s++ ){
+		var shuffled = new Array (len);
+		var shuffPoint =  Math.round( Math.random() * (len-1) );
+	
+		for( e=shuffPoint; e<len;  e++ )
+			shuffled[ e-shuffPoint ] = dataArray[e]; 
+		for( e=0; e<shuffPoint; e++ )
+			shuffled[ e+ (len-shuffPoint) ] = dataArray[e]; 
+	
+		dataArray = shuffled;
+	}//for
+	return dataArray;
+}//fn
+	
+function getRandomAdIds( cmpIds, optIds, totalAds ){
+	cmpIds = shuffleArray( cmpIds, 3 );
+	optIds = shuffleArray( optIds, 3 );
+	
+	var adArray = new Array( totalAds );
+	var adCount =0;
+	for( a=0; a<cmpIds.length; a++){
+		if(adCount < totalAds){
+			adArray[adCount] = cmpIds[a] ;
+			adCount++;
+		}//if
+	}
+	for( a=0; a<optIds.length; a++){
+		if( adCount<totalAds ){
+			adArray[adCount] = optIds[a] ;
+			adCount++;
+		}//if
+	}//for
+	
+	return adArray;	
+}//func
+
+function timeStampPage( refTime, serverStamp ){
+		var debug = getCookieVal( "INDY_DEBUG" );
+		if( debug != "1" )
+			return;
+		var requestTime  =  new Date( refTime );
+		var nowTime = new Date();
+		var nowTimeStamp = nowTime.getDate() + " / "+ ( nowTime.getMonth()+1)  + " / "+  new String( nowTime.getYear() ).substr(2);
+		var diff = ( nowTime.getTime() - requestTime.getTime() ) / 1000;
+	
+		document.writeln( serverStamp );
+		document.writeln( "<br>\nLocal time is "+ nowTimeStamp + " --- elapsed: " + Math.round( diff ) );
+}//fn
+	
+
+//-->
+</SCRIPT>
+<LINK href="http://writing.upenn.edu/epc/authors/bernstein/shadowtime/reviews/Independent-24-June-04_files/style.css" type=text/css 
+rel=STYLESHEET>
+<META content="MSHTML 6.00.2800.1400" name=GENERATOR></HEAD>
+<BODY class=low text=#000000 bgColor=#ffffff>
+<table width="60%" border="0" cellspacing="1" cellpadding="1">
+  <tr>
+    <td> <i><b>The Independent</b></i><b> &nbsp;(London)</b> 
+      <h1>Shadowtime, Prinzregententheater, Munich </h1>
+      <h3>By Keith Potter</h3>
+      <h4>24 June 2004</h4>
+      <p>In Munich, the British composer Brian Ferneyhough's first opera, <i>Shadowtime</i>, 
+        based on the life of the philosopher Walter Benjamin, has received its 
+        first performances. Playing for more than two hours without a break, the 
+        work's characters include not only Benjamin and his entourage, but also 
+        a whole host of more symbolic figures, including a Plato-spouting pianist 
+        in the Las Vegas club that curiously represents Benjamin's descent into 
+        the underworld.</p>
+      <p>Some of the complexities, and perhaps the problems, of <i>Shadowtime</i> 
+        derive from its inspiration in those musico-dramatic hybrids, the proto-oper- 
+        atic Rappresentazione of the turn of the 17th century. To conclude that 
+        the work is dramatically less than the sum of its musical parts - even 
+        though most of its seven scenes were initially heard as concert pieces 
+        - may be to assume what, for Ferneyhough's musical language, must be considered 
+        anachronistic conventions of linear dramatic narrative. Some scenes could, 
+        however, profitably be trimmed.</p>
+      <p>Parts of the stylistically very disjunct, mainly English, <i>libretto</i> 
+        (by the American poet Charles Bernstein and the composer himself) are 
+        rather effectively direct when sung, though the penchant for anagrams 
+        and other kinds of wordplay palls rather quickly. Even Nicolas Hodges, 
+        who appears here as an effective actor and superb pianist, could not save 
+        the uneasy mix of speech and fitfully brilliant music in the scene inspired 
+        by Dürer's <i>Melancholia I</i>. Frederic Fisbach's production cleverly 
+        attempts to clarify the dramatic complexities inherent in Ferneyhough's 
+        conception, but some of its silhouettes and black-and-white video, its 
+        puppetsand its scrolls of text become mannered through overuse.</p>
+      <p>A 15-minute guitar concerto that incongruously insinuates itself into 
+        the action as Scene 2 is a vivid example of the composer at his most intricately 
+        engaging. Yet <i>Shadowtime </i>also broadens the composer's palette. 
+        Several scenes, including Scene 3, which evocatively depicts Benjamin's 
+        aborted flight over the Pyrenees and attempts to address his central critique 
+        of reproduction, are dominated by vocal polyphony that transmutes Ferneyhough's 
+        knowledge of medieval and Renaissance choral repertoire into music of 
+        affecting beauty.</p>
+      <p>Conducted by Jurjen Hempel, the singing and the playing of an 18-piece 
+        ensemble appeared of a uncommonly high standard. Neue Vocalsoloisten Stuttgart 
+        provided all the former (with Ekkehard Abele a hard-worked Benjamin), 
+        Nieuw Ensemble Amsterdam the players.</p>
+      <p>Paris and New York are guaranteed to see <i>Shadowtime</i> this year 
+        or next, but planned shows at Sadler's Wells in September 2005 are uncertain. 
+        Can Britain avoid the usual story with the composer who has always felt 
+        himself a prophet fêted everywhere but in his own country? </p>
+    </td>
+  </tr>
+</table>
+<p>&nbsp;</p>
+</BODY></HTML>

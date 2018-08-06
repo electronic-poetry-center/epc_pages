@@ -1,0 +1,663 @@
+/***********************************************/
+/* epc_css_1.css                            */
+/***********************************************/
+
+/***********************************************/
+/* HTML tag styles                             */
+/***********************************************/ 
+body{
+	font-family: Arial,sans-serif;
+	font-size: 16px;
+	color: #333333;
+	padding: 0px;
+	text-align: left;
+	font-style: normal;
+	font-weight: normal;
+}
+
+.body_justified{
+	font-family: Arial,sans-serif;
+	font-size: 16px;
+	color: #333333;
+	padding: 0px;
+	font-style: normal;
+	font-weight: normal;
+	text-align: justify;
+}
+
+a:link, a:visited, a:hover {
+	color: #006699;
+	text-decoration: none;
+}
+
+a:hover {
+	text-decoration: underline;
+	text-align: left;
+}
+/* overrides decoration from previous rule for hovered links */
+
+
+
+ul{
+ list-style-type: disc;
+ margin-left: 80px;
+}
+
+
+
+/***********************************************/
+/* Layout Divs                                 */
+/***********************************************/
+#wrapper {
+	height: auto;
+	width: 100%;
+	margin: 0px auto;
+	padding: 0px 0px;
+}
+#masthead{
+	margin: auto;
+	padding: 10px 0px 0px 0px;
+	border-bottom: 1px solid #cccccc;
+	width: 100%;
+	}
+
+#masthead_no_bottom{
+	margin: auto;
+	padding: 10px 0px 0px 0px;
+	width: 100%;
+	}
+
+
+#navBar{
+	margin: 0px 79% 0px 0px;
+	padding: 0px;
+	background-color: #3f3;
+	border-right: 1px solid #ccc;
+	border-bottom: 1px solid #ccc;
+}
+
+#content_left{
+	float:left;
+	width: 50%;
+	margin: 0px;
+	padding: 0px;
+	text-align: left;
+	height: auto;
+	vertical-align: text-top;
+}
+
+#content_right{
+	float:left;
+	width: 49%;
+	margin: 0px;
+	padding: 0px;
+	text-align: left;
+	height: auto;
+}
+#content_left_60{
+	float:left;
+	width: 60%;
+	margin: 0px;
+	padding: 0px;
+	text-align: left;
+	height: 450px;
+	vertical-align: text-top;
+}
+
+#content_right_40{
+	float:left;
+	width: 39%;
+	margin: 0px;
+	padding: 0px;
+	text-align: left;
+	height: 450px;
+}
+.works_header_serif {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 28px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	text-align: center;
+}
+.works_header_sans_serif {
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+#content {
+	width: 100%;
+	float: left;
+	margin: auto;
+}
+
+#content2 {
+	width: 100%;
+	float: left;
+	margin: auto;
+	margin-top: 0px;
+}
+#content_1024 {
+	width: 1024px;
+	float: left;
+	margin: auto;
+}
+
+/***********************************************/
+/*Component Divs                               */
+/***********************************************/
+
+#siteName{
+	margin: 0px;
+	padding: 0px 0px 10px 10px;
+}
+.bibliog_sans_serif {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	width: 100%;
+	text-align: center;
+	height: auto;
+	margin-top: auto;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+.bibliog_sans_serif_1024 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	width: 1024px;
+	text-align: center;
+	height: auto;
+	margin-top: auto;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+/*************** #pageName styles **************/
+
+#pageName{
+	padding: 0px 0px 10px 10px;
+}
+
+
+/************* #globalNav styles **************/
+
+#globalNav{
+	color: #000000;
+	white-space: nowrap;
+	margin: 1px auto 1px auto;
+	padding: 10px 0px 0px 0px;
+	border-bottom: 1px solid #cccccc;
+	width: 100%;
+	text-align: center;
+}
+/* 'nowrap' prevents links from line-wrapping if there are too many to fit in one line
+   this will force a horizontal scrollbar if there isn't enough room for all links
+   remove rule or change value to 'normal' if you want the links to line-wrap */
+
+.center {
+	text-align:center;
+}
+.center table{
+	width: 50%;
+	margin-left: auto;
+	margin-right: auto;
+	text-align:left;
+	white-space: nowrap;
+}
+
+#globalNav img{
+ display: block;
+}
+
+#globalNav a {
+	font-size: 90%;
+	padding: 0px 4px 0px 0px; 
+}
+
+
+
+
+
+/************** .feature styles ***************/
+
+.feature{
+	padding: 0px 0px 10px 10px;
+	font-size: 80%;
+}
+
+.feature h3{
+	padding: 30px 0px 5px 0px;
+	text-align: center;
+}
+
+.feature img{
+	float: left;
+	padding: 0px 10px 0px 0px;
+	margin: 0px 5px 5px 0px;
+}
+/* adjust margins to change separation between the feature image and text flowing around it */
+
+
+/************** .story styles *****************/
+
+.story{
+	clear: both;
+	padding: 10px 0px 0px 10px;
+	font-size: 80%;
+}
+
+.story p{
+	padding: 0px 0px 10px 0px;
+}
+
+
+/************* #siteInfo styles ***************/
+
+#siteInfo{
+	clear: both;
+	font-size: 75%;
+	color: #cccccc;
+	padding: 10px 10px 10px 10px;
+	margin: 850px auto 0px auto;
+	
+	
+	width: 35%;
+}
+/* negative top margin pulls siteinfo up so its top border overlaps (and thus lines up with)
+	the bottom border of the navBar in cases where they "touch" */
+
+#siteInfo img{
+	padding: 4px 4px 4px 0px;
+	vertical-align: middle;
+}
+
+/************** #headlines styles **************/
+
+/************** #first page styles **************/
+
+.section_head_sans_serif {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 24px;
+	font-style: italic;
+	font-weight: normal;
+	margin-left: 30px;
+	color: #000000;
+}
+.section_bullet_sans_serif {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 2px;
+	line-height: 22px;
+}
+.section_bullet_sans_serif_16_22 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 22px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 2px;
+	line-height: 22px;
+}
+.section_bullet_sans_serif_with_SUB {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 2px;
+	line-height: 22px;
+	padding-bottom: 10px;
+}
+.section_head_serif {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 26px;
+	font-style: normal;
+	font-weight: normal;
+	margin-left: 50px;
+	color: #000000;
+}
+.section_bullet_serif {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 30px;
+}
+.section_bullet_serif_before_sub{
+	font-family: "Times New Roman", Times, serif;
+	font-size: 20px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+	margin-left: 30px;
+	padding-bottom:15px;
+}
+.sub_bullet_list {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: 18px;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	margin-left: 25px;
+}
+.sub_bullet_list_last {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: 18px;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	margin-left: 25px;
+	padding-bottom:10px;
+}
+
+
+
+
+#content .section_bullet_sans_serif_attribution li {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-style: normal;
+	font-weight: normal;
+	color: #000000;
+	text-decoration: none;
+}
+
+.poet_name_sans_serif {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+	text-align: center;
+	color: #000000;
+}
+.poet_name_serif {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 46px;
+	font-style: normal;
+	font-weight: normal;
+	text-decoration: none;
+	text-align: center;
+}
+.body_italic {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: italic;
+	font-weight: normal;
+}
+.body_bold {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: bold;
+	text-align: justify;
+}
+.body_small_caps {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: small-caps;
+}
+.body_small_caps_italic {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: normal;
+	font-variant: small-caps;
+}
+.body_14{
+	font-family: Arial,sans-serif;
+	font-size: 14px;
+	color: #333333;
+	padding: 0px;
+}
+.body_14_italic{
+	font-family: Arial,sans-serif;
+	font-size: 14px;
+	font-style: italic;
+	color: #333333;
+	padding: 0px;
+}
+
+.body_14_padded{
+	font-family: Arial,sans-serif;
+	font-size: 14px;
+	color: #333333;
+	line-height: 0;
+}
+.body_14_unpadded{
+	font-family: Arial,sans-serif;
+	font-size: 14px;
+	color: #333333;
+	margin-bottom: 1px;
+}
+.body_serif {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-style: normal;
+	font-weight: normal;
+}
+
+.body_serif_italic {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-style: italic;
+	font-weight: normal;
+}
+
+.body_serif_bold {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+	font-style: italic;
+	font-weight: normal;
+}
+
+.body_serif_small_caps {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: small-caps;
+}
+
+.body_serif_small_caps_italic {
+	font-family: "Times New Roman", Times, serif;
+	font-size: 14px;
+	font-style: italic;
+	font-weight: normal;
+	font-variant: small-caps;
+}
+
+
+
+
+
+
+.works_page_header {
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	font-size: 28px;
+	font-weight: bold;
+	text-align: right;
+}
+
+.works_page_header_small {
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: normal;
+	font-size: 18px;
+	font-weight: bold;
+	text-align: right;
+}
+.works_poet_name_header {
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+	font-size: 24px;
+	font-weight: normal;
+	text-align: left;
+}
+.detail {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	text-align: left;
+}
+.detail_italic {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: italic;
+	font-weight: normal;
+	font-variant: normal;
+}
+.detail_center {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	text-align: center;
+}
+
+.detail_right {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	text-align: right;
+}
+.detail_justify {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-style: normal;
+	font-weight: normal;
+	text-align: justify;
+}
+.justify {
+	text-align: justify;
+}
+.body_16_22 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: 22px;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #333;
+}
+.body_16_22_justified {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: 22px;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #333;
+	text-align: justify;
+}
+.body_16_40 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	font-style: normal;
+	line-height: 40px;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	color: #333;
+}
+.padded_div {
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.blockquote_left {
+	margin-left: 0px;
+	padding-left: 0px;
+	text-indent: 0px;
+	text-align:left
+}
+
+.thin_blockquote {
+	margin-left: 0px;
+	margin-top: 5px;
+    margin-bottom:5px;
+	padding-left: 20px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	text-indent: 0px;
+}
+
+.sub_bullet_list_zero_bottom {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: 14px;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	margin-left: 25px;
+	margin-bottom: 0px;
+	padding-bottom: 60px;
+	padding-top: 0px;
+	color: red;
+}
+.sub_bullet_list_5_bot {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: 14px;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	margin-left: 25px;
+	margin-bottom: 1px;
+	padding-bottom: 60px;
+	padding-top: 0px;
+	color: red;
+}
+.sub_bullet_list_zero_top_bottom {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-style: normal;
+	line-height: 14px;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	margin-left: 25px;
+	margin-bottom: 0px;
+	margin-top: 0px;
+	padding-bottom: 0px;
+	padding-top: 60px;
+	color: red;
+}
