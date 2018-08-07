@@ -1,0 +1,48 @@
+.bodytext {
+	FONT-WEIGHT: normal; FONT-SIZE: x-small; COLOR: #484840; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.bodytextitalic {
+	FONT-WEIGHT: normal; FONT-SIZE: x-small; COLOR: #484840; FONT-STYLE: italic; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.featuredpoet {
+	FONT-WEIGHT: bold; FONT-SIZE: medium; COLOR: #fbf8e6; LINE-HEIGHT: 24px; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.featuredpoetheader {
+	BACKGROUND-COLOR: #721632
+}
+.headers {
+	BORDER-RIGHT: #003366 0px solid; BORDER-TOP: #003366 0px solid; BORDER-LEFT: #003366 0px solid; BORDER-BOTTOM: #003366 0px solid; BACKGROUND-COLOR: #fbf8e6
+}
+.headersbanners {
+	BORDER-RIGHT: #000000 1px; BORDER-TOP: #000000 1px; BORDER-LEFT: #000000 1px; BORDER-BOTTOM: #000000 1px; BACKGROUND-COLOR: #909079
+}
+.headerstext {
+	FONT-WEIGHT: bold; FONT-SIZE: small; COLOR: #fbf8e6; LINE-HEIGHT: 20px; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.backgroundheaders {
+	BORDER-RIGHT: #003366 0px solid; BORDER-TOP: #003366 0px solid; BORDER-LEFT: #003366 0px solid; BORDER-BOTTOM: #003366 0px solid; BACKGROUND-COLOR: #d8d7b2
+}
+.volumeissuetext {
+	FONT-WEIGHT: bold; FONT-SIZE: small; COLOR: #484840; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.bodytextlastmonth {
+	FONT-WEIGHT: normal; FONT-SIZE: xx-small; COLOR: #484840; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.bodytextlastmonthbold {
+	FONT-WEIGHT: bold; FONT-SIZE: xx-small; COLOR: #484840; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.ajournaltext {
+	FONT-WEIGHT: normal; FONT-SIZE: x-small; COLOR: #fbf8e6; FONT-STYLE: normal; FONT-FAMILY: "Courier New", Courier, mono; BACKGROUND-COLOR: #47473e
+}
+.topheader {
+	BORDER-RIGHT: #003366 0px; BORDER-TOP: #003366 0px; BORDER-LEFT: #003366 0px; BORDER-BOTTOM: #003366 0px; BACKGROUND-COLOR: #b0c0ac
+}
+.bodytextbold {
+	FONT-WEIGHT: bold; FONT-SIZE: x-small; COLOR: #484840; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.bodytextbolder {
+	FONT-WEIGHT: bold; FONT-SIZE: small; COLOR: #484840; FONT-STYLE: normal; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.intheforums {
+	BORDER-RIGHT: #ffffcc; BORDER-TOP: #ffffcc; FONT-WEIGHT: bold; FONT-SIZE: x-small; BORDER-LEFT: #ffffcc; COLOR: #fbf8e6; BORDER-BOTTOM: #ffffcc; FONT-STYLE: italic; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}

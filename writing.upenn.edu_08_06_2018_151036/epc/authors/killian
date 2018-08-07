@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+ 
+<HEAD><meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+
+<script type="text/javascript" src="../epcTopMenu.js"></script>
+<script type ="text/javascript" src = "../epcBottomMenu.js"></script>
+
+<TITLE>Electronic Poetry Center</TITLE>
+
+
+<!-- BEGIN TOPBAR -->
+
+<a id="EPCTextLogo" href="../index.html"></a>
+<div id="topMenu"></div>
+
+<!-- END TOPBAR -->
+
+<!-- META HTTP-EQUIV="Refresh" CONTENT=10 TARGET=_self -->
+<link rel="shortcut icon" href="../images/epc-ico.jpg" type="image/jpeg"> 
+<meta name="keywords" content="poetry, poetics">
+<meta name="description" content="A resource of the
+Electronic Poetry Center, an edited site devoted to the presentation
+of full-text resources for innovative writing.">
+
+<!--	<style type="text/css">		-->
+<!--	a { text-decoration:none }		-->
+<!--	</style>				-->
+<link href="epc_css_1.css" rel="stylesheet" type="text/css">
+
+</HEAD>
+
+<BODY bgcolor="#ffffff" 
+link="#006699" vlink="#666666" alink="#666666" 
+onload="initTopMenu(); initBottomMenu()">
+
+<!-- END TOPBAR -->
+
+<!-- ================================================== -->
+
+
+<table width=80%>
+  <tr>
+    <td width="45%"><img src="http://writing.upenn.edu/epc/authors/killian/images/Killian_photo1.jpg"
+             border=1 width=241 height=300 align=center><font size=2><br>
+          <br>
+          <br>
+    </font></td>
+    <td width="55%"> 
+      <div align="center"><font size="7" face="Times New Roman, Times, serif">Kevin 
+        Killian</font><font size="7"> </font> </div>
+    <!a href=:"___/pub"></td>
+    <td width="55%"><img src="http://writing.upenn.edu/epc/authors/killian/images/Killian_photo2.jpg" width="304" height="300" align="middle"></td>
+  </tr>
+</table>
+<center>
+</center>
+<hr>
+<center>
+  <font size="6" face="Times New Roman, Times, serif">Online Works</font>
+</center>
+
+<p>
+
+<ul>
+  <p><font size=5><i><font face="Times New Roman, Times, serif">Poems:</font></i></font></p>
+  <li><a href="http://www.shampoopoetry.com/ShampooSeventeen/killian.html"><font face="Times New Roman, Times, serif" size="3">While 
+    You Were Out</font></a><font face="Times New Roman, Times, serif" size="3">&nbsp;|&nbsp;<i><a href="http://www.shampoopoetry.com/ShampooSeventeen/ShampooIssueSeventeen.html">Shampoo 
+    17</a></i> </font> 
+  <li><font face="Times New Roman, Times, serif" size="3"><a href="http://web.archive.org/web/20030501043808/socrates.berkeley.edu/~moriarty/3/killian.htm">Probability 
+    Zero</a>&nbsp;|&nbsp;<i><a href="http://web.archive.org/web/20030204012619/socrates.berkeley.edu/%7Emoriarty/3/contents.htm">non 
+    3</a></i> </font> 
+  <li><font face="Times New Roman, Times, serif" size="3"><a href="http://www.poetryproject.com/poets&poems/killian.html">from 
+    <i>Action Kylie</i></a>&nbsp;|&nbsp;<a href="http://www.poetryproject.com/">The 
+    Poetry Project </a></font>
+  <li><a href="http://www.onedit.net/issue4/kevink/kevink.html">from <i>Action 
+    Kylie</i></a> | <a href="http://www.onedit.net/">onedit </a>
+  <li><font face="Times New Roman, Times, serif" size="3"><a href="http://www.mipoesias.com/April2004/killian.htm">Heavy 
+    Handed, Fly and Your Disco Needs You (Video)</a>&nbsp;|&nbsp;<i><a href="http://www.mipoesias.com/April2004/index.html">MiPOesias 
+    Magazine</a></i> </font> 
+  <li><font face="Times New Roman, Times, serif" size="3"><a href="http://www.kultureflash.net/archive/90/poemkillian.html">Count 
+    Backwards, 5-4-3-2-1</a>&nbsp;|&nbsp;<i><a href="http://www.kultureflash.net/current/">Kultureflash 
+    Headlines from London</a></i></font> 
+</ul>
+<ul>
+  <p><font size=5><i><font face="Times New Roman, Times, serif">Writings:</font></i></font> 
+  </p>
+  <li><a href="http://jacketmagazine.com/25/killi-allen.html"><font face="Times New Roman, Times, serif" size="3">Obituary 
+    for Donald Allen</font></a><font face="Times New Roman, Times, serif" size="3">&nbsp;|&nbsp;<a href="http://www.jacketmagazine.com/"><i>Jacket</i></a><br>
+    </font>
+  <li> <font face="Times New Roman, Times, serif" size="3"><a href="http://jacketmagazine.com/26/ever-iv.html">Kevin 
+    Killian interviews Landis Everson</a>&nbsp;|&nbsp;<a href="http://www.jacketmagazine.com/"><i>Jacket</i></a><br>
+    </font>
+  <li><font face="Times New Roman, Times, serif" size="3"><a href="http://jacketmagazine.com/26/kill-fulc.html">Review 
+    of Fulcrum 3</a>&nbsp;|&nbsp;<a href="http://www.jacketmagazine.com/"><i>Jacket</i></a><br>
+    </font>
+  <li> <font face="Times New Roman, Times, serif" size="3"><a href="http://scc.rutgers.edu/however/v2_1_2003/current/others/killian.shtm">Kylie 
+    Minogue and the Ignorance of the West</a>&nbsp;|&nbsp;<i><a href="http://www.how2journal.com/">How(2</a></i>) 
+    </font> 
+  <li><font face="Times New Roman, Times, serif" size="3"><a href="http://www.cultureport.com/newhp/catalog/killian.html">from 
+    <i>Little Men</i></a> (&quot;Recently a friend died&quot;)&nbsp;|&nbsp;<a href="http://www.cultureport.com/hp_index.html"><i>Hard 
+    Press</i></a> </font> 
+  <li><font face="Times New Roman, Times, serif" size="3"><a href="http://jacketmagazine.com/11/kyger-killian.html">The 
+    &laquo;Carola Letters&raquo; of Joanne Kyger and George Stanley</a>&nbsp;|&nbsp;<a href="http://www.jacketmagazine.com/"><i>Jacket</i></a> 
+    </font>
+  <li><font face="Times New Roman, Times, serif" size="3"><a href="http://jacketmagazine.com/07/spicer-poetbe.html">excerpt 
+    from Poet Be Like God</a>&nbsp;|&nbsp;<a href="http://www.jacketmagazine.com/"><i>Jacket</i></a> 
+    </font>
+  <li><font face="Times New Roman, Times, serif" size="3"><a href="../conferences/reports/00/orono.html">What 
+    I Saw at the 2000 Orono Conference</a> </font> 
+  <li><font face="Times New Roman, Times, serif" size="3"><a href="../rift/rift05/revi0501.html#killian">Brief, 
+    Sketchy Report on the Blaser Conference</a>&nbsp;|&nbsp;<i>RIF/T</i> </font>
+  <li><font face="Times New Roman, Times, serif" size="3"><a href="http://www.suspectthoughts.com/camskillian.html">Untitled 
+    from <i>The Cams Project</i></a> </font>
+  <li><font face="Times New Roman, Times, serif" size="3"><a href="http://www.suspectthoughts.com/killian3.html">Introduction 
+    to <i>The Wild Creatures</i></a> </font>
+  <li><font face="Times New Roman, Times, serif" size="3"><a href="http://www.blithe.com/bhq2.3/rickdick.html">excerpt 
+    from Spread Eagle</a>&nbsp;|&nbsp;<i><a href="http://www.blithe.com/bhq2.3/bhq2.3.html">Blithe 
+    House Quarterly</a></i> </font> 
+  <li><font face="Times New Roman, Times, serif" size="3"><a href="http://www.zyzzyva.org/sp04.killian.htm">excerpt 
+    from The Big Keep, a play for Anne Waldman</a>&nbsp;|&nbsp;<i><a href="http://www.zyzzyva.org/index.htm">Zyzzyva</a></i> 
+    </font>
+  <li><font face="Times New Roman, Times, serif" size="3"><a href="http://www.thefanzine.com/sections.php?s=film&id=28&a=articles">Film 
+    Review</a>&nbsp;|&nbsp;<i><a href="http://www.thefanzine.com/">Fanzine</a></i> </font>
+  <li><font face="Times New Roman, Times, serif" size="3"><a href="http://www.amazon.com/gp/cdp/member-reviews/A30TK6U7DNS82R/103-4091758-3020655">Book 
+    reviews at Amazon.com</a> </font> 
+    <p> <font size=5><i><font face="Times New Roman, Times, serif">Sound Files:</font></i></font></p>
+  <li><a href="http://www.writing.upenn.edu/singles/index.php"><font face="Times New Roman, Times, serif" size="3">Kevin 
+    Killian at PennSound</font></a> 
+  <li><font face="Times New Roman, Times, serif" size="3"><a href="http://kcrw.com/cgi-bin/db/kcrw.pl?show_code=bw&air_date=03/18/99&tmplt_type=Show">Kevin 
+    Killian on KCRW</a></font><a href="http://www.writing.upenn.edu/singles/index.php"><br>
+    <br>
+    </a>
+    <p> <font size="5"><i><font face="Times New Roman, Times, serif">Criticism 
+      / About the Author:</font></i></font></p>
+    
+  <li><a href="http://www.suspectthoughts.com/killian.html"><font face="Times New Roman, Times, serif" size="3">Kevin 
+    Killian Webpage at Suspect Thoughts</font></a> 
+  <li><font face="Times New Roman, Times, serif" size="3"><a href="http://home.jps.net/~nada/killian.htm">Gary 
+    Sullivan interviews Kevin Killian</a>&nbsp;|&nbsp;<a href="http://home.jps.net/%7Enada/issuefour.htm"><i>readme</i></a> 
+    </font> 
+  <li><font face="Times New Roman, Times, serif" size="3"><a href="http://www.emilydickinson.org/titanic/material/khalipkillian.html">Jacques 
+    Khalip on Kevin Killian</a>&nbsp;|&nbsp;<i><a href="http://www.emilydickinson.org/titanic/index.html">Titanic 
+    Operas</a></i> </font>
+  <li><font face="Times New Roman, Times, serif" size="3"><a href="http://www.gertrudepress.org/backissues/issue9/selection9-3.html">Andrea 
+    Cumbo Dowdy interviews Kevin Killian and Dodie Bellamy</a> </font> 
+</ul>
+
+
+<table border="0" align="center">
+  <tr>
+    <td align="center"><img src="http://writing.upenn.edu/epc/authors/killian/images/Killian_Little_Men.jpg" width="144" height="230"></td>
+    <td align="center"><img src="http://writing.upenn.edu/epc/authors/killian/images/Killian_Argento.jpg" width="144" height="224"></td>
+  </tr>
+</table>
+<!-- ================================================== -->
+
+<br><br>
+
+<!-- BEGIN BOTTOMBAR -->
+
+<font size = 3>
+<div id="bottomMenu"></div>
+<div id="copyr" ></div>
+
+</body>
+<link rel="stylesheet" type="text/css" href="../epcTopMenuStyle.css">
+<link rel="stylesheet" type="text/css" href="../epcBottomMenuStyle.css">
+</html>
+
+<!-- END BOTTOMBAR -->

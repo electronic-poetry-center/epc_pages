@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+ 
+<HEAD><meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+
+<script type="text/javascript" src="../epcTopMenu.js"></script>
+<script type ="text/javascript" src = "../epcBottomMenu.js"></script>
+
+<TITLE>Electronic Poetry Center</TITLE>
+
+
+<!-- BEGIN TOPBAR -->
+
+<a id="EPCTextLogo" href="../index.html"></a>
+<div id="topMenu"></div>
+
+<!-- END TOPBAR -->
+
+<!-- META HTTP-EQUIV="Refresh" CONTENT=10 TARGET=_self -->
+<link rel="shortcut icon" href="../images/epc-ico.jpg" type="image/jpeg"> 
+<meta name="keywords" content="poetry, poetics">
+<meta name="description" content="A resource of the
+Electronic Poetry Center, an edited site devoted to the presentation
+of full-text resources for innovative writing.">
+
+<!--	<style type="text/css">		-->
+<!--	a { text-decoration:none }		-->
+<!--	</style>				-->
+<link href="epc_css_1.css" rel="stylesheet" type="text/css">
+
+</HEAD>
+
+<BODY bgcolor="#ffffff" 
+link="#006699" vlink="#666666" alink="#666666" 
+onload="initTopMenu(); initBottomMenu()">
+
+<!-- END TOPBAR -->
+
+<!-- ================================================== -->
+
+
+<h1>
+<IMG ALIGN=middle 
+SRC="../images/authors/straub.gif" border=1> 
+Peter Straub</h1>
+
+
+<!a href=:"___/pub">
+<!Bio/List
+<!_/a>
+<!of Publications and Papers:<br>
+<center>
+  <a href="http://www.peterstraub.net">PeterStraub.Net</a> 
+</center>
+
+<hr>
+
+<center><font size=6>Online Works</font></center>
+
+
+<ul>
+  <font size=5><i>Writings:</i></font> 
+  <li><a href="http://www.conjunctions.com/archives/c29-ps.htm"> 45 Calibrations 
+    of Raymond Chandler</a> from <i>Conjunctions</i>
+  <li><a href="http://www.net-site.com/straub/antholog1.htm">Excerpts from short 
+    stories</a> 
+    <center>
+      <p>&nbsp;</p>
+    </center>
+</ul>
+  <p>
+<ul>
+  <font size=5><i>Interviews:</i></font> 
+  <li><a href="http://www.darkecho.com/darkecho/archives/straub.html">Paula Gurin 
+    Omni_online Interview </a></li>
+</ul>
+<ul>
+  <font size=5><i>Audio:</i></font> 
+  <li><a
+href="http://writing.upenn.edu/epc/linebreak/programs/straub/">LINEbreak Radio 
+    Program</a> 
+  <li><a href="http://writing.upenn.edu/pennsound/x/Straub.html">Straub at PennSound </a>
+</ul>
+<!-- ================================================== -->
+
+<br><br>
+
+<!-- BEGIN BOTTOMBAR -->
+
+<font size = 3>
+<div id="bottomMenu"></div>
+<div id="copyr" ></div>
+
+</body>
+<link rel="stylesheet" type="text/css" href="../epcTopMenuStyle.css">
+<link rel="stylesheet" type="text/css" href="../epcBottomMenuStyle.css">
+</html>
+
+<!-- END BOTTOMBAR -->

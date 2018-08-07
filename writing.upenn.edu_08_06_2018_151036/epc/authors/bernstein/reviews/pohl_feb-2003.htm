@@ -1,0 +1,285 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<!-- saved from url=(0247)http://ptg.djnr.com/ccroot/asp/publib/story_clean_cpy.asp?articles=BFNW0303500101`NEUSTOP01-1044145935&search=charles%20bernstein&articledisplay=*&bHighlight=Y&Sessionid=AAAAAAAAAAAAAAAAAAAAAAAAAAAAAmxrAAAAAAAAMjAwMzAyMjQwNzM3NDIAAAAL&referer=true -->
+<!-- 
+Copyright Dow Jones & Company Inc. All Rights Reserved. 
+Release 12, build date: Thu Sep 21 16:56:13 EDT 2000
+ --><!-- /ccroot/asp/publib/story_clean_cpy.asp --><!-- Mozilla/4.0 (compatible; MSIE 6.0; Windows 98; T312461) --><!-- 0 --><HTML><HEAD><TITLE>Pohl on Bernstein</TITLE>
+<META http-equiv=Content-Type content="text/html; charset=windows-1252"><!-- Client Side API -->
+<SCRIPT language=javascript>
+
+function SetCookie (name, value) {
+ var argv = SetCookie.arguments ;
+ var argc = SetCookie.arguments.length ;
+ var expires = (argc > 2) ? argv[2] : null ;
+ var secure = (argc > 5) ? argv[5] : false;
+ document.cookie = name + "=" + escape (value) +
+ ((expires == null) ? "" : ("; expires=" + expires.toGMTString())) +
+ "; path=/" +
+ "; domain=ptg.djnr.com" +
+ ((secure == true) ? "; secure" : "");
+}
+
+function removeFromList(szKey, szValue, szDelimiter) {
+var szHiddenField, iNameStart, iNameEnd, szCurrentValue, iCurrentPos, blnValFound;
+var szSeparator = "";
+szHiddenField = document.forms[0].hState.value;
+iNameStart = szHiddenField.indexOf(szKey + "=");
+if (iNameStart != -1){
+iNameStart = (iNameStart + (szKey + "=").length);
+iNameEnd = szHiddenField.indexOf(szSeparator, iNameStart);
+if (iNameEnd == -1)
+iNameEnd = szHiddenField.length;
+szCurrentValue = szHiddenField.substring(iNameStart, iNameEnd);
+szCurrentValue = unescape(szCurrentValue);
+}
+else
+szCurrentValue = "";
+if (szCurrentValue != "") {
+szCurrentValue = unescape(szCurrentValue);
+iNameStart = 0;
+while (szCurrentValue.indexOf(szDelimiter, iNameStart) != -1) {
+iNameEnd = szCurrentValue.indexOf(szDelimiter, iNameStart);
+if (szCurrentValue.substring(iNameStart, iNameEnd) == szValue) {
+if (iNameStart == 0) {
+szCurrentValue = szCurrentValue.substring(iNameEnd + 1, szCurrentValue.length);
+}
+else {
+szCurrentValue = szCurrentValue.substring(0, iNameStart - 1) + szDelimiter +
+szCurrentValue.substring(iNameEnd + 1, szCurrentValue.length);
+}
+blnValFound = true;
+break;
+}
+iNameStart = iNameEnd + 1;
+}
+if (blnValFound) {
+replaceValue(szKey, szCurrentValue);
+}
+else {
+if (szCurrentValue.substring(iNameStart, szCurrentValue.length) == szValue) {
+if (iNameStart != 0) {
+szCurrentValue = szCurrentValue.substring(0, iNameStart - 1);
+replaceValue(szKey, szCurrentValue);
+}
+else {
+deleteKey(szKey);
+}
+}
+}
+}
+return true;
+}
+
+function appendToList(szKey, szValue, szDelimiter) {
+var szHiddenField, iNameStart, iNameEnd, szCurrentValue;
+var szSeparator = "";
+szHiddenField = document.forms[0].hState.value;
+iNameStart = szHiddenField.indexOf(szKey + "=");
+if (iNameStart != -1){
+iNameStart = (iNameStart + (szKey + "=").length);
+iNameEnd = szHiddenField.indexOf(szSeparator, iNameStart);
+if (iNameEnd == -1)
+iNameEnd = szHiddenField.length;
+szCurrentValue = szHiddenField.substring(iNameStart, iNameEnd);
+szCurrentValue = unescape(szCurrentValue);
+}
+else
+szCurrentValue = "";
+if (szCurrentValue != "")
+szCurrentValue = szCurrentValue + szDelimiter + szValue;
+else
+szCurrentValue = szValue;
+replaceValue(szKey, szCurrentValue);
+return true;
+}
+
+function replaceValue(szName, szValue) {
+var szHiddenField, strExistingNameValuePair, iNameStart, iNameEnd, iFormCount, iCounter;
+var szSeparator = "";
+szName = szName + "=";
+szValue = escape(szValue);
+szHiddenField = document.forms[0].hState.value;
+if ((szHiddenField.indexOf(szSeparator + szName.toLowerCase()) != -1) || (szHiddenField.indexOf(szName.toLowerCase()) == 0)) {
+if (szHiddenField.indexOf(szName.toLowerCase()) == 0)
+iNameStart = 0; 
+else
+iNameStart = szHiddenField.indexOf(szSeparator + szName.toLowerCase()) + szSeparator.length;
+iNameEnd = szHiddenField.indexOf(szSeparator, iNameStart);
+if (iNameEnd == -1) { 
+szHiddenField = szHiddenField.substring(0, iNameStart) + szName.toLowerCase() + szValue
+}
+else {
+if (iNameStart == 0) {
+szHiddenField = szName.toLowerCase() + szValue + szHiddenField.substring(iNameEnd, szHiddenField.length);
+}
+else {
+szHiddenField = szHiddenField.substring(0, iNameStart) + szName.toLowerCase() + szValue + szHiddenField.substring(iNameEnd, szHiddenField.length);
+}
+}
+}
+else {
+if (szHiddenField == "")
+szHiddenField += szName.toLowerCase() + szValue;
+else
+szHiddenField += szSeparator + szName.toLowerCase() + szValue;
+}
+
+iFormCount = document.forms.length;
+for (iCounter = 0; iCounter < iFormCount; iCounter++) {
+if (document.forms[iCounter].hState != null) {
+eval("document.forms[" + iCounter + "].hState.value='" + szHiddenField + "';");
+}
+}
+}
+
+function deleteKey(szName) {
+var szHiddenField, iNameStart, iNameEnd;
+var szSeparator = "";
+szHiddenField = document.forms[0].hState.value;
+if ((szHiddenField.indexOf(szSeparator + szName.toLowerCase() + "=") != -1) || (szHiddenField.indexOf(szName.toLowerCase() + "=") == 0)) {
+if (szHiddenField.indexOf(szName.toLowerCase()) == 0)
+iNameStart = 0; 
+else
+iNameStart = szHiddenField.indexOf(szSeparator + szName.toLowerCase() + "=") + szSeparator.length;
+iNameEnd = szHiddenField.indexOf(szSeparator, iNameStart);
+if (iNameEnd == -1) 
+szHiddenField = szHiddenField.substring(0, iNameStart - szSeparator.length);
+else {
+if (iNameStart == 0)
+szHiddenField = szHiddenField.substring(iNameEnd + szSeparator.length, szHiddenField.length);
+else
+szHiddenField = szHiddenField.substring(0, iNameStart - szSeparator.length) + szHiddenField.substring(iNameEnd, szHiddenField.length);
+}
+}
+iFormCount = document.forms.length;
+for (iCounter = 0; iCounter < iFormCount; iCounter++) {
+if (document.forms[iCounter].hState != null) {
+eval("document.forms[" + iCounter + "].hState.value='" + szHiddenField + "';");
+}
+}
+}
+
+function escapePlus(sourceText) {
+var outText = "";
+var thisChar = "";
+var plusChar = "+";
+var escapedPlus = "%2B";
+for (var i = 0; i < sourceText.length; i++) {
+thisChar = sourceText.charAt(i)
+if (thisChar == plusChar) {
+outText += escapedPlus;
+} else {
+outText += escape(thisChar);
+}
+}
+return outText;
+}
+function noAccess() {
+alert("");
+}
+</SCRIPT>
+<LINK media=all href="http://writing.upenn.edu/epc/authors/bernstein/reviews/Pohl-Feb-2003_files/css.txt" type=text/css rel=StyleSheet>
+<META content="MSHTML 6.00.2800.1141" name=GENERATOR></HEAD>
+<BODY>
+<P><FONT face=helvetica,arial size=2>POETRY<BR><B>INNOVATIVE MAGAZINE HELPS TO 
+CREATE 'LANGUAGE POETRY'</B><BR>R.D. POHL<BR>Special to The 
+News<BR><BR>02/02/2003<BR>Buffalo News<BR>FINAL<BR>G6<BR>(Copyright 
+2003)<BR><BR>
+<P>
+<P><FONT face=helvetica,arial size=2>This month marks the 25th anniversary of 
+the first issue of "L=A=N=G=U=A=G=E," the groundbreaking magazine published by 
+then New York City-based experimental poets Bruce Andrews and <B>Charles</B> 
+<B>Bernstein</B>. In its 13 issues and three supplements published from 1978 to 
+1981, the magazine -- which was produced as coverless photocopied and stapled 
+booklets -- had an influence on contemporary writing and poetry that far 
+outstripped its modest origins, ultimately lending its name to a constellation 
+of writing and thinking about writing that came to be known as "Language 
+Poetry." 
+<P><FONT face=helvetica,arial size=2>In a 1986 interview, Bernstein recalled the 
+motivation to publish the magazine arose from correspondences he was having with 
+Andrews and San Francisco-based poet Ron Silliman about reconceptualizing the 
+role of poetry: "The impulse for the magazine was to make that kind of exchange 
+-- more public, to share the thinking and conceptualizing with as large a group 
+as we could interest." Implicit in the exchange was a critique of mainstream 
+literary culture in the United States (which Bernstein dubbed our "official 
+verse culture") for its willfully naive assumptions about the transparency of 
+language, coherence of a narrative "self," and self- limiting assumptions about 
+gender and social class.<BR>
+<P><FONT face=helvetica,arial size=2>A quarter of a century later, Bernstein -- 
+who will read from his work at 2 p.m. Feb. 23 at the Burchfield-Penney Art 
+Center at Buffalo State College -- is recognized as perhaps our leading advocate 
+and most articulate spokesperson for critical reading strategies, innovative 
+poetries, and writing as the exploratory trace of human consciousness in 
+American literary culture. He is the author of more than 20 books of poems, 
+essays, speeches and other hybrid forms including such recent titles as "My Way: 
+Speeches and Poems" (1999), "Republics of Reality: 1975-1995" (2000) and "With 
+Strings" (2001). 
+<P><FONT face=helvetica,arial size=2>For the past 14 years, he has held the Gray 
+Chair in Poetry and Letters at the University at Buffalo and directed the UB 
+Poetics Program, where his accomplishments include co-founding the Electronic 
+Poetry Center (widely regarded as best free online resource center on 
+contemporary American poetry) and curating the extraordinary Wednesdays at 4 
+Plus Series of poetry readings, lectures, discussions and performances at UB. I 
+caught up with Bernstein between classes last week at UB, and we began this 
+discussion, which continued on in the form of e-mail over the course of several 
+days. 
+<P><FONT face=helvetica,arial size=2>Q: A quarter-century after the first issue 
+of "L=A=N=G=U=A=G=E," do you think any of the central tenets of "Language 
+Poetry" have been assimilated by what you once referred to as our "official 
+verse culture"? What do you think the legacy of the magazine and the "movement" 
+it lent its name to will be? 
+<P><FONT face=helvetica,arial size=2>A: There has been a shift in poetry 
+culture, for sure: a greater openness on the part of a large number of poets and 
+committed readers to engage with many more stylistic and formal and conceptual 
+approaches to poetry. And there has come with that a more profound 
+acknowledgment of the legacy of radical modernist American poetry. At the same 
+time, the national media -- what I like to call the "mediocracy" -- has, if 
+anything, gotten worse, with newspapers like the New York Times doing an 
+embarrassingly incompetent job in their coverage of contemporary poetry, in 
+comparison for example to their coverage of the other arts. But there is an 
+interesting paradox in your question, or anyway in my sense of the issue: The 
+poetry I have been professing all these years wants to be assimilated (or 
+accepted), but on its own terms, including its resistance to assimilation. But 
+then you don't go to poetry for consistency, or at least I don't. I like the 
+lumps and so I guess I have to take them, too. I appreciate your question (about 
+the legacy of the magazine), but for me the fact that this remains unknown is a 
+reason to continue on since the value is, as Gertrude Stein once wrote, not in 
+what is won but in what is done. 
+<P><FONT face=helvetica,arial size=2>Q: Under your leadership over the past 14 
+years, UB's Poetics Program (which offers a doctorate rather than an MA or MFA 
+as most graduate writing programs do) has become increasingly prominent on the 
+national scene as a result of its advocacy of innovative and experimental 
+poetries and the fact that it has graduated a number of talented younger 
+poet/critics who have been hired at schools like Temple, Harvard, U/Mass and 
+Wesleyan. How does the program reflect your ideas on how contemporary 
+poetry/poetics should be taught? 
+<P><FONT face=helvetica,arial size=2>A: A key feature of the graduate Poetics 
+  Program is that we are not a creative writing program but a creative reading 
+  program. Graduate students come to Buffalo to research poetry and also to create 
+  it, to write critical essays and also edit literary magazines, to teach and 
+  also to give (and curate) poetry readings. The formal, academic part of the 
+  program -- the seminars and the dissertations -- concentrate on poetics and 
+  critical thinking. So it isn't just a matter of "what" or "who" we teach, but 
+  also how we teach and the collective energies that emerge out of that work. 
+  So, yes, it has certainly brought to UB a stellar set of poets and scholars, 
+  many of whom have gone on to get good jobs and produce terrific and influential 
+  work. But while most of the attention to Poetics is, appropriately, focused 
+  on the graduate program and the Electronic Poetry Center (which was founded 
+  by Loss Glazier in the mid-1990's), for me one of the most satisfying and successful 
+  parts of my work at UB has been developing an undergraduate Poetics program. 
+  Here undegraduates get a chance to talk to visiting poets and writers almost 
+  every week and also get a chance to have an intimate engagement with modern 
+  and contemporary poetry through interactive reading workshops. For many students, 
+  it's their most intense encounter with contemporary art.<BR>
+  <BR></FONT>
+<P><FONT face="courier new" size=2><PRE></PRE>
+<P><FONT face=helvetica,arial size=2><BR>
+<P>Caption: <B>Charles</B> <B>Bernstein</B> co-founded the Electronic Poetry 
+Center.
+</FONT><P><FONT face=helvetica,arial size=2></font><BR>
+<P><BR>
+<TABLE cellSpacing=0 cellPadding=0 width=575 border=0>
+  <TBODY>
+  <TR>
+    <TD>&nbsp;</TD>
+  </TR></TBODY></TABLE><!-- -------------------------------------------- --><p></P></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></FONT></BODY></HTML>

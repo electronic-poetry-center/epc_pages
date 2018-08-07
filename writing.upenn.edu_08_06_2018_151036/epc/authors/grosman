@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+ 
+<HEAD><meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+
+<script type="text/javascript" src="../epcTopMenu.js"></script>
+<script type ="text/javascript" src = "../epcBottomMenu.js"></script>
+
+<TITLE>Electronic Poetry Center</TITLE>
+
+
+<!-- BEGIN TOPBAR -->
+
+<a id="EPCTextLogo" href="../index.html"></a>
+<div id="topMenu"></div>
+
+<!-- END TOPBAR -->
+
+<!-- META HTTP-EQUIV="Refresh" CONTENT=10 TARGET=_self -->
+<link rel="shortcut icon" href="../images/epc-ico.jpg" type="image/jpeg"> 
+<meta name="keywords" content="poetry, poetics">
+<meta name="description" content="A resource of the
+Electronic Poetry Center, an edited site devoted to the presentation
+of full-text resources for innovative writing.">
+
+<!--	<style type="text/css">		-->
+<!--	a { text-decoration:none }		-->
+<!--	</style>				-->
+<link href="epc_css_1.css" rel="stylesheet" type="text/css">
+
+</HEAD>
+
+<BODY bgcolor="#ffffff" 
+link="#006699" vlink="#666666" alink="#666666" 
+onload="initTopMenu(); initBottomMenu()">
+
+<!-- END TOPBAR -->
+
+<!-- ================================================== -->
+
+
+<h1>Ernesto Livon Grosman</h1>
+
+
+<!a href=:"___/pub">
+<!Bio/List
+<!_/a>
+<!of Publications and Papers:<br>
+<hr>
+
+<center><font size=6>Online Works<br>
+<font size="5"><a href="http://www.bc.edu/research/elg/">Grosman Page at Boston College</a></font></font>
+</center>
+
+<p>
+
+<ul><font size=5><i>Poems:</i></font>
+
+<li><a href="../rift/rift01/rift0101.html#grosman">Untitled</a> from <i>RIF/T</i> 
+<li><a href="../rift/rift04/rift0401.html#racz">"N" Number of Questions on Translation
+</a> constructed by Ernesto Livon Grosman 
+<br>from <i>RIF/T</i>
+ 
+</ul>
+
+<ul><font size="5"><i>Writings:</i></font>
+
+<li><a href="../rift/rift04/gros0401.html">Two or Three Things I Know About My Country (Club)</a> from <i>RIF/T</i> 
+</ul>
+
+<ul> <font size=5><i>Sound Files:</i></font>  
+
+<li><i><a href="http://www.writing.upenn.edu/pennsound/x/RRP.html">The Radio Reading Project</a></i>
+</ul>
+
+
+<!About the Author:<br>
+<!<ul>
+<!<li>
+<!<a href="http://writing.upenn.edu/authors/___/___">
+<!___title_of_source___</a>
+
+<!</ul>
+
+ 
+<!-- ================================================== -->
+
+<br><br>
+
+<!-- BEGIN BOTTOMBAR -->
+
+<font size = 3>
+<div id="bottomMenu"></div>
+<div id="copyr" ></div>
+
+</body>
+<link rel="stylesheet" type="text/css" href="../epcTopMenuStyle.css">
+<link rel="stylesheet" type="text/css" href="../epcBottomMenuStyle.css">
+</html>
+
+<!-- END BOTTOMBAR -->

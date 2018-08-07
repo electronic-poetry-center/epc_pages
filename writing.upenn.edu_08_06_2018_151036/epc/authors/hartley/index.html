@@ -1,0 +1,364 @@
+<!-- X-URL: http://oak.cats.ohiou.edu/~hartleyg/EPC/download/hartley.html -->
+<!-- BASE HREF="http://oak.cats.ohiou.edu/~hartleyg/EPC/download/hartley.html" -->
+
+<!-- George Hartley Home Page -->
+
+
+
+<!-- Make links relative                                       -->
+
+<!-- put images in "images" subdirectory                       -->
+
+<!-- bio/pub file should be called lastname-bio.html and/or    -->
+
+<!--                               lastname-pub.html           -->
+
+<!-- file names should be lower case, single word, and logical -->
+
+<!-- using .html extension                                     -->
+
+<!-- Do not write in top bar/bottom bar areas                  -->
+
+<!-- Thank you!                                                -->
+
+
+
+<HTML><HEAD>
+
+<TITLE>EPC/George Hartley Home Page</TITLE>
+
+<meta name="keywords" content="poetry, poetics">
+
+<meta name="description" content="A resource of the
+
+Electronic Poetry Center, an edited site devoted to the presentation
+
+of full-text resources for innovative writing.">
+
+<SCRIPT language="javascript">
+<!-- Sheilds up
+// Image Flipper -  Cameron Gregory - http://www.bloke.com/
+// http://www.bloke.com/javascript/Flipper/
+// http://www.bloke.com/javascript/Flipper/link.html
+
+function changeImage(r,i)
+{
+r.src=i;
+}
+
+function goFlipURL()
+{
+  document.location = urlSet[currentFlip];
+}
+
+function flipFlipper(imageSet,speed)
+{
+  currentFlip ++;
+  if (currentFlip == imageSet.length)
+    currentFlip=0;
+  changeImage(document.flip,imageSet[currentFlip]);
+  setTimeout("flipFlipper(imageSet,speed)", speed)
+}
+
+function FlipperLong(width,height,s,images)
+{
+/* si: start index 
+** i: current index
+** ei: end index
+** cc: current count
+*/
+ speed = s;
+ si = 0; 
+ ci=0;
+ cc=0;
+ imageSet = new Array();
+ ei = images.length;
+  for (i=1;i<ei;i++) {
+    if (images.charAt(i) == ' ') {
+      imageSet[cc] = images.substring(si,i);
+      cc++;
+      si=i+1;
+      }
+    }
+  currentFlip = 0;
+   
+ document.write("<img name='flip'");
+ if (width >0)
+    document.write("width="+width);
+ if (height >0)
+    document.write(" height=" +height);
+  document.writeln(" src=" +imageSet[0]+ ">");
+
+  setTimeout("flipFlipper(imageSet,speed)", speed)
+}
+
+function Flipper(width,height,images)
+{
+  speed=5000;
+  FlipperLong(width,height,speed,images);
+}
+
+
+function FlipperLinkLong(width,height,s,images,urls)
+{
+/* si: start index 
+** i: current index
+** ei: end index
+** cc: current count
+*/
+ speed = s;
+ imageSet = new Array();
+ urlSet = new Array();
+
+ si = 0; 
+ ci=0;
+ cc=0;
+ ei = images.length;
+  for (i=1;i<ei;i++) {
+    if (images.charAt(i) == ' ') {
+      imageSet[cc]= images.substring(si,i);
+      cc++;
+      si=i+1;
+      }
+    }
+
+ si = 0; 
+ ci=0;
+ ccu=0;
+ ei = urls.length;
+  for (i=1;i<ei;i++) {
+    if (urls.charAt(i) == ' ') {
+      urlSet[ccu]= urls.substring(si,i);
+      ccu++;
+      si=i+1;
+      }
+    }
+
+  currentFlip = 0;
+   
+ document.write("<a href="\"javascript:goFlipURL()\""><img name='flip'");
+ document.write("<img name='flip'");
+ if (width >0)
+    document.write("width="+width);
+ if (height >0)
+    document.write(" height=" +height);
+  document.writeln(" src=" +imageSet[0]+ "></a>");
+
+  setTimeout("flipFlipper(imageSet,speed)", speed)
+}
+
+function FlipperLink(width,height,images,urls)
+{
+  speed=2000;
+  FlipperLinkLong(width,height,speed,images,urls);
+}
+
+// sheilds down -->
+</SCRIPT>
+
+
+</HEAD>
+
+
+
+
+
+<!-- BEGIN TOPBAR -->
+<body bgcolor="#ffffff" link="#006699" vlink="#666666"
+alink="#666666">
+<basefont size=3>
+<nobr>
+<CENTER>
+<table><tr><td>
+&nbsp;<a href="../../new/index.html"><img
+	src="../../images/top-new.jpg"
+	align=absbottom border=0 width=37 height=18 alt="New"></A>
+| <a href="../index.html">
+	<img src="../../images/top-authors.jpg"
+	align=absbottom border=0 width=65 height=18 alt="Authors"></a>
+| <a href="../../e-poetry/index.html">
+        <img src="../../images/top-e-poetry.jpg"
+        align=absbottom border=0 width=73 height=18
+	alt="E-poetry"></a>
+| <a href="../../connects/blogs.html">
+	<img src="../../images/top-blogs.jpg"
+	align=absbottom border=0 width=44 height=18 alt="Blogs"></a>
+| <a href="../../connects/portals.html">
+	<img src="../../images/top-portals.jpg"
+	align=absbottom border=0 width=64 height=18 alt="Links Subj"></a>
+| <a href="../../poetics/index.html">
+	<img src="../../images/top-atbuffalo.jpg"
+	align=absbottom border=0 width=90 height=18 alt="@ Buffalo"></a>
+| <a href="http://www.writing.upenn.edu/pennsound/">
+	<img src="../../images/top-pennsound.jpg"
+	align=absbottom border=0 width=90 height=18 alt="PennSound"></a>
+| <a href="../../index.html">
+	<img src="../../images/top-epc.jpg"
+	align=absbottom border=0 width=33 height=18 alt="EPC"></a>
+</td></tr></table>
+</CENTER>
+</nobr>
+<hr>
+
+<!-- END TOPBAR -->
+
+
+
+
+
+             <center><table width=80%><tr><td>
+
+             <img src="hartley.jpg"
+
+             border=1 width=300 height=300 align=center>
+
+             <font size=2><br>
+
+             Photo credit: &copy; 1999 Valerie Mendoza
+
+             <br><br>
+
+             </td><td><font size=7>
+
+             George Hartley
+
+             </font></td></tr></table></center>
+
+
+
+
+
+<center>
+
+<a href="hartley-pub.html">Bio Notes 
+
+&amp;
+
+Publications</a> | 
+<a href="http://oak.cats.ohiou.edu/~hartleyg/hartley.html">Ohio Univ. Home Page</a>
+
+</center>
+
+
+
+<hr>
+
+
+
+<!-- start works ---------------------------------------------------- -->
+
+
+
+	<center><font size=6>Online Works</font></center>
+
+
+
+<ul><I><font size=5>Essays & Reviews</font></I>
+
+	<li><a
+href="pubs/sentence.html">Sentences
+in Space (Review of Ron Silliman's <i>The New Sentence</i>)</a>
+
+    <li><a
+        href="http://www.english.uiuc.edu/maps/poets/s_z/silliman/chinese.htm">On Ron Silliman's <em>The
+        Chinese Notebook</em></a></li>
+
+<li><a
+href="maclow/maclow.html">"Listen" 
+& "Relate": Notes Towards a Reading of Jackson Maclow</a>
+
+<li><a
+href="pubs/andrews.html">On Bruce Andrews's <i>Give Em Enough Rope</i></a>
+
+    <li><a
+        href="http://www.english.uiuc.edu/maps/poets/m_r/palmer/politics.htm">On Michael Palmer</a></li>
+
+
+<li><a
+href="pubs/corky.html">On Rodolfo "Corky" Gonzales's <em>I Am Joaqu&iacute;n</em></a>
+
+<li><a
+href="pubs/basho.html">On Basho</a>
+
+
+	</ul>
+
+
+
+
+
+<ul><I><font size=5>ePoetry</font></I>
+
+
+<li><a
+href="http://www.daemen.edu/pages/ggatza/george/iguana.htm">Iguana Time</a>
+
+	<li><a
+href="http://oak.cats.ohiou.edu/~hartleyg/epoetry/epoetry.html">George Hartley's ePoetry Links</a>
+
+
+	</ul>
+
+
+
+
+
+<!-- ul__I__font size=5_Sound Files_/font__/I -->
+
+	<!-- li -->
+
+	<!-- /ul -->
+
+
+
+
+
+<!--ul__I__font size=5_About the Author_/font__/I -->
+
+	<!-- li -->
+
+	<!-- /ul -->
+
+
+
+
+
+<br>
+
+<ul><font size=-1><I>Page edited by: George Hartley
+
+(July 2001)</I></font></ul>
+
+
+
+ 
+
+<!-- BEGIN BOTTOMBAR -->
+<hr>
+<CENTER>
+<font size="2" color="gray" face="arial"> 
+Send a <A HREF="../../forms/comment.html">Comment</A>
+| <a href="../../search/index.html">Search</A>
+| <a href="../../display/copyright.html">&#169;2011</a>
+| <a href="../../index.html">
+<img src="../../images/epc-top.jpg" align=absmiddle
+border=0 width=33 height=18 alt="EPC"></a>
+
+<hr>
+Electronic Poetry Center
+(<A HREF="../../index.html">http://writing.upenn.edu/epc</A>)
+</font>
+</CENTER>
+</body>
+</html>
+
+
+
+
+
+
+
+<!-- END BOTTOMBAR -->
+
+ 
+

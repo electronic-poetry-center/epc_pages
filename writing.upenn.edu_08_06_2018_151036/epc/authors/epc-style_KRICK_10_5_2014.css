@@ -1,0 +1,129 @@
+hr {color:sienna;}
+body {font-size:100%;color:black;link:blue;alink:gray;vlink:gray;}
+h1 {color:#000000;font-family:"arial";font-size:40px;}
+h2 {color:#000000;font-family:"arial";font-size:30px;}
+h3 {color:#000000;font-family:"arial";font-size:24px;}
+p.ex {color:rgb(0,0,255);}
+p {color:rgb(0,0,0);margin-bottom:10;margin-top:0;}
+a:link    {color:darkgreen;}
+a:visited {color:darkgreen;}
+a:hover   {color:red;}
+a:active  {color:lightgreen;}
+
+// USE display:inline; -- ???
+// basic table tags same
+// basic ul tags same
+
+// ================================================================
+
+// <!DOCTYPE html>
+// 
+// <head><meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+// 
+// <script type="text/javascript" src="../epcTopMenu.js"></script>
+// <script type ="text/javascript" src = "../epcBottomMenu.js"></script>
+// 
+// <title>EPC/______ Author Home Page</title>
+// 
+// <!-- BEGIN TOPBAR -->
+// 
+// <a id="EPCTextLogo" href="../index.html"></a>
+// <div id="topMenu"></div>
+// 
+// <!-- END TOPBAR -->
+// 
+// <link rel="shortcut icon" href="../images/epc-ico.jpg" type="image/jpeg" />
+// <link rel="stylesheet" type="text/css" href="../css/epc-style.css">
+// 
+// </head>
+// 
+// <body style="background-color:#E6E6FA"
+// onload="initTopMenu(); initBottomMenu()">
+// 
+// PHOTO -- NAME
+
+// <!-- ---------------------- -->
+
+// <hr>
+// <center><p style="font-size:32px">Online Works</p></center>
+
+// <ul><p style="font-size:26px"><i>Poems</i></p>
+// <li><a href="http://writing.upenn.edu/epc/authors/joris/december"> December 
+    Work</a>
+// </ul>
+
+// <!-- ---------------------- -->
+
+// <!-- BEGIN BOTTOMBAR -->
+// <font size = 3>
+// <div id="bottomMenu"></div>
+// <div id="copyr" ></div>
+// 
+// </body>
+// <link rel="stylesheet" type="text/css" href="../epcTopMenuStyle.css">
+// <link rel="stylesheet" type="text/css" href="../epcBottomMenuStyle.css">
+// </html>
+// <!-- END BOTTOMBAR -->
+
+// ================================================================
+
+// NOTES
+
+// I assume you are wanting to prevent multiple <p> tags from adding a line-break. 
+// In this event, try p {display:inline}; to modify the display property. 
+
+// light blue (e.g., as color bkgrnd) is nice #E6E6FA
+// CSS syntax: <p style="font-size:20px">
+// or maybe? <p style="font-size:110%">
+// h1 {font-size:250%}
+// h2 {font-size:200%}
+// p {font-size:100%} 
+
+// ================================================================
+
+// OLD CODE
+
+// old <body bgcolor="#ffffff" link="#006699" vlink="#666666" alink="#666666"
+// onload="initTopMenu(); initBottomMenu()">
+
+// <!DOCTYPE html>
+// <html>
+// <head>
+// <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+// <link rel="shortcut icon" href="../images/epc-ico.jpg" type="image/jpeg" />
+// <title>Electronic Poetry Center</title>
+// <link rel="stylesheet" type="text/css" href="../css/epc-style.css">
+// </head>
+
+// h1 {color:#00ff00;}
+
+// <BODY bgcolor="#ffffff" link="#006699" vlink="#666666" alink="#666666">
+// <body bgcolor="#ffffff" link="#006699" vlink="#666666"
+// alink="#666666">
+// <basefont size=4>
+// <nobr>
+
+
+// <!DOCTYPE html>
+// <HEAD><meta http-equiv="content-type" content="text/html; charset=utf-8"/>
+// <script type="text/javascript" src="../epcTopMenu.js"></script>
+// <script type ="text/javascript" src = "../epcBottomMenu.js"></script>
+// <TITLE> EPC/Glazier Author Home Page</TITLE>
+// <!-- BEGIN TOPBAR -->
+// <a id="EPCTextLogo" href="../index.html"></a>
+// <div id="topMenu"></div>
+// <!-- END TOPBAR -->
+
+// XXX
+
+// <!-- BEGIN BOTTOMBAR -->
+// <font size = 3>
+// <div id="bottomMenu"></div>
+// <div id="copyr" ></div>
+// </body>
+// <link rel="stylesheet" type="text/css" href="../epcTopMenuStyle.css">
+// <link rel="stylesheet" type="text/css" href="../epcBottomMenuStyle.css">
+// </html>
+// <!-- END BOTTOMBAR -->
+
+

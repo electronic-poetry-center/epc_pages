@@ -1,0 +1,77 @@
+<HTML>
+<HEAD>
+    <TITLE>KENNETH GOLDSMITH ___NO 111 2.7.93-10.20.96 ___</TITLE>
+    
+    <script language="javascript">
+var remoteWin = null;
+this.name = "home";
+var myBrowser = navigator.appVersion;
+function startToolbar() {
+  if (myBrowser.indexOf("X11") == 7) {
+    remoteWin = window.open("","Toolbar",'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=yes,resizable=0,width=141,height=370');
+  } else {
+    remoteWin = window.open("","Toolbar",'toolbar=0,location=0,directories=0,status=0,menubar=0,scrollbars=yes,resizable=0,width=120,height=335');
+  }
+  if (remoteWin != null) {
+    remoteWin.rootWin = self;
+    remoteWin.location = "./menu_bar.html";
+  }
+}
+function fetch(url) {
+  rootWin.location = url;
+}
+</script>
+    
+    
+    
+    
+    
+    
+    
+</HEAD>
+
+<FRAMESET ROWS="30, *" BORDER=0  onLoad="startToolbar()">	
+
+			<FRAME SRC="blank_black.html" 
+			MARGINHEIGHT="5" 
+			MARGINWIDTH="0" 
+			NAME="top" 
+			SCROLLING="no">
+	
+
+
+
+<FRAMESET COLS="40, 10, 520, *" BORDER=0>
+		
+			<FRAME SRC="blank_white.html" 
+			MARGINHEIGHT="5" 
+			MARGINWIDTH="0" 
+			NAME="left_book" 
+			SCROLLING="no">
+	
+			<FRAME SRC="blank_black.html" 
+			MARGINHEIGHT="5" 
+			MARGINWIDTH="0" 
+			NAME="space" 
+			SCROLLING="no">
+
+		
+			<FRAME SRC="0001-0100/01.html" 
+			MARGINHEIGHT="0" 
+			MARGINWIDTH="0" 
+			NAME="main" 
+			SCROLLING="auto">
+			
+			
+			<FRAME SRC="blank_black.html" 
+			MARGINHEIGHT="5" 
+			MARGINWIDTH="0" 
+			NAME="right" 
+			SCROLLING="auto">
+				
+		
+</FRAMESET>
+</FRAMESET>
+</FRAMESET>
+</FRAMESET>
+</HTML>

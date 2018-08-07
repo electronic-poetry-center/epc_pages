@@ -1,0 +1,106 @@
+<html>
+<head>
+<title>" L A K E - A F F E C T " __________________________________________________As seen in:</title>
+
+<link rel=stylesheet type="text/css"
+	href="lake.css"
+	title="alonso">
+
+<style type="text/css">
+<!-- 
+body {width:750px;background:#5B6E5F;font-size:10pt;font-family:Garamond,'Times New Roman',Times,serif;}
+
+h1 {width:94%;font:normal italic 6.8em Garamond,'Times New Roman',Times,serif;color:#483800;
+		text-align:center;position:absolute;left:0.9em;top:1em;padding-left:0.5em;}
+
+p.fecha {padding-top:2em}
+p.fecha:first-letter {font-size:1em;}
+
+div.tapa {margin-right:50px;}/* EXPLORER SE RESISTE AL PADDING */
+ 
+a:link {color:#999999;border:0;}
+a.alonso:link {color:#212921;}
+a:visited {color:#212921;}
+a:hover {font-size:0.9em; font-weight:bold; color:#FFFFFF;}
+a.alonso:hover {font-size:0.9em; font-weight:bold; color:#FFFFFF;}/*Netscape6 no lo heredó*/ 
+-->
+</style>
+
+ <script language=JavaScript>
+	<!-- 
+	tiempo = 20;
+	numero = 16;
+	mensaje = "L A K E   A F F E C T";
+	sea = new Array(1);
+      	  sea[0]=mensaje;
+        	nada = "                                                                ";
+        	for (i=1; i<32; i++)
+        	{
+	                b = nada.substring(0,i);
+      	          sea[i]="";
+            	    for (j=0; j<mensaje.length; j++) sea[i]=sea[i]+mensaje.charAt(j)+b;
+        	}
+
+	function lento()
+	{
+	        if (numero > -1) bien = sea[numero]; else bien = sea[0];
+      	  if (numero-- < -400) numero=31;
+      	  status = bien;
+      	  clearTimeout(tiempo);
+      	  tiempo = setTimeout("lento()",90);
+	}
+
+	dayName = new Array ("Sunday","Monday","Tuesday","Wednesday",
+					"Thursday","Friday","Saturday")
+
+		monName = new Array ("January","February","March","April","May","June","July",
+					"August","September","October","November","December")
+
+		now = new Date
+
+	// -->
+ </script>
+</head>
+
+<body topmargin=5 marginheight=5 marginwidth=5 leftmargin=5 width="750px" onload=lento()>
+ <img src="images/color.gif">
+ <table width=750px height=90% border=0>
+  <tr>
+   <td width=26% align=left valign=top>
+    <p class=fecha>
+	<script language=javascript type="text/javascript"> 
+	<!--
+	document.write(dayName[now.getDay()]+", "+monName 
+	[now.getMonth()]+ " "+now.getDate()+", " + now.getFullYear()+".")
+	//-->
+	</script>
+    </p>
+   </td>
+   <td width=70%>
+    <div class=tapa>
+     <a href="homestead.html">
+      <img class=foto src="images/contrapicado.jpg" border=0>
+      <br><!-- ESTE BR ES PARA QUE N-4.7 NO DESPLACE LA FOTO; TAMBIÉN REQUIERE EL border=0 -->
+     </a>
+    </div>
+   </td>
+  </tr>
+ </table>
+ <address class=tapa>&#124; Design by 
+  <a href="http://alonso_illustration.tripod.com/index.html" class=alonso>
+   Alonso &Aacute;lvarez de Araya
+  </a> 
+  &copy; 2001. &#124; 
+  <a href="mailto:rutty@acsu.buffalo.edu">
+   Lake Affect Web
+  </a>
+  &#124;<br>
+  &#124; All photographs by David Stockton. &#124;<br>
+  &#124; Best seen with <b>Opera</b> 3.6+, <b>Internet Explorer</b> 5 or <b>Netscape</b> 6. &#124;<br>
+  &#124; Designed for a screen resolution of 800 x 600 pixels. &#124;
+ </address>
+ <h1 style="font-style:italic;font-weight:normal;font-size:6.8em;">
+  Lake Affect
+ </h1><!-- EL inline STYLE ES POR N-6 -->
+</body>
+</html>

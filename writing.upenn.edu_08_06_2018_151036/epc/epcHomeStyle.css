@@ -1,0 +1,72 @@
+body {
+	font-family: Helvetica;
+	width: 1024px;
+}
+
+#authorAndTwitter {
+	margin-left: 112px;
+	margin-top:10px;
+	height:400px;
+}
+
+#authorDiv {
+	float: left;
+	width: 400px;
+	height: 400px;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	cursor: pointer;
+	position: relative;
+}
+
+#twitterBox {
+	background-color: #0090A0;
+	text-shadow: 1px 1px 4px #000000;
+	color: #FFFFFF;
+	float: left;
+	text-align: center;
+	border-width: 2px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	width: 400px;
+	height: 400px;
+	position: relative;
+}
+
+#epct {
+	text-align: center;
+	padding-top: 5px;
+}
+
+.twitterMenuElement {
+	margin: 3px;
+	width: auto;
+	height: auto;
+	background-color: #008080;
+	color: #FFFFFF;
+	padding: 3px;
+	float: left;
+	border-width: thin;
+	border-style: solid;
+	border-color: #AABBBB;
+}
+
+#tm1 {
+	margin-left: 8px
+}
+
+.twitterMenuElement:hover {
+	cursor: pointer;
+	cursor: hand;
+}
+
+.twitterFeed {
+	position: absolute;
+	width: 350px;
+	height: 300px;
+	margin: 20px;
+	margin-top: 50px;
+	margin-left: 25px;
+	visibility: hidden;
+}

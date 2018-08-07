@@ -1,0 +1,2817 @@
+=========================================================================
+Date:         Tue, 5 Jul 1994 22:51:56 -0500
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.BITNET>
+Sender:       UB Poetics discussion group <POETICS@UBVM.BITNET>
+From:         Charles Bernstein <BERNSTEI@UBVMS.BITNET>
+Organization: University at Buffalo
+Subject:      Warren Tallman / from Robert Creeley
+X-To:         poetics@UBVMS.BITNET
+
+--Boundary (ID oTjVMpHWBpRrJM1RImBFWg)
+Content-type: TEXT/PLAIN; CHARSET=US-ASCII
+
+
+Date: Tue, 5 Jul 1994 08:31:59 EST
+From: CREELEY@ubvms.cc.buffalo.edu
+Subject: Warren Tallman
+
+We've had the sad advice from his family that Warren Tallman died yest-
+erday (July 4) in Vancouver, British Columbia, thankfully at home and
+without difficulty.  It's hard to imagine the present fact of Canadian
+poetry and its relation to our own sans the immense effort which Warren
+Tallman made in his years as a teacher at the University of British Col-
+umbia, and, even more, as the indefatigable reader and friend of all the
+defining poets of both countries.  In 1962, for example, Warren's students
+at UBC included Daphne Marlatt, Fred Wah, George Bowering, Gladys Hind-
+march, Lionel Kearns,and David Bromige, among many others.  The landmark
+1963 Vancouver Poetry Conference was almost entirely Warren's remarkable
+invention, bringing together for the first time a decisive company of then
+disregarded poets such as Denise Levertov, Charles Olson, Allen Ginsberg,
+Robert Duncan, Margaret Avison, Philip Whalen and myself, together with
+as yet unrecognized younger poets of that time, Michael Palmer, Clark
+Coolidge and many more.  Be it said that Warren wrote the first decisive
+piece on Jack Kerouac's skills as a writer, "Kerouac's Sound," published
+in the Evergreen Review.  Donald Allen and he subsequently edited together
+POETICS OF THE NEW AMERICAN POETRY, a crucial backup of Don's initial anth-
+ology which, seemingly, changed everything.  Warren's two substantial col-
+lections of essays report and review the tenets of poetry which underlie
+the revolution he had so much to do with.
+
+All that can finally be checked out.  What will be sorely missed is the
+singular insight and invention Warren brought to his relations with poetry
+and poets.  He was a great reader, a great, great heart.  Defined by the
+American Great Depression, he believed absolutely that books mattered,
+that what people can think of and so imagine is true, that it can really
+happen.  So it was that he brought Robert Duncan first to Vancouver, to
+talk with his students in a series of meetings, all managed by the money
+they could themselves modestly and communally provide.  Jack Spicer's last
+articulate lectures were fact of the same circumstance.  I was able to
+teach for a year at UBC at a time when virtually no other job was possible,
+just that Warren BELIEVED.  I cannot overemphasize the significance of such
+a power.  It's as if Warren brought not only the US and Canada together in
+such interests, but that he really brought western Canada's poetry into the
+international world it now helps to define and keep possible.
+
+Well, this can be the beginning, I hope, of what can now continue as
+Warren's work: bringing it all home, keeping the beat, making that joyful
+sound.  Warren loved the sense of "mother tongue" always.  He really knew
+how to listen.
+
+Here's to you, brother, forever.
+
+                                                      Robert Creeley
+
+--Boundary (ID oTjVMpHWBpRrJM1RImBFWg)--
+=========================================================================
+Date:         Sun, 10 Jul 1994 19:14:05 -0400
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Loss Glazier <lolpoet@ACSU.BUFFALO.EDU>
+Subject:      Announcement: Electronic Poetry Center (Buffalo)
+
+The Electronic Poetry Center (Buffalo)       7-10-94
+
+________________________Announcement________________________
+
+THE ELECTRONIC POETRY CENTER (BUFFALO).  The mission of this
+World-Wide Web based electronic poetry center is to serve as
+a hypertextual gateway to the extraordinary range of
+activity in formally innovative writing in the United States
+and the world.  The Center will provide access to numerous
+electronic resources in the new poetries including RIF/T and
+other electronic poetry journals, the Poetics List archives,
+a library of poetic texts, news of related print sources,
+and direct connections to numerous related poetic projects.
+The Center's first phase of implementation is scheduled for
+August 1, 1994.  A subscription to the E-Poetry list
+provides a subscription to the electronic journal RIF/T and
+E-Poetry Center announcements.  Subscriptions to E-Poetry to
+listserv@ubvm.cc.buffalo.edu  Inquiries, suggestions for
+Center resources, submissions to RIF/T, and other mail may
+be directed to e-poetry@ubvm.cc.buffalo.edu  The Center is
+located at gopher://writing.upenn.edu/11/internet/library/e-
+journals/ub/rift  (Presently, the prototype is under
+construction but operational.)
+
+     Gopher Access:
+     For those who have access to gopher, type
+                   gopher writing.upenn.edu
+     (or, if you are on a UB mainframe, simply type wings)
+     at your system prompt.  First choose Libraries &
+     Library Resources, then Electronic Journals, then E-
+     Journals/Resources Produced Here At UB, then The
+     Electronic Poetry Center.  (Note:  Connections to some
+     Poetry Center resources require Web access, though most
+     are presently available through gopher).
+
+     World-Wide Web Access:
+     For those with World-Wide Web or lynx access, type www
+     or lynx at your system prompt.  Choose the go to URL
+     option then go to (type as one continuous string)
+          gopher://writing.upenn.edu/11/internet/
+          library/e-journals/ub/rift
+
+___Participation in the Electronic Poetry Center (Buffalo)___
+
+For those interested in helping us build the Center, our
+goal is to provide a single Internet site that offers a
+doorway into the different poetic projects out there in the
+electronic (and paper) poetics world.  We would like to
+offer access to information about poetics and poetry
+activities, electronic poetry journals, texts in progress,
+etc.  We are currently developing a library of electronic
+poetry/poetics texts (submissions to e-poetry@ubvm.cc.
+buffalo.edu).  The Center has other exciting possibilities:
+     1.   Circulation of electronic journals with an
+emphasis on direct links to those of relevance to Center
+concerns;
+     2.   Reviews of recent print and electronic
+publications.  (Brief reviews may also be submitted
+electronically to e-poetry@ubvm.cc.buffalo.edu);
+     3.   Direct links to other related electronic sites;
+     4.   Multimedia resources.  Sound and graphics relating
+to poetry.
+     5.   Building our Small Press Alcove, a place for
+little magazine and book announcements.  The point of
+including announcements of paper resources is to provide a
+listing of interesting work for people to look at; they can
+then write or e-mail the publisher to obtain publications.
+(Send announcements to lolpoet@acsu.buffalo.edu or
+magazines/books to Loss Glazier, E-Poetry, P.O. Box 143,
+Getzville, NY 14068-0143);
+     6.   Ultimately, the Center could also offer
+collaborative projects (perhaps for specific groups of
+writers), lists and/or archives of other lists, and texts-in-
+progress, as things develop.
+
+The "Buffalo" in the title of the Center is not meant to
+suggest that this activity is limited to Buffalo, only to
+give the "visitor" a sense of place, i.e., where the
+mainframe that's providing this service is "located."
+Vigorous writing wants to "circulate."  On this new
+electronic terrain, the Electronic Poetry Center will serve
+as a gathering place or point of entry for a range of poetic
+efforts.
+
+______________________How to Contact Us_____________________
+
+Please contact us with your suggestions, texts, sound files,
+and graphics files to submit, or if you have expertise in
+these areas.  LET US KNOW WHAT YOU THINK (this is meant to
+be a Center that grows with your ideas) by posting to this
+list, sending mail to E-Poetry, or to Loss Glazier (lolpoet@
+acsu.buffalo.edu) or Kenneth Sherwood (v001pxfu.ubvms.cc.
+buffalo.edu) privately.
+
+_____________________________________________________________
+
+The Archive is administered in Buffalo by E-Poetry and RIF/T
+in coordination with the Poetics List.
+
+                    Loss Pequen~o Glazier
+                    for Kenneth Sherwood and Loss Glazier
+                    in collaboration with Charles Bernstein
+=========================================================================
+Date:         Tue, 12 Jul 1994 18:00:23 -0500
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Michael Metzger <MLLMIKEM@UBVMS.BITNET>
+Organization: University at Buffalo
+Subject:      Anybody have a clue? M Metzger
+
+From:   IN%"WIG-L%UCBCMSA.BITNET@UBVM.cc.buffalo.edu"  "WIG-L - Women in German"
+    11-JUL-1994 11:10:29.43
+To:     IN%"WIG-L%UCBCMSA.BITNET@UBVM.cc.buffalo.edu"  "Multiple recipients of l
+   ist WIG-L"
+CC:
+Subj:   author/title/publisher search
+
+Return-path: <@UBVM.CC.BUFFALO.EDU:owner-wig-l@CMSA.BERKELEY.EDU>
+Received: from UBVM.cc.buffalo.edu by ubvms.cc.buffalo.edu (PMDF V4.2-14 #5889)
+ id <01HEKTFFEB7K8WW2SL@ubvms.cc.buffalo.edu>; Mon, 11 Jul 1994 11:09:39 EST
+Received: from UBVM.CC.BUFFALO.EDU by UBVM.cc.buffalo.edu (IBM VM SMTP V2R2)
+ with BSMTP id 4133; Mon, 11 Jul 94 11:07:11 EDT
+Received: from UBVM.CC.BUFFALO.EDU (NJE origin LISTSERV@UBVM) by
+ UBVM.CC.BUFFALO.EDU (LMail V1.2a/1.8a) with BSMTP id 4174; Mon,
+ 11 Jul 1994 11:07:11 -0400
+Date: Mon, 11 Jul 1994 15:54:36 +0000
+From: Karin McPherson <GERKMDMS@SRV0.ARTS.EDINBURGH.AC.UK>
+Subject: author/title/publisher search
+Sender: WIG-L - Women in German <WIG-L%UCBCMSA.BITNET@UBVM.cc.buffalo.edu>
+To: Multiple recipients of list WIG-L <WIG-L%UCBCMSA.BITNET@UBVM.cc.buffalo.edu>
+Reply-to: WIG-L - Women in German <WIG-L%UCBCMSA.BITNET@UBVM.cc.buffalo.edu>
+Message-id: <01HEKTFJQK5I8WW2SL@ubvms.cc.buffalo.edu>
+Organization: Arts
+Content-transfer-encoding: 7BIT
+
+I  would be grateful for any information on the following : Maurice
+Ransone (author) The Wasteland (title) 1990 or `92( publication date).
+It is a parody of Eliot's poem. Where has it appeared? Is it
+available? Who are
+the publishers? Karin McPherson, Department of German, University of
+Edinburgh, DHT, George Square, EH8 9JX, Scotland.
+=========================================================================
+Date:         Tue, 12 Jul 1994 17:46:25 -0500
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Joe Amato <jamato@UX1.CSO.UIUC.EDU>
+Subject:      The Waste Land...
+
+uhm, i dunno if this is what you're looking for, but harper & row published
+martin rowson's _the waste land_ in 1990---a comic art parody of eliot's
+work... the protagonist is l.a. private eye christopher marlowe etc...
+
+joe
+=========================================================================
+Date:         Thu, 14 Jul 1994 16:40:55 +0000
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.BITNET>
+Sender:       UB Poetics discussion group <POETICS@UBVM.BITNET>
+From:         Karin McPherson <GERKMDMS@SRV0.ARTS.EDINBURGH.AC.UK>
+Organization: Arts
+Subject:      search: the Waste Land
+
+information found by Joe Amato. author: Martin Rowson. The Waste
+Land. Harper &Row 1990. Many thanks to all who helped.
+Karin McPherson
+=========================================================================
+Date:         Fri, 15 Jul 1994 11:31:20 -0400
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.BITNET>
+Sender:       UB Poetics discussion group <POETICS@UBVM.BITNET>
+From:         Chris Funk <CF2785@ALBNYVMS.BITNET>
+Subject:      des crypt ions of an I U (she he it we you they)
+
+        Not getting enough from / giving enough to
+
+                     your university?
+
+                Sign up for DIU, a weekly from  cf2785@albnyvms.bitnet
+
+                            POETICS travellers thus far describing
+                                        an Imaginary University
+                        include black hole sun; Thus, Albert or Hubert;
+                                PJ; BG &tc
+
+
+
+
+
+
+
+
+                --Boundary (ID 7R/p22VzziXb+AmYddNjOQ)--
+=========================================================================
+Date:         Fri, 15 Jul 1994 23:18:45 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.BITNET>
+Sender:       UB Poetics discussion group <POETICS@UBVM.BITNET>
+From:         Steve Evans <ST001515@BROWNVM.BITNET>
+Subject:      Des Cryptionists: An Inquiry
+
+Chris,
+
+Knowing you, I am inclined to enroll in your imaginary university (department
+of incidental poetics)--but could you perhaps dilate ever so slightly on
+what you're up to?  I post this to the general list, rather than to you
+directly, since others may be as puzzled and intrigued as I am.
+
+Thanks.
+=========================================================================
+Date:         Mon, 18 Jul 1994 00:03:47 -0500
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.BITNET>
+Sender:       UB Poetics discussion group <POETICS@UBVM.BITNET>
+From:         Charles Bernstein <BERNSTEI@UBVMS.BITNET>
+Organization: University at Buffalo
+Subject:      repost for CF/ RE: In Si Dental Poetics
+
+From: cf2785@csc.albany.edu
+Date: Sat, 16 Jul 1994 10:24:06 -0400 (EDT)
+
+
+Subject: Re:  Dept. of In Si Dental Poetics
+
+
+
+Steve,
+
+   Hope all goes well in Providence.
+
+   Up to a bunch of things. It was someone else
+who kicked this new/sletter into gear -- accidentally, of course --
+then, energy being what it is in addition to our ALWAYS READY stance --
+well, you can decide for yourself what it is & isn't as reposting this
+week's edition below (apologies to those who are on the direct list
+ALready) -- next week's version will feature a scathing rebuttal by
+marianne moore to bhs's course description among other things.
+   We all have our peeves regarding university curriculae, here is a
+place for I or I to begin again. As usual, a myriad of editors handling
+the materials...
+
+   We welcome all contributions/suggestions--           paz--
+
+                                                chris           funkhouser
+
+
+>                          DIU 2
+>
+>           14 July 94
+>
+>
+>
+>
+>
+> course description
+>
+> "american poetry"
+>
+> required texts:
+>
+>       walt whitman
+>       drum-taps
+>
+>       marianne moore
+>       selected poems, 1935
+>
+>       frederico garcia lorca
+>       poeta en nueva york
+>
+>       john wieners
+>       behind the state capital or cincinnati pike
+>
+>       joanne kyger
+>       the wonderful focus of you
+>
+>
+> what does it mean to be an american?  & once we think we discover this
+>  meaning, what to do with it?  for if poetry arises in the gap, not between
+>  sense and nonsense, but sense and PURPOSELESSNESS (this will be our first
+>  thesis), then the TASK of poetry will be a confrontation with nonsense, in
+>  the hope that purpose lies that side of the continuum (this will be our
+>  second thesis).
+>
+>  what to do with what we know (not to mention, how to act given what we
+>  DON'T know) is poetry's preeminent question.
+>
+>  we begin with war; pause to consider the pleasures and discoveries of the
+>  imperial eye, the grace our language attained when it gave in--without
+>  blinking--to the intellectual grandeur of the I, a sure center sure of
+>  its own morality; we'll then study--without blinking--the aftereffects
+>  of this assumption of power, the poverity and madness which the center
+>  always deposits at its margins; and we'll conclude by considering america's
+>  prospects in the coming ante-time
+>
+>
+>  a digest:
+>
+>  "Look down fair moon and bathe this scene, / pour softly down night's
+>  nimbus floods on faces ghastly, swollen, purple..."
+>     whitman
+>
+>  "Slow / To remark the steep, too strict proportion / Of your throne, you'll
+>  see the wrenched distortion / Of suicidal dreams / Go / Staggering toward
+>  itself and with its bill / Attack its own identity, until / Foe seems
+>  friend and friend seems / Foe"
+>     moore
+>
+>  "Porque ya no hay quien reparta el pan ni el vino / ni quien cultive
+>  hierbas en la boca del muerto" ("For see:  there is none to apportion the
+>  bread and the wine / or cultivate grass in the mouths of the dead")
+>     lorca
+>
+>  "If I tread the straight and narrow / I should no trouble, do what's /
+>  expected of me, realize my friends / are not my enemies, and get rid of
+>   // them both..."
+>     wieners
+>
+>  "The seemingly inexhaustible / sophistication of awareness becomes
+>  relentless and horrible, / trapped.  How am I ever going to learn enough to
+>  get out"
+>     kyger
+>
+>                                   --black hole sun
+>
+>
+>
+>
+>
+> The utopian schemes that have informed us of our possibilities-- Brook
+> Farm, the Marxist stateless state and even the endlessly progressing
+> capitalist economy, guided by an invisible hand or by liberal bureacracies--
+> were equally predicated not upon the order of foundational knowledge but
+> upon an order of  minds in the thrall of the sublime. The profound moment
+> of insight, enlightenment, revolution is not vision but the catastrophe of the
+> imagination.  It is the shattering of the image, of the old style, of the
+> conventional view, of _ancien regime_, and so forth that leaves one unsettled
+> but grasping a profound point of a knowledge.  The site of the revelation is
+> not directly open to inspection, and especially not available for a second
+> look, but, as it--whatever it is--recedes from view, it confirms the the
+> confidence in the utopian possibility, and it can be brought back to the edge
+> of view by the next careful negotiation of imagination into spectacular
+> collapse.
+>
+> For nearly two hundred years, art had been a matter of tearing through the
+> surface of rationality, convention, and social stultification in order to
+> maintain access to the surprise of life as such. For the generation of artists
+> born of the World War II and after, however, everything they'd learned was
+> wrong.  The techniques of the artists who had interested them in art in the
+> first place, whom they had admired and thought to imitate, turned out to be
+> inappropriate to this new condition. Dadaism lives:  it is taught at in the
+> Harvard M.B.A. program. Surrealism lives: it  is taught to computer
+> programmers at M.I.T. (some might say, mathematics has proven so strange,
+> that it is taught even in the math department).  Our architects, our lawyers
+> are modernist purveyors of chaos (to say nothing, of course, of the faceless
+> committees which generate what we call the media).
+>
+> There is no point, in the face of unbridled growth economies, to recall
+> wild nature in tranquility, to practice nihilistic techniques of art and
+> thought, to do automatic writing, or to create chance generated art.  Chaos
+> no longer needs the help of art.  The techniques that delivered fresh air in
+> 1810 or 1910 contributed (though contributed insignificantly) by 1970 to a
+> proliferation of incomprehensible energy.  The Dadaists never managed to
+> exhibit the degree of chaos that Robert Smithson records in his photographs
+> of Passaic, New Jersey.
+>
+> If the task of the artists is to right the balance between consciousness and
+> unconsciousness, they must now cast their lot with consciousness.  It is the
+> unconscious itself which is manifesting as uncontrolled production.  If the
+> task of the artists is to right the balance between order and chaos, they must
+> now cast their lot with order-- with construction, not deconstruction. This
+> involves large scale reordering of the practice of art, in order to serve the
+> same function.
+>
+>                                             --Thus, Albert or Hubert
+>
+>
+>
+>
+>
+>
+> air.txt radiostation wrpi 91.5 fm troy, ny 7 july 94 0811-1200
+>
+>
+> George Quasha/Charles Stein--"life on the flying carpet"/anthology '85
+>      (cassette)
+> Eric Dolphy--"Burning Spear"/Iron Man
+> -
+> Bob Marley & the Wailers--"Positive Vibration|Wake Up and Live|I
+>      Shot the Sheriff|Dem Belly Full|Concrete Jungle|Ambush in the Night|
+>      You Can't Run Away From Yourself|Heathen Writing|Natty Dread
+>      Rides Again|War"/live Santa Cruz 12/79 (cassette)
+> Public Enemy--"Harry Allen's Interactive Super Highway Phone Call
+>      to Chuck D"/Give It Up
+> -
+> Chico Freeman--"title song|Freedom Swing Song|Lookup|Nia's Song
+>      Dance|Morning Prayer"/Peaceful Heart, Gentle Spirit
+> Mutabaruka--"People's Court Pt. II"/Melanin' Man
+> -
+> Lou Harrison--"Threnody"/Just West Coast
+> -
+> Cecil Taylor w/Workshop Ensemble--"Legba Crossing"/Legba Crossing
+> Diedre Murray/Fred Hopkins--"Systems"/Stringology
+> -
+> Mission of Burma--"Trem Two"/vs.
+> Mission of Burma--"That's When I Reach for my Revolver|Outlaw|
+>      Fame & Fortune"/Signals, Calls, Marches
+> Mission of Burma--"Forget|Peking Spring"/ep
+> Mission of Burma--"Academy Fight Song"/45 rpm
+> -
+> Lisa Germano--"the earth"/happiness
+> John's Black Dirt--"Movements"/Perpetual Optimism is a Force Multiplier
+> Lisa Germano--"Miamo-tutti"/happiness
+> -
+> Bheki Mselku--"Ntuli Street"/Timelessness
+> Michael Lally--"Healing Poem"/cd   b/w
+> Henry Threadgill Very Very Circus--"Some Place"/live at Koncepts
+
+>
+>
+>
+>
+>
+>                          DIU is a weekly newsletter directed towards
+>                           Descriptions of an Imaginary University
+>                         (c)irculated by the Logic of Snowflakes
+>                          hypersidiary of We Press, USA
+>
+>                                  to contribute or receive previous
+>                           presentations "write" to cf2785@albnyvms.bitnet
+>
+>
+>
+>
+>
+>
+>
+>
+>
+
+
+--Boundary (ID e1kFdHVOPTZu0qDO+h0Ogw)--
+=========================================================================
+Date:         Mon, 18 Jul 1994 00:57:57 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.BITNET>
+Sender:       UB Poetics discussion group <POETICS@UBVM.BITNET>
+From:         Steve Evans <ST001515@BROWNVM.BITNET>
+Subject:      Citation for Golding on Anthologies?
+
+If anyone has it at their fingertips, I need to be reminded
+of where Alan Golding published an article on the history of
+poetry anthologies (in 20th-century U.S.).
+
+I'm hoping to get a little perspective on the Messerli,
+Hoover, Weinberger collections, as well as to push along
+some work I'm doing on the use of group anthologies by
+the Objectivists, the New York School, and the language
+writers.  If people have suggestions beyond the Golding
+I would be very interested in seeing them.
+
+P.S.  Thanks to Chris for the first course listings from
+the Imaginary University.  Now how bout the financial aid
+packets for our imaginary incomes?
+=========================================================================
+Date:         Mon, 18 Jul 1994 00:45:54 -0400
+Reply-To:     ubc.ca@unixg.ubc.ca
+Sender:       UB Poetics discussion group <POETICS@UBVM.BITNET>
+From:         peter quartermain <unixg.ubc.ca@MAIL.UNIXG.UBC.CA>
+Subject:      Re: Citation for Golding on Anthologies?
+
+Alan Golding: "A History of American Poetry Anthologies."
+     _Canons_. edited by R. von Hallberg.
+     Chicago, Chicago UP 1984, 279-308.
+You might also find useful a long piece I did as Appendix to
+     _Dictionary of Literary Biography_ Vol 54: American Poets
+     1880-1945 [3rd series part 2] (Detroit: Gale, 1986), 579-676
+     "A Survey of Poetry Anthologies 1879-1960." This is an annotated
+     list preceded by a brief discussion of trends. It reprints a
+     number of prefaces and introductions (eg _Active Anthology_)
+     and the Tables of Contents, but unfortunately omits (permission
+     to reprint was withheld at the page-proof stage) Zukofsky's _An
+     "Objectivists" Anthology_, which thus gets appallingly and
+     undeservedly short shrift. The "Survey" does not (overall)
+     include textbooks.
+          I also discuss briefly the fortune of some of these (and
+     some text-book anthologies) in the general introduction (called
+     "Foreword") to Vol 54, Part 1. This foreword also appears in Vols
+     45 and 48: _DLB: American Poets &c_ 1st and 2nd Series, and was
+     reprinted in slightly revised form [with full documentation]
+     in _Sagetrieb_ 9.3 (Winter 1990): 7-29.
+          There's lots more on all this stuff *somewhere*, but right
+     now I'm in the throes of packing for a three week vacation
+     starting tomorrow (today, where you are). If you want more,
+     ask again around 5 August when (MAYBE) I can lay my stupid
+     hands on my scattered notes. But Alan Golding will have
+     answered you by then, surely. He knows more than anybody.
+Cheers,
+Peter Quartermain
+=========================================================================
+Date:         Mon, 18 Jul 1994 10:31:13 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.BITNET>
+Sender:       UB Poetics discussion group <POETICS@UBVM.BITNET>
+Comments:     Converted from PROFS to RFC822 format by PUMP V2.2X
+From:         Alan Golding <ACGOLD01@ULKYVM.LOUISVILLE.EDU>
+Subject:      Citation for Golding on Anthologies?
+In-Reply-To:  note of 07/18/94 01:07
+
+Associate Professor of English, U. of Louisville
+Phone: (502)-852-5918; e-mail: acgold01@ulkyvm.louisville.edu
+
+I figure I ought to be qualified to respond to this one. The essay is "A
+History of American Poetry Anthologies" in Robert von Hallberg's edited
+collection Canons (Univ. of Chicago Press 1984): 279-307. A revised and
+updated version with some material on Weinberger and Hoover will appear as the
+first chapter in my forthcoming From Outlaw to Classic: Canons in American
+Poetry (U of Wisconsin Press early 1995). I have an essay in progress called
+"Approaching the Present in American Poetry Anthologies" that deals with
+Weinberger Hoover et al and with mainstream anthologies since the mid-1970s.
+If anyone's interested in the updated book chapter or the work in progress
+(I've given the latter as a talk so it's in more or less readable and coherent
+shape) just drop me a note; both pieces have notes/bibliographies that might
+suggest further resources. As regards the recent anthologies I'm sure there
+are a ton of reviews that I don't know about (a mini-bibl. of reviews for
+those anthologies would actually be a useful project for someone to take on)
+but the exchanges in American Poetry Review are lively: John Yau's original
+review followed by Weinberger's response and Yau's response to the response;
+and Burt Hatlen reviewed the Weinberger collection in Sagetrieb. So Steve--you
+might look at those pieces if you haven't already done so.
+=========================================================================
+Date:         Mon, 18 Jul 1994 10:40:08 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.BITNET>
+Sender:       UB Poetics discussion group <POETICS@UBVM.BITNET>
+Comments:     Converted from PROFS to RFC822 format by PUMP V2.2X
+From:         Alan Golding <ACGOLD01@ULKYVM.LOUISVILLE.EDU>
+Subject:      Citation for Golding on Anthologies?
+In-Reply-To:  note of 07/18/94 01:07
+
+Associate Professor of English, U. of Louisville
+Phone: (502)-852-5918; e-mail: acgold01@ulkyvm.louisville.edu
+
+Dear Steve Evans--In my first reply to your post I forgot to mention that I
+also have a section of the forthcoming book on Brooks and Warren's
+Understanding Poetry--just in case you're interested in that earlier material.
+=========================================================================
+Date:         Mon, 18 Jul 1994 15:10:23 GMT+1200
+Reply-To:     aloney@engnov1.auckland.ac.nz
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Alan Loney <aloney@ENGNOV1.AUCKLAND.AC.NZ>
+Organization: The University of Auckland
+Subject:      Jerome McGann
+
+Hello people,
+
+does anyone have an e-mail address for Jerome McGann, author of A Critique of
+ Textual Criticism, among other texts. I'd be very grateful for this info.
+
+Many thanks, in anticipation.
+
+Alan Loney.
+=========================================================================
+Date:         Mon, 18 Jul 1994 18:54:08 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Steve Evans <ST001515@BROWNVM.BITNET>
+Subject:      Anthologies
+
+Thanks to Alan, Peter, and the several back-channel saints who
+responded so quickly to the query I posted yesterday.  I am
+again awed and a little humbled by the capacity this medium has
+for instancing acts of generosity.
+
+I agree with Alan that a mini-bibliography of reviews of the
+anthologies would be useful for many of us on this list: should we
+agree to volunteer whatever information we run across in our indiv-
+idual researches?  If people are afraid of cluttering the band with
+multiple posts of the same information, I will  volunteer to receive
+mail on the subject and post updates for the list  as new sightings
+warrant.
+
+Let me know if this sounds like a good idea.
+
+Best to everyone.../Steve
+=========================================================================
+Date:         Mon, 18 Jul 1994 20:44:10 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         klindberg <KLINDBE@CMS.CC.WAYNE.EDU>
+Subject:      Re: Anthologies
+In-Reply-To:  Message of Mon, 18 Jul 1994 18:54:08 EDT from
+              <ST001515%BROWNVM.BITNET@UBVM.cc.buffalo.edu>
+
+Sounds like a good idea to me.  I have recently been fascinated by the
+way that polemical anthologies, ones including sustained academic essays
+as well as "in your face" wishes and fabrications, made the Harlem
+Renaissance.  But then this has always been the case.  Whether or not they
+sold or did the job intended, such projects do, in retrospect, mark
+recurrent modernisms variously named.
+Enough of that shit.  Eh?
+Let me say that we are in an excellent position with our new electronic nets.
+We can turn retrospects into prospects and nullify the need to apologize
+even as we meta-anthologize.  What fun.  Hope it isn't rude to be ironic.
+I am not, in any case, being ironic.  I will be as helpful and/or quiet
+as I can in the anthology and other projects.
+=========================================================================
+Date:         Mon, 18 Jul 1994 23:52:15 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Jed Rasula <RASULAJ@QUCDN.QUEENSU.CA>
+Subject:      Re: Citation for Golding on Anthologies?
+In-Reply-To:  Message of Mon, 18 Jul 1994 10:31:13 EDT from
+              <ACGOLD01@ULKYVM.LOUISVILLE.EDU>
+
+Thanks to Steve's question, a gratifying convocation of replies; to which I can
+add my own take on Weinberger --as set off against McClatchy's *Vintage Antholo
+gy*-- forthcoming in *American Literary History*. That essay constitutes the
+final chapter of my book *The American Poetry Wax Museum* (& a belated thanks
+to Charles's plug on this list earlier in the summer); but in the wake of the
+Hoover & Messerli collections I'm planning on reconceiving that chapter in
+August as the book goes to press. So any discussion that unfolds here between
+now and then will not only be welcome, but duly noted in the result (I have yet
+to see biblio-credits for e-mail discussions in print, but surely they've happe
+ned & there must be some unfolding protocol).
+                                              --Jed Rasula
+=========================================================================
+Date:         Tue, 19 Jul 1994 00:13:12 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Marc Nasdor <ABOHC@CUNYVM.BITNET>
+Subject:      Re: Citation for Golding on Anthologies?
+In-Reply-To:  Message of Mon, 18 Jul 1994 23:52:15 EDT from
+              <RASULAJ@QUCDN.QUEENSU.CA>
+
+Boycott all poetry anthologies! They're a needless waste of wood pulp.
+
+-Nasdor
+=========================================================================
+Date:         Tue, 19 Jul 1994 10:58:27 -0400
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Pierre Joris <joris@CSC.ALBANY.EDU>
+Subject:      Re: Anthologies
+In-Reply-To:  <9407182317.AA17857@sarah.albany.edu> from "Steve Evans" at Jul
+              18, 94 06:54:08 pm
+
+I'm on the road so I don't have the exact info available, but re
+anthologies, there is also an interesting piece by Clayton Eshleman
+analyzing the Norton MODERN POETRY antho. I believe it appeared in the
+AWP newsletter --or, more probably in fact in the AMERICAN BOOK
+REVIEW.
+
+=======================================================================
+Pierre Joris          |"The great pain afflicting mankind, from child-
+Dept. of English      | hood until death, is that looking and eating are
+SUNY Albany           | two different operations. Eternal beatitude is
+Albany NY 12222       | a state in which to look is to eat." Simone Weil
+tel&fax:(518) 426 0433|
+      email:          | "He who leaves a trace, leaves an abcess."
+joris@csc.albany.edu  |                              Henri Michaux
+=======================================================================
+=========================================================================
+Date:         Tue, 19 Jul 1994 11:37:30 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Comments:     Converted from PROFS to RFC822 format by PUMP V2.2X
+From:         Alan Golding <ACGOLD01@ULKYVM.LOUISVILLE.EDU>
+Subject:      Anthologies
+In-Reply-To:  note of 07/18/94 19:18
+
+Associate Professor of English, U. of Louisville
+Phone: (502)-852-5918; e-mail: acgold01@ulkyvm.louisville.edu
+
+Dear Steve--Your idea for pooling information sounds good to me. But then I'm
+a literary historian and secret biblio-drone . . . Nasdor won't like it!
+
+Alan G.
+=========================================================================
+Date:         Tue, 19 Jul 1994 10:38:05 CST6CDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Hank Lazer <HLAZER@AS.UA.EDU>
+Organization: Arts and Sciences Dean's Office
+Subject:      Re: Anthologies
+
+Pierre--
+
+When will the Rothenberg/Joris 20th Century Poetry anthology be out
+from U of California Press?  Could you send me a Table of Contents?
+
+Thanks.
+
+Hank Lazer
+
+P.S. Say hello to Jerry & Diane for me....
+=========================================================================
+Date:         Tue, 19 Jul 1994 11:50:56 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Comments:     Converted from PROFS to RFC822 format by PUMP V2.2X
+From:         Alan Golding <ACGOLD01@ULKYVM.LOUISVILLE.EDU>
+Subject:      Re: Anthologies
+In-Reply-To:  note of 07/19/94 11:01
+
+Associate Professor of English, U. of Louisville
+Phone: (502)-852-5918; e-mail: acgold01@ulkyvm.louisville.edu
+
+Just for everyone's information: the Clayton Eshleman essay that Pierre Joris
+refers to is "The Gospel According to Norton," in American Poetry Review,
+Sept./Oct. 1990: 33-41. And yes, watch for Jed Rasula's forthcoming book--a
+mine both of useful information and analysis thereof, including on virtually
+every post-World War II anthology published.
+
+Alan Golding
+=========================================================================
+Date:         Tue, 19 Jul 1994 11:54:41 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Marc Nasdor <ABOHC@CUNYVM.BITNET>
+Subject:      Re: Anthologies
+In-Reply-To:  Message of Tue, 19 Jul 1994 10:58:27 -0400 from
+              <joris@CSC.ALBANY.EDU>
+
+Clayton Eshleman's analysis of the Norton Anthology of Modern Poetry
+appeared in the American Poetry Review, Vol. 19/No. 5 -- September/October 1990
+with Ann Lauterbach's mugshot on the cover.
+
+--Regards,       Marc Nasdor
+=========================================================================
+Date:         Tue, 19 Jul 1994 11:59:23 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Marc Nasdor <ABOHC@CUNYVM.BITNET>
+Subject:      Re: Anthologies
+In-Reply-To:  Message of Tue, 19 Jul 1994 11:37:30 EDT from
+              <ACGOLD01@ULKYVM.LOUISVILLE.EDU>
+
+Nah, I wuz jus' joshing. Otherwise, I'd better sell my 20 or 30 anthologies.
+
+--Nasdor
+
+
+
+                         :-)
+=========================================================================
+Date:         Tue, 19 Jul 1994 16:09:29 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         klindberg <KLINDBE@CMS.CC.WAYNE.EDU>
+Subject:      Re: Anthologies
+In-Reply-To:  Message of Tue, 19 Jul 1994 11:59:23 EDT from
+              <ABOHC%CUNYVM.BITNET@UBVM.cc.buffalo.edu>
+
+Still, one might keep in mind one small detail about the "economy" of
+anthologies:  the law of diminishing financial and intellectual returns
+to the poet(s).  It would seem that inflation also a/effects
+the reception of anthologies.  To say nothing about Pound's anthologizing,
+his criticism and competition in this (fallow and/or easily penetrated)
+field of the market.
+In short, nothing more on anthologies. . . .
+=========================================================================
+Date:         Wed, 20 Jul 1994 09:36:40 -0700
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Tenney Nathanson <NATHANSO@CCIT.ARIZONA.EDU>
+Subject:      presumably all have seen this but
+
+Forwarded message:
+> From kenb@oregon.cray.com Tue Jul 19 23:24 CDT 1994
+> From: kenb@oregon.cray.com (Ken Beversdorf)
+> Message-Id: <9407200358.AA05884@snapper.cray.com>
+> Subject: Matters of Personal Privacy....
+> To: ALL-CRI@timbuk.cray.com
+> Date: Tue, 19 Jul 1994 20:58:15 -0800 (PDT)
+> X-Mailer: ELM [version 2.4 PL22]
+> Content-Type: text
+> Content-Length: 7273
+>
+> > To all Employees of Cray Research and Cray Research Superservers:
+> >
+> > This will directly affect the privacy of your childs and possibly
+> > your own personal data. Please read and be informed.  This is for
+> > your own personal benefit if you value your privacy.
+> >
+> > Ken Beversdorf
+> >
+> > ***************************************************************************
+> >
+> > > Subject: Privacy at risk: Educational Records
+> > >
+> > >
+> > >                                              Seattle CPSR Policy Fact Sheet
+> > >                                       K-12 Student Records: Privacy at Risk
+> > > ---------------------------------------------------------------------------
+> > >
+> > > TOPIC
+> > >
+> > > The U.S. education system is rapidly building a nationwide network of
+> > > electronic student records.  This computer network will make possible the
+> > > exchange of information among various agencies and employers, and the
+> > > continuous tracking of individuals through the social service, education
+> > > and criminal justice systems, into higher education, the military and the
+> > > workplace.
+> > >
+> > > WHAT IS THE ISSUE?
+> > >
+> > > There is no adequate guarantee that the collection and sharing of personal
+> > > information will be done only with the knowledge and consent of students or
+> > > their parents.
+> > >
+> > > Changes Are Coming to Student Records
+> > > National proposals being implemented today include:
+> > >
+> > > -  An electronic "portfolio" to be kept on each student, containing
+> > >    personal essays and other completed work.
+> > >
+> > > -  Asking enrolling kindergartners for their Social Security Numbers,
+> > >    which will be used to track each student's career after high school.
+> > >
+> > > -  Sending High school students' transcripts and "teachers' confidential
+> > >    ratings of a student's work-related behavior," to employers via an
+> > >    electronic network called WORKLINK.
+> > >
+> > > At the heart of these changes is a national electronic student records
+> > > network, coordinated by the federal government and adopted by states with
+> > > federal assistance.
+> > >
+> > > Publication 93-03 of the National Education Goals Panel, a federally
+> > > appointed group recently empowered by the Goals 2000 bill to oversee
+> > > education restructuring nationally, recommends as "essential" that school
+> > > districts and/or states collect expanded information on individual
+> > > students, including:
+> > > -  month and extent of first prenatal care,
+> > > -  birthweight,
+> > > -  name, type, and number of years in a preschool program,
+> > > -  poverty status,
+> > > -  physical, emotional and other development at ages 5 and 6,
+> > > -  date of last routine health and dental care,
+> > > -  extracurricular activities,
+> > > -  type and hours per week of community service,
+> > > -  name of post-secondary institution attended,
+> > > -  post-secondary degree or credential,
+> > > -  employment status,
+> > > -  type of employment and employer name,
+> > > -  whether registered to vote.
+> > >
+> > > It also notes other "data elements useful for research and school
+> > > management purposes":
+> > > -  names of persons living in student household,
+> > > -  relationship of those persons to student,
+> > > -  highest level of education for "primary care-givers,"
+> > > -  total family income,
+> > > -  public assistance status and years of benefits,
+> > > -  number of moves in the last five years,
+> > > -  nature and ownership of dwelling.
+> > >
+> > > Many of these information categories also were included in the public draft
+> > > of the 'Student Data Handbook for Elementary and Secondary Schools',
+> > > developed by the Council of Chief State School Officers to standardize
+> > > student record terminology across the nation.  State and local agencies
+> > > theoretically design their own information systems, but the handbook
+> > > encourages them to collect information for policymakers at all levels.
+> > > Among the data elements are:
+> > > -  evidence verifying date of birth,
+> > > -  social security number,
+> > > -  attitudinal test,
+> > > -  personality test,
+> > > -  military service experience,
+> > > -  description of employment permit (including permit number,)
+> > > -  type of dwelling,
+> > > -  telephone number of employer.
+> > >
+> > > WHO CAN ACCESS THIS COMPREHENSIVE INFORMATION?
+> > >
+> > > Officers, employees and agents of local, state and federal educational
+> > > agencies and private education researchers may be given access to
+> > > individual student records without student or parent consent, according to
+> > > the federal Family Educational Rights and Privacy Act of 1974 (20 USC
+> > > 1232g) and related federal regulations (34 CFR 99.3).  Washington state law
+> > > echoes this federal law.
+> > >
+> > > WHAT IS COMING NEXT?
+> > >
+> > > Recent Washington state legislation (SB 6428, HB 1209, HB 2319) directly
+> > > links each public school district with a self-governing group of social
+> > > service and community agencies that will provide services for families.
+> > >
+> > > This type of program is described in detail in the book, Together We Can,
+> > > published jointly by the U.S. Department of Education and the U.S.
+> > > Department of Health and Human Services.  The book speaks of "overcoming
+> > > the confidentiality barrier," and suggests creating centralized data banks
+> > > that gather information about individuals from various government agencies -
+> > > or in other ways ensuring agencies, "ready access to each other's records."
+> > >
+> > > The book calls for a federal role in coordinating policies, regulations and
+> > > data collection.  A group in St. Louis, MO, called Wallbridge Caring
+> > > Communities, is cited as a model for seeking agreements to allow computer
+> > > linkups with schools and the social service and criminal justice systems to
+> > > track school progress, referrals and criminal activity.
+> > >
+> > > WHAT HAPPENED TO ONE COMMUNITY
+> > >
+> > > In Kennewick, WA, over 4,000 kindergarten through fourth graders were rated
+> > > by their teachers on how often they lie, cheat, sneak, steal, exhibit a
+> > > negative attitude, act aggressively, and whether they are rejected by their
+> > > peers.  The scores, with names attached, were sent to a private psychiatric
+> > > center under contract to screen for "at-risk" students who might benefit
+> > > from its programs.  All of this was done without the knowledge and consent
+> > > of the children or their parents.
+> > >
+> > > CPSR's POSITION
+> > >
+> > > CPSR Seattle believes that schools other agencies should minimize the
+> > > collection, distribution and retention of personal data.  Students and/or
+> > > their parents should decide who has access to detailed personal
+> > > information.
+> > >
+> > > CPSR ACTIONS
+> > >
+> > > Representatives of CPSR Seattle have gone to Olympia to:
+> > > -  oppose the use of the Social Security Number as the standard student
+> > >    identifier,
+> > >
+> > > -  urge legislators to set educational goals that can be measured without
+> > >    invading privacy,
+> > >
+> > > -  oppose turning over individual student records to law enforcement
+> > >    officials apart from a court order or official investigation.
+> > >
+> > >     Computer Professionals for Social Responsibility - Seattle Chapter
+> > >            P.O. Box 85481, Seattle, WA 98145-1481 (206) 365-4528
+> > >                       cpsr-seattle@csli.stanford.edu
+> > >
+> > >
+> > >            --- CPSR ANNOUNCE LIST END ---
+> > >
+> >
+> >
+>
+>
+
+-------------------------------------------------------------------
+Mike Zwinger
+Cray Research, Inc.
+Phone: (612) 683-5099
+=========================================================================
+Date:         Wed, 20 Jul 1994 13:39:01 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Marc Nasdor <ABOHC@CUNYVM.BITNET>
+Subject:      Re: Anthologies
+In-Reply-To:  Message of Tue, 19 Jul 1994 16:09:29 EDT from
+              <KLINDBE@CMS.CC.WAYNE.EDU>
+
+Hmmm--
+
+Well, Klindberg, that's fine except that anthologies are frequently used for
+the purposes of "recanonization" by the very people who would like to see
+the "opposing" canon debunked. One cannot have it both ways. But consider that
+poetry magazines may serve a greater purpose directly due to their perceived
+limited shelf life. Anthologies--while retaining some nostalgia value for those
+who wish to revisit their intellectual youth--are stagnant pools attracting
+little more than mosquitos, while journals are more indicative of the actual
+state of literary life; i.e., there is the assumption of impermanence, and
+everyone is forced to keep on their toes. I prefer to sort out the interesting
+from the mediocre on my own, thank you. If I must have my literature filtered,
+I'd rather depend on a greater number of editors than a smaller number of
+agenda-toting anthologists to provide that service.     Regards, Marc Nasdor
+=========================================================================
+Date:         Wed, 20 Jul 1994 16:38:11 -0500
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Joseph Conte <ENGCONTE@UBVMS.BITNET>
+Organization: University at Buffalo
+Subject:      Literary Biography
+
+        Now that we're fully assembled and have adjusted our headsets for
+color and vertical roll, I'd like to invite anyone with an interest in
+literary biography to contribute to a two-volume series that I'm editing
+for the _Dictionary of Literary Biography_ (Gale Research Press) on
+American poets after 1945.  So far there are some fifty entries in
+progress, including Brett Millier on Elizabeth Bishop, Robert Bertholf on
+Robert Duncan, Tom Gardner on John Ashbery, Miriam Nichols on Robin Blaser,
+and Mark Scroggins on Louis Zukofsky.  Entries range from 5000 to 10,000
+words.  The entries are literary biographies, but the principal focus is
+the presentation and appraisal of the poet's complete work in chronological
+fashion.  All contributors to the volume receive an honorarium from the
+publishers, a copy of the volume, and offprints of their entry.
+
+        I'm particularly interested to hear from anyone willing to write on
+David Antin, Amiri Baraka, Clark Coolidge, Louise Gluck, David Ignatow,
+Kenneth Koch, Adrienne Rich, Jerome Rothenberg, or Ron Silliman.  I'm open
+to other suggestions, assuming that the poet is appropriate to the volume
+and not already assigned.
+
+        If you're at all interested in contributing, please respond to me
+personally (i.e. off-list).  I'd be happy to answer any questions you might
+have about the project, or take suggestions for subjects and/or
+contributors.
+
+Thanks.
+
+Joseph Conte
+
+______________________________________*_________________________________________
+                                      |
+Joseph M Conte                        |    "Where is the figure in the
+Department of English                 |     carpet?  Or is it just . . .
+SUNY at Buffalo                       |     carpet?" he asked.  "Where is--"
+ENGCONTE@ubvms.bitnet                 |     "You're talking a lot of
+ENGCONTE@ubvms.cc.buffalo.edu         |     buffalo hump, you know that."
+                                      |          Donald Barthelme
+______________________________________*________________________________________
+=========================================================================
+Date:         Wed, 20 Jul 1994 19:37:58 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         klindberg <KLINDBE@CMS.CC.WAYNE.EDU>
+Subject:      Re: Anthologies
+In-Reply-To:  Message of Wed, 20 Jul 1994 13:39:01 EDT from
+              <ABOHC%CUNYVM.BITNET@UBVM.cc.buffalo.edu>
+
+Well, in as much as it is a point worth making, I believe that was something of
+my point.  The realities of classroom teaching at universities such as
+my own raise the issues of anthologies with a certain urgency, or so it is
+thought.  My irony--whether caught, missed, or intended (Ah Ha)--was in some
+fashion motored by why the greatest activity I have seen for some time on
+this network was centered around questions so market driven.  Wouldn't  it,
+then, be more interesting to talk about the market than the anthologies?
+Or is that what we are doing?  Please feel free to respond in anger or pique;
+such responses please.  Anyway, really, I do mean that, while one is interested
+in the production and distribution of anthologies, other poetic(s)/political
+issues might be more pressing.  I apologize for any, if not all, offenses.
+=========================================================================
+Date:         Wed, 20 Jul 1994 19:51:25 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         klindberg <KLINDBE@CMS.CC.WAYNE.EDU>
+Subject:      Re: Literary Biography
+In-Reply-To:  Message of Wed, 20 Jul 1994 16:38:11 -0500 from
+              <ENGCONTE%UBVMS.BITNET@UBVM.cc.buffalo.edu>
+
+Question for Joseph Conte.  I ask this one over the net, since it might
+prevent a flood of repetitions of the same question.  Just to be helpful, as
+is my nature, if you will.
+
+What do you mean by American?  Do you seek info. on poets from the Caribbean,
+perhaps even those who find themselves morooned, as 't were in the US?
+
+Will this volume update, supersede, articulate with, say, the DLB volume
+devoted to the Beats?
+I guess those are more than the promised "question."  I didn't mean to be so
+helpful with irony-ing.
+=========================================================================
+Date:         Wed, 20 Jul 1994 22:15:26 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Steve Evans <ST001515@BROWNVM.BITNET>
+Subject:      Anthslide
+
+I think Kathryne's bemusement about the sudden  activity here on
+the list around "questions so market driven" is on the whole well
+placed.  It may be that the anthologies--which will not, I suspect,
+break too many sales records--raise as a question something we
+otherwise take for granted: namely, that poetry's resistance to
+integration through the market, its failure as a commodity, is one
+of its decisive, albeit negative, attributes.
+
+Meanwhile, though their economic effects will be minimal, the symbolic
+effects of these anthologies could be quite formidable--the legitimation
+of the language writers may in fact have reached its apogee with them (for
+instance). One thing I find myself thinking about is how little these
+collections have risked by way of recasting the *form* of the anthology:
+a patent contradiction considering how much of the work included is by
+poets who sought radical transformations not only of poetic but also
+cognitive forms.  This fundamental conservatism makes the utility of
+each of the volumes dubious to me even in terms of classroom use.  I don't
+want to romanticize the practice (time-consuming and often difficult) of
+making xerox-anthologies, but as someone who was taught, and now does teach,
+from them, I don't envision the new volumes individually or in combination
+offering a better alternative.  I would, on the other hand, have liked to
+see something such as McGann has done with his Oxford volume of Romantic
+Period Verse, where one witnesses something of the unfolding of a field
+of practice in history: neither Weinberger's thematic editing, nor Hoover's
+conventional birth-dating, nor Messerli's combination of the two, seem very
+soundly motivated to me.  (Even Allen's, at the time controversial, clustering
+of movements drew on principles of division that were at least deducible from
+the immanent organization of the poetic field at the time.)
+
+I am open to the criticism that my judgements here are a little hasty, given
+that I've not owned a single one of these volumes for more than two months and
+have certainly not read even one of them in their entirety (has anyone? will
+anyone?).
+
+Finally, a thought experiment that owes a little to Ron Silliman's remarks
+in "Canons and Institutions: New Hope for the Disappeared": what place would
+these anthologies have in the curriculum of an instition that--unlike the ones
+most of us work in, for, or near--was autonomous and deeply committed to the
+real possibilities (past, present, and future) of poetic practice? For while
+the form and contents of these books can indeed be defended as *compromises,*
+I think it is of vital importance to weigh these compromises, which after all
+take a lot out of one, against the prospects of transforming the situation
+so as to make them unnecessary.
+=========================================================================
+Date:         Wed, 20 Jul 1994 22:09:00 -0500
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Mn Ctr for Book Arts <mcba@MAROON.TC.UMN.EDU>
+Subject:      Re: magic anthology ride
+X-To:         UB Poetics discussion group
+              <POETICS%UBVM.CC.BUFFALO.EDU@vm1.spcs.umn.edu>
+In-Reply-To:  (null)
+
+First, regarding "the 'economy' of
+anthologies:  the law of diminishing financial and intellectual returns
+to the poet(s)"-- diminishing from what? Is there a place of undiminished
+financial returns to poets?
+
+And I am surprised to find no nod or reference to anthologies such as the
+recent special double issue of o-blek (one volume on technique, the other
+on practice, which is in effect an anthology), and the recent The Art of
+Practice (Potes & Poets). Both of them seem to me anthologies which want
+to push something forward, rather than documenting the past (although that
+could be argued, as the latter does publish works which have been
+published previously, although mostly in the last couple of years). Are
+these anthologies less valuable than the works by Allen, Messerli, and
+others mentioned in this discussion? I don't think so.
+
+Anthologies are like our institutions of literature. It's hard to live
+with them, but also hard to live without them. But is it hard to outlive them?
+
+        charles
+=========================================================================
+Date:         Wed, 20 Jul 1994 19:07:39 -1000
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Susan Schultz <sschultz@UHUNIX.UHCC.HAWAII.EDU>
+Subject:      Re: Anthslide
+
+        Steve Evans brings up the conservatism of the new anthologies
+vis-a-vis their form.  Having scattered my attentions across the Hoover
+and Messerli volumes, I'd venture to add that, while they may represent
+"a new American poetry" (the subtitle to Messerli's anthology), they
+don't necessarily represent a new America.  Messerli's volume includes
+Baraka and Mackey, who are included as writers who, with Inman, Child,
+and Darragh, "all work closely with genres that explore sound/music/
+voice relationships" (33).  They are not included among the poets who
+are concerned with cultural issues (group #1), or those who focus on
+issues of self (#2), or those who are engaged with "language, reader,
+and writing communities" (#3).  Such thematic groupings are intriguing,
+but many, if not most, could be included in all of them.  This is just
+a guess, but it sounds to me as if the groupings were developed to
+describe writers, rather than emerging out of a wide-sweeping survey
+of the 1960-1990 frame that Messerli assigns himself.
+
+        Hoover's anthology, organized rigidly as it is by birth-dates,
+comes a bit closer to "looking like America."  Hoover includes
+Hagedorn, Yau, and Berssenbrugge; Algarin, Baca, and Cruz.  I wonder
+if the term "postmodern," which is both a descriptive and an historical
+term, allows him greater leeway.  At any rate, while I hardly want to
+subscribe to an arts-by-numbers scheme, I also want to see a wider
+range of experiences (both historical and aesthetic) represented
+here.  The Heath tried to broaden the range of ethnicities welcomed
+into the American canon, but failed miserably (as I guess everyone
+knows) at challenging the hegemony of free-verse.  Where's the
+response?  While I seldom teach with anthologies, to dismiss them
+totally seems utopian--many university courses do use them.  I would
+think twice about using these anthologies in a Hawaii classroom,
+though I'd happily recommend them to students as partial portraits
+of contemporary American poetry.
+
+                        Susan M. Schultz
+
+=========================================================================
+Date:         Thu, 21 Jul 1994 10:30:28 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Marc Nasdor <ABOHC@CUNYVM.BITNET>
+Subject:      Re: Anthslide
+In-Reply-To:  Message of Wed, 20 Jul 1994 22:15:26 EDT from <ST001515@BROWNVM>
+
+I agree with Steve Evans, and I would like to add a comment.
+
+Since there is little market for poetry, in the conventional sense of "market,"
+I would suggest that anthologies have no market outside of poets and a
+dwindling number of students. That fact, however, does not totally destroy
+their value.
+
+But as for me, I would prefer to receive my anthologies with loose, unbound
+pages, so I could chuck the crap and keep the cool stuff. You want to empower
+the reader, right? :-)
+
+Regards, Marc
+=========================================================================
+Date:         Thu, 21 Jul 1994 10:41:06 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Marc Nasdor <ABOHC@CUNYVM.BITNET>
+Subject:      Re: magic anthology ride
+In-Reply-To:  Message of Wed, 20 Jul 1994 22:09:00 -0500 from
+              <mcba@MAROON.TC.UMN.EDU>
+
+Charles--
+
+Unfortunately, it's impossible to outlive them. That's why they give me the
+creeps.
+
+Marc
+=========================================================================
+Date:         Thu, 21 Jul 1994 10:44:40 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Marc Nasdor <ABOHC@CUNYVM.BITNET>
+Subject:      Re: Anthslide
+In-Reply-To:  Message of Wed, 20 Jul 1994 19:07:39 -1000 from
+              <sschultz@UHUNIX.UHCC.HAWAII.EDU>
+
+Susan--
+
+The "hegemony of free verse" you refer to is simply a reflection of time
+marching (or goose-stepping, as you might refer to it) forward. The problem
+is that most of the interesting rhymed & metered verse is being written by
+songwriters. I'll take verse from the Residents, Iggy Pop, or Kurt Cobain
+for that matter, over volumes of mindless drivel from the likes of an R. Wilbur
+or R. Howard.
+
+Marc Nasdor
+=========================================================================
+Date:         Thu, 21 Jul 1994 14:55:47 -0500
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Joseph Conte <ENGCONTE@UBVMS.CC.BUFFALO.EDU>
+Organization: University at Buffalo
+Subject:      Re: Literary Biography
+
+In answer to Mr. Klindberg's useful questions regarding the volumes on
+American Poets since 1945 that I'm editing for the _Dictionary of
+Literary Biography_:
+
+Although it may sound parochial, the senior editors of the series
+have decided to treat Anglo-Caribbean writers and Canadian poets
+in separate volumes.  There are always exceptions, especially for
+instances in which the poet is born in the Carribean or Canada but
+has spent the major portion of his or her life in the US.
+
+This volume is actually updating and superseding _DLB_ 5 on American
+Poets since 1945, edited by Donald Grenier (1980).  It may overlap
+in a few instances with Ann Charters two volumes on the Beats, in
+part because the careers of several of the poets found in her volume
+were never strictly identified with the Beats.  Perhaps, after the
+big Beat reunion in May in NYC, Charters will update her own volume.
+So there may be new entries on Allen Ginsberg (if someone's so
+inclined) whose work was addressed in _DLB_ 5, or Paul Blackburn,
+who appeared in Charters' volume but was more closely associated
+with Black Mountain.
+
+In both instances the membrane's semi-permeable, and I'm rather
+open to (private) negotiation.
+
+Thanks for your interest.
+
+Joseph Conte
+=========================================================================
+Date:         Thu, 21 Jul 1994 18:33:23 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Jed Rasula <RASULAJ@QUCDN.QUEENSU.CA>
+Subject:      Re: Anthslide
+In-Reply-To:  Message of Wed, 20 Jul 1994 19:07:39 -1000 from
+              <sschultz@UHUNIX.UHCC.HAWAII.EDU>
+
+Susan Schultz's distinction between a "new American poetry" (Messerli via Allen
+: & I continue to be amazed at the hero worship Allen inspires almost 35 years
+later, as Messerli, Hoover, Weinberger, & Silliman's *Tree* testify) and a "new
+America". I think on the one hand of Emerson's phrase "this new yet unapproacha
+ble America"--from, I believe, the essay on Experience--taken by Stanley Cavell
+ as the title of a book; and on the other hand, think of Jose Marti, and his
+ quite different & unEmersonian experiences as a Cuban journalist in NYC in the
+ 1890s, struggling to certify "nuestra America" in the expansive sense I think
+Susan is speaking of. So I note, with both curiosity & apprehension, the announ
+cement in the Viking catalogue for Fall, an anthology edited by Maria Mazziotti
+Gillan & her daughter Jennifer: *Unsettling America: An Anthology of Contempor
+ary Multicultural Poetry*. --does anybody know the editors, or know anything of
+this project??-- this is touted as a book designed to "displace the myths and
+stereotypes that pervade our culture", but I have a hunch it doesn't do much to
+displace the fastest growing myth on the cultural horizon coming into the 90s,
+which is the uniformity of the white male. Which is not to say that white males
+haven't had a couple centuries (in the USA) to create a diversified self-portra
+it (in various convexities); but the very "selling points" of this anthology
+are a portent of an ominous but it seems inexorable social fact, that nothing
+gets valorized except by a corresponding devalorization-by-caricature.
+=========================================================================
+Date:         Fri, 22 Jul 1994 11:17:39 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Marc Nasdor <ABOHC@CUNYVM.BITNET>
+Subject:      Re: Anthslide
+In-Reply-To:  Message of Thu, 21 Jul 1994 18:33:23 EDT from
+              <RASULAJ@QUCDN.QUEENSU.CA>
+
+Jed Rasula's comments about the "myth of the uniformity of the white male" are
+right on target, but I might qualify  somewhat. Outside the arts and academic
+communities, these issues used to barely generate much interest. It is worth
+noting that it has been papers such as _The Wall Street Journal_ which has
+brought this issue into the mainstream.
+
+BTW, I've just returned from a month in Hungary, and I cannot overstate the
+degree of puzzlement exhibited by young Budapest intellectuals concerning the
+subject of political correctness. They think the Americans are retarded. But
+maybe that says something about the former.
+
+--Marc Nasdor
+=========================================================================
+Date:         Fri, 22 Jul 1994 12:35:06 -0500
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Jorge Guitart <MLLJORGE@UBVMS.CC.BUFFALO.EDU>
+Organization: University at Buffalo
+Subject:      Re: Anthslide
+
+i would like to know what hungarians find wrong with political correctness.
+=========================================================================
+Date:         Fri, 22 Jul 1994 14:24:49 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         klindberg <KLINDBE@CMS.CC.WAYNE.EDU>
+Subject:      Re: Anthslide
+In-Reply-To:  Message of Fri, 22 Jul 1994 12:35:06 -0500 from
+              <MLLJORGE@UBVMS.CC.BUFFALO.EDU>
+
+Perhaps they hero echoes of the Stalinist notions of "correctness"
+and "correct" party discipline.
+=========================================================================
+Date:         Sat, 23 Jul 1994 00:24:00 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Marc Nasdor <ABOHC@CUNYVM.BITNET>
+Subject:      Re: Anthslide
+In-Reply-To:  Message of Fri, 22 Jul 1994 12:35:06 -0500 from
+              <MLLJORGE@UBVMS.CC.BUFFALO.EDU>
+
+Jorge:
+
+What Hungarians find wrong with political correctness is undoubtedly that
+p.c. is the first step on the slippery slope leading to neo-puritanism.
+I've been hanging around with many Hungarians for the past decade
+(in fact, I'm married to one). And what I can tell you is that Hungarians
+like to enjoy themselves. They like to cook and drink and fuck and let their
+kids run around naked at the lakeside beaches. Those to whom I spoke on the
+subject of political correctness, however, sometimes posed inane hypothetical
+questions, such as: "So, if the woman *successfully* slept her way up the
+corporate ladder, could she later charge sexual harassment of those former
+superiors, for her own personal gain?" This was enough evidence for me to
+conclude that mainstream Budapest intellectual circles were receiving their
+information from rather suspect sources, probably the mainstream American
+press. :-)
+    I would say that sexism and harassment are as prevalent in Hungary as in
+the rest of the world, but it's probably more out in the open, and I think
+that less and less Hungarian woman are willing to tolerate standard macho b.s.
+I've heard plenty of horror stories from my wife about her treatment by male
+superiors when she was teaching gymnastics in her twenties. At least the
+Hungarians aren't totally hypocritical, like many French intellectuals, who
+will claim of sexism in France that "we've already solved that problem," which
+as far as I'm concerned is a lot of hooey.
+   As for other issues, multiculturalism, for example, the Hungarians usually
+claim that they are the embodiment of multiculturalism, being descended from
+seven or eight different nationalities stretching far into central Asia. Of
+course, try telling that to the Gypsies, who are treated as pariahs, to put
+it mildly. One gypsy family in a department store has everyone clutching their
+wallets with an iron grip.
+   What can I say? We live in a screwed up world. In any case, political
+correctness in the USA has been demonized as a bourgeois pasttime.
+Unfortunately, discussions about such issues as spouse abuse, as well as
+gender-related issues, rarely include members of lower socioeconomic groups,
+whose members are affected is much greater numbers.
+
+Regards, Marc Nasdor
+=========================================================================
+Date:         Sat, 23 Jul 1994 00:59:48 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Marc Nasdor <ABOHC@CUNYVM.BITNET>
+Subject:      Re: Anthslide
+In-Reply-To:  Message of Fri, 22 Jul 1994 14:24:49 EDT from
+              <KLINDBE@CMS.CC.WAYNE.EDU>
+
+Klindberg writes:
+
+> Perhaps they hear echoes of the Stalinist notions of "correctness"
+  and "correct" party discipline.
+
+Well, maybe, but they also think that American intellectuals take themselves
+*way* too seriously. Can you blame them? How many examples of Hungarian
+fiction, poetry, drama, or criticism ever make it into English. I think many
+intellectuals writing in "less popular" language groups feel their works are
+constantly belittled by the "imperialist" languages. They are correct.
+=========================================================================
+Date:         Sat, 23 Jul 1994 11:19:30 -0400
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Patrick Phillips <Patrick_Phillips@BROWN.EDU>
+Subject:      Re: Anthslide
+
+Marc,
+
+from *Hungarian Anthology*, Pannonia Books, Toronto, '66
+
+(the truck of the existential anti-imperialist editors is evident here in
+this mostly male-dom; but it's the only Hungarian anthology I have. What a
+nut to fit my knowledge of Hunagrian poetry into, or what a *small*  book
+to get it from....
+
+From Anna Bede's "Ode to the Dishwater" (no date given)
+
+Dishwater,
+you daily gathering!
+What are you making from the salad's green,
+from the golden meat, from ash-colored fruit?
+What do you do with the screaming of the tender finger-grabbed silverware,
+engine-rumbling, painting, struggle of tuneful words?
+How do you dissolve the changing to a man,
+the leisure majesty of feasting,
+the sparkling faith of working days?
+You are like the jealous earth
+Which only can dissolve and cleanse when she kills,
+and falling in her pit, insects, leafage, fruit and men
+become united and unrecognizable.
+
+
+In many ways the anthology this fragment comes from is itself compost in
+this dishwater; that its ideological choices are informed by the themes,
+the forms, the conceits; that its picture of Hungarian poetry is messy, a
+messy remnant - particularly now. Anna is one of three women collected here
+and *I* chose this fragment; itself a messy, and could be construed as
+ideological, choice. (Another - "I Am The One" - is much more clearly
+marked out as an *anti-war* metaphysics.) -- In many ways we engage in
+literary history and not poetry at all....
+Of the many questions I'm raising in this post, foremost is how, or is it
+possible to be updated by another Hungarian (or by any) anthology?
+Anthologies are beasts one sleeps with while clutching a knife under the
+pillow. I have the knife; is there one that I could try with?
+
+Pat
+=========================================================================
+Date:         Sat, 23 Jul 1994 11:24:37 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Marc Nasdor <ABOHC@CUNYVM.BITNET>
+Subject:      Re: Anthslide
+In-Reply-To:  Message of Sat, 23 Jul 1994 11:19:30 -0400 from
+              <Patrick_Phillips@BROWN.EDU>
+
+Thanks for the posting, Pat.
+
+Hmm, unfortunately there's not much of interest in English. You might look at:
+_Modern Hungarian Poetry_ (New York: Columbia University Press, 1977)
+The Hungarian issue of _Translation_ from the mid-1980s
+An earlier issue of the _Five Fingers Review_, which includes poems by one
+of the more interest younger Hungarian poets, Endre Kukorelly, translated by
+Sandor Andras, a professor at Howard University in Washington. Interested
+Hungarophiles and others can write to him c/o the German Dept. there; or
+at 9007 Sudbury Rd., Silver Spring, MD 20910. Tell him I sent you. Thanks
+
+The rest, alas and alack, are dull mainstream academic translations of
+Agnes Nemes Nagy, Sandor Weores, and Istvan Vas (all recently deceased elder
+poets)
+
+ -- Marc Nasdor
+=========================================================================
+Date:         Sat, 23 Jul 1994 11:37:33 -1000
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Susan Schultz <sschultz@UHUNIX.UHCC.HAWAII.EDU>
+Subject:      Re: Anthslide
+In-Reply-To:  <9407231537.AA18369@uhunix.uhcc.Hawaii.Edu>
+
+        I have the unhappy feeling that my posting led somehow to
+a discussion of "political correctness."  That term, and its
+benevolent confrere, "multiculturalism," tend to obscure debate rather
+than open it up.  The commercialization of "multiculturalism" (CNN
+advertises itself internationally as having a "multicultural" staff)
+comes to mean that we have "anthologies" and "multicultural anthologies"
+as if the two were necessarily distinct from one another.  My
+argument for the inclusion of ethnic diversity in the former comes
+out of the experience of teaching in a place where 90-950f my
+undergraduate students in most classes are non-Caucasian Americans.
+At that point the debate over political correctness seems frivolous,
+and the need to diversify one's reading lists becomes a matter of
+pragmatism rather than idealism (or, if you're anti-PC, a stain on
+the traditional canon).  But I don't think Hawaii's alone;
+California is becoming a state with no ethnic majority population.
+Doubtless others will follow.
+
+
+This is not to say there isn't resistance here, too.  There is,
+and it makes life in the UH English department interesting (in
+the sense of the Chinese curse: "May your life be interesting").
+And my syllabi are often top-heavy with members of the old
+canon.  But I wish we could talk about these matters without
+using the show-stoppers, pc and multiculturalism.  We might at
+least talk about what "multicultural" might mean in a productive
+(and not in a commercial) sense.
+
+Susan
+=========================================================================
+Date:         Sat, 23 Jul 1994 21:10:47 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         kat <KLINDBE@CMS.CC.WAYNE.EDU>
+Subject:      Re: Anthslide
+In-Reply-To:  Message of Sat, 23 Jul 1994 11:24:37 EDT from
+              <ABOHC%CUNYVM.BITNET@UBVM.cc.buffalo.edu>
+
+A few very minor points in response to recent flurry, if I may.
+
+1) to M. Nasdor--If members of socio-economic under-class
+are not part of our (?) conversations, how can we know that they are more
+affected by spousal abuse, etc?
+
+2) S. Schultz--The point about saving productive thought and/or work
+from commercialism is, of course, well taken and shared.  However,where
+do notions of "productivity" come from if not directly--or even reactively--
+from the Market?  one market or another?  Expensive whole food markets,
+which tend to be quite p.c.;little broken down markets that sell lotto
+tickets and beer by the can; open subsistence markets in India; the
+commerce in ideas over emergent media, etc....
+
+While it's no fun to pun about m/Market(s), it's worth recognizing some
+of the slippages from, say, high to low culture and sacred to profane
+(literary/literal?) property.  Oh, anyway.  By the way, I teach in
+Detroit, where it seems to be rather clear that "multiculturalism"
+and "cultural criticism" can too easily be an evasion of Race and Class,
+which are stunningly practical (Praxis) issues--even for the few theorists
+left at the front guarding their rear(s).  Charges of p.c. can work same.
+=========================================================================
+Date:         Sat, 23 Jul 1994 23:01:54 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Marc Nasdor <ABOHC@CUNYVM.BITNET>
+Subject:      Re: Anthslide
+In-Reply-To:  Message of Sat, 23 Jul 1994 21:10:47 EDT from
+              <KLINDBE@CMS.CC.WAYNE.EDU>
+
+Kat:
+
+Even if the socio-economic underclass (let's not leave out the culturally
+working class) were less plagued by spousal abuse, etc., it is clear that
+they must be somehow brought into the conversation. Do you think that *only*
+members of the upper and middle classes should be subject to (re)educational
+efforts on behalf of all women, minority groups, children, etc. Surely one
+cannot count on the moral Trickle-Down Effect to apply here. Try working on
+Wall Street for a while: I can assure you that you'll run into people from
+a wide breadth of backgrounds, most of them incredibly ignorant of even the
+subject of these discussions. These people--and most of "Middle America"--
+are precisely those who American left intellectuals have been taking for
+granted in recent decades. These are also the same people who are never
+exposed to innovative art works, experimental poetry, film and music from
+other cultures, etc. There is one whopper of a cultural revolution that never
+happened in most of America in the 30+ age group. Maybe grunge culture has
+made deeper inroads among the twentysomethings than all the poetry or p.c.
+jingoism will ever hope to accomplish.
+
+--Marc Nasdor
+=========================================================================
+Date:         Sat, 23 Jul 1994 23:39:28 -0400
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         John Fowler <sysop@GRIST.COM>
+Organization: GRIST On-Line
+Subject:      Re: ANTHSLIDE
+
+Released from the tyranny of the bound book (canon)
+a reader is truly empowered: the "book" looses its "market value";
+texts have only use (commodity) value and no exchange value.
+
+Where can the "unbound book" reside if not here?
+
+First put it here, then choose your "pages" from it.
+
+Do not give it to the "binders".
+
+fowler
+=========================================================================
+Date:         Sun, 24 Jul 1994 13:15:54 -0400
+Reply-To:     Robert Drake <au462@cleveland.Freenet.Edu>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Robert Drake <au462@CLEVELAND.FREENET.EDU>
+Subject:      Re: Citation for Golding on Anthologies?
+
+>Bob-- Yes, the problems are precisely the ones you named: commodification
+>and canonization, though one suspects that both will be only modestly
+>achieved by the respective collections.
+>
+>I think a forum on the questions raised by these books (and you are
+>right to include the o*blek, leave, and P&P volumes: I haven't been
+>able to track down the latter though) is very much desirable, especially
+>since I think many of us are having to re-adjust our thoughts on the
+>status of our "tradition" after such a conspicuous, and may it be said
+>quite *alienating* repackaging of the work (alienating perhaps because
+>it is so visibly dead labor all of a sudden, whereas before we all
+>were prone to thinking we had a duty to keep it living through small
+>scale, even illegal, republishing ((xerox packs, personal anthologies,
+>the tattered copies we stumbled on in used book stores, etc.)).  Do you
+>recognize what I'm describing here?
+>
+>Let me know how you envision the section in TapRoot and how I might help
+>you with it.  I would be happy to prepare (and perhaps introduce) a selection
+>based on remarks culled from a forum on the poetics list--if the list-owner
+>and various subscribers agree that that's a legitimate use of bandwidth (which
+>I think they will).
+>Get back to me on how to proceed when you have a minute.  Until then, I
+>wish you well.
+
+
+steve--
+
+
+sorry to be so tardy in replying--mounting a gallery exhibit
+(which opened friday) which included a 1300 item catalog...
+your original post seems to have sparked some discuss, much
+missed from the list of late.  my own rantings:
+
+anthology, from gk "collection of flowers"--neatly labled and
+pressed into a book, no longer living or fragrant, nor allowed to
+go to seed...
+
+looked at in the most sceptical light,the urge to anthologize
+seems to me an attempt at ownership, a beating of the bounds
+which not only defines but claims rights to a territory.  that's
+the sense, for me, in which it's an attempt to canonize--to
+control what is or is not allowed in, what is legitimate to
+consider.  i have to think, given the power of the Norton
+anthologies in general, that Hoover & the editors there _must_
+be consious of that side of it; inexcusable if not so.  & too,
+putting the thing together as a product to sell, obviously not
+just the commodity of an individual book on the shelves but a
+perspective, actual capital value in a (praps corrupt) cultural
+market.  that's the "commodification" angle.
+
+i think, for the others (Barone & Ganick, o*blek, Sun&Moon),
+there's a bit of an embattled sense, in which they feel they
+must struggle against that entrenched power structure, either
+to storm the gates or at least to define & defend their domain.
+those alternative practices & poetics i am much committed to,
+but i'm not sure that adopting the same tactics is the best
+agency for advancing the cause...
+
+         wanna be the next don allen.  wanna out the next
+         _in the american grain_ (such an important book
+         to me--& maybe moreso 'cause i got it fr a buck
+         in the remainder bin...)
+
+this is all very largely overstating the case.
+hyperbole that i all too often believe.
+
+
+i appreciate having the chance to read other editor's selections,
+reading the editing as well as the selected work.  telling, fr
+instance, that the Hoover is arranged by chronologic date of
+birth--nothing about the work itself, but centrally about the
+author--as arbitrary as any, i suppose.  the author-ity of the
+editor, tho, is i imagine not something most students will be
+aware of--and there's an arguement in favor of the "illegal xerox
+packs & personal anthologies" you mention, which are so obviously
+the selections of an individual...
+
+-----------------------------------------------------------------
+
+a plug here, for the initial issue of "Chain" (spring summer 1994,
+"Special Topic: Gender & Editing", edited by Jena Osman & Juliana
+Spahr; $7.95 to 107 14th St., Buffalo NY 14213).  A _crucial_ piece
+of work.  from their "editor's notes" (without permission):
+"Relation:  Perhaps a good starting point would be to discuss my
+apprehension about editing.  I am uncomfortable with the idea of
+the editor as arbiter of good taste, or as the (in)visible
+navigator/sculptor of a final packaged product.  Journals rarely
+seem to openly admit the presence of personal ideology behind
+their pages.  And when they do, the "personalized" frame seems to
+stifle and alter the work by mashing it into an overly-prescribed
+space.  We all change what we read in the very act of reading;
+however, editing forces an external median strip between the
+substance of the original and what it will become.  Such mediation
+can create a powerfully dialogic space; it can also create a
+"culinary" space that limits the possibilities in the act of
+reading.  The _Chain_ project is an attempt to investigate the
+(im)possibility of an unmediated reception, the (im)possibility
+of detaching a writing from its presentations/ideological form."
+
+     (& yes, i(ronic), male, select this particular excerpt for
+      this particular space...)
+     (wondering if the (coincidently male) editors of the
+      anthologies under discussion might have some awareness of
+      these concerns)...
+
+-----------------------------------------------------------------
+
+so what does an anthology teach?  that literature is a dead thing
+(again, the flowers pinned down & labled); that you (reader) can
+rely on someone else to distinguish for you what is important,
+what is not.  (too bad "discriminate" has lost some utility--of
+course it would be _evil_ to "discriminate against" something; so
+instead we are indiscriminate); & that it has no context.  the
+anthologist trots out a string of "good" poems, demonstrating
+their power & virtue--& by extension poems that are "like" those
+are "good", ones that are "different" must not be.  profoundly
+conservative.
+
+why not teach a few "bad" poems?  teach from the struggling
+journals (we could use the business), let (make) students hunt
+thru and make their own choices.  for the cost of the Norton (aww,
+ quit raggin' on them...) you could choose a half-dozen "slim
+darlings" & really get into a poet's work, the best and the not-so
+(once got an order frm a univerisity bookstore for 50 copies of
+one of our chaps; made my day for a week).
+
+     "1805 W. Taylor in Ann. Rev. III 651 It ought not be said
+     that any aanthologist can strrip the garden of its flowers."
+                 (i love my OED--so optimistic; & so well edited)
+
+-----------------------------------------------------------------
+
+so, that's my rant, or a bit of.  as fr TRR:
+our (thee editorial "we"!) main goal is to provide access to
+material, descriptive over evaluative, and as above encourage
+the reader to make her own choices.  a brief survey, say a
+paragraph or 2 on each of a half dozen, plus a few paragraphs
+to contextualize (raise some of these questions, not neccesarily
+lay down the definitave answers), would be a valuable contribution.
+hope you'll consider.
+
+asever
+luigi
+=========================================================================
+Date:         Tue, 26 Jul 1994 20:03:00 EST
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Marjorie Perloff <0004221898@MCIMAIL.COM>
+Subject:      Anthologies
+
+Well, I've finally managed to retrieve 58 messagesfrom my other
+Eudora) system at Stanford via my computer in Los Angeles.  But I
+haven't figured out how to send it the other way yet.  So let's see if
+it works on MCI.
+A few comments:  in all the discussion of anthologies, no one has
+mentioned that the odd thing about Hoover, messerli, and Weinberger is
+that they feel obliged to buttress the present with so much of the past.
+Don Allen, after all, really did do the New American Poetry.  So why
+do these anthologists begin with Olson or the Objectivists, etc.?
+Stuff that's 30 years old or 40.  Do we feel too little confidence
+that we can pick the New American Poetry.
+As for the Multiculti issue (brought up by K. Lindberg, Susan
+Schultz etc), I think much more of it will kill off any interest
+in poetry anyone might have.  Poetry isn't written by quota.  Gays,
+for example, have always been way overepresented--the leading poets
+at many periods of history have been, say, 60 % gay.  Now if we have
+to go by quota, where does that leave the poetry of Hart Crane or
+Auden or O'Hara or Ashbery or Schuyler or even Whitman and Dickinson?
+Secondly, the sort of thought police to be found in John Yau's recent
+rant is really counterproductive.  Whatever one thinks (thought0 of
+Eliot W's anthology, this sort of head count can't work.  There will
+always be more groups, always those not represented, etc. etc.  Why
+does every group have to write poetry to begin with?
+
+Marjorie Perloff
+=========================================================================
+Date:         Tue, 26 Jul 1994 23:52:19 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Marc Nasdor <ABOHC@CUNYVM.BITNET>
+Subject:      Re: Anthologies
+In-Reply-To:  Message of Tue, 26 Jul 1994 20:03:00 EST from
+              <0004221898@MCIMAIL.COM>
+
+Marjorie:
+
+I'm so busy working my butt off in the sweatshop that I did not see the rant of
+John Yau that you mentioned in your post. Could you please tell me where I
+can get a hold of it.
+
+Sincerely,
+
+Marc Nasdor
+abohc@cunyvm.cuny.edu
+=========================================================================
+Date:         Tue, 26 Jul 1994 19:02:23 -1000
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Susan Schultz <sschultz@UHUNIX.UHCC.HAWAII.EDU>
+Subject:      Re: Anthologies
+In-Reply-To:  <9407270105.AA11576@uhunix.uhcc.Hawaii.Edu>
+
+Dear Marjorie and K. Lindberg and others:
+
+        It seems to me that there has to be a middle position here;
+to argue for "multiculturalism" does not necessarily invoke the
+thought police, or John Yau.  I do think it's worth asking whose
+interest in poetry is deadened by such discussions (and that, I
+suppose returns us to the question of community); as K.L. and I
+have noted (and I'm sure people are getting sick of hearing me write
+this), multicultural syllabi are often more a practical, than an
+idealistic--or cynical, if you will--concern.  That's why readings
+by white male mainland poets average fewer than 35 members in
+the audience, and why readings by prominent Asian-American writers
+can easily attract several hundred here.  Audiences do matter, and
+I'd like to see them overlap more.  The problem with multicultural
+anthologies is, to my mind, that the creation of a "multicultural"
+market may tend to reaffirm the differences between audiences.  What
+I'm suggesting is a blending of that large group of white male
+gay poets (or whoever's in the statistical ascendency) with other
+voices.  I'm not talking essentialism, but experience here.  It's
+not that all groups should write poetry, but that individual members
+of all groups, for whatever reasons, do.  I appreciate the fear of
+quotas; I feel it myself sometimes.  But there are unconscious, as
+well as conscious, quotas.  Why else would 98% of the University of
+Hawaii English department be white, in a state that has no majority
+group?
+
+Enough huffing and puffing by me.  Back to Honolulu's humid squelch.
+I hope others are cooler.
+
+Susan Schultz
+=========================================================================
+Date:         Wed, 27 Jul 1994 00:50:00 EST
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Marjorie Perloff <0004221898@MCIMAIL.COM>
+Subject:      Anthologies again
+
+In response to Susan Schultz:
+you're right, Susan, I was just sounding off because I did find John
+Yau's attack on Elliot Weinberger especially irritating and disingen-
+uous.  But you'r right: if I taught at Hawaii, I would certainly feel
+a responsibility to have plenty of local (or Asian-Am or Asian) poets
+and not just white males.  But I think that's less a question of
+ethnicity in general than of local pride, isn't it?  The feeling of
+always importing things from the mainland?  Anyway, I'm looking forward
+to my Phi beta Kappa visit next January and see for myself, never having
+been to Hawaii.
+All very complicated!
+Marjorie
+=========================================================================
+Date:         Wed, 27 Jul 1994 03:16:34 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Comments:     Resent-From: Steve Evans <ST001515@BROWNVM>
+Comments:     Originally-From: Steve Evans <ST001515@BROWNVM>
+From:         Steve Evans <ST001515@BROWNVM.BITNET>
+Subject:      Yau's Review
+
+For Marc and others who may not have seen it, John Yau's review
+of the Weinberger volume appeared in the March/April issue of
+American Poetry Review.  The current issue of the APR (with Joe
+Ceravolo on the cover) includes letters--all of them hostile to
+Yau--from: Weinberger, Esther Allen, David Hinton, Forrest Gander,
+Roberto Tejada, and Cecilia Vicuna. Yau is given space to respond
+to each letter.
+
+[What follows are some thoughts, composed rather late at night, that
+can certainly be passed over by anyone who is growing tired of this
+topic.]
+
+
+My gloss on the exchange in APR is, I regret to say, rather negative.
+I hope it won't sound cynical when I say that *credentials* seem more
+at stake than substantive issues.  This is not to argue that credentials
+are *not* a substantive issue in the politics of representation, but it
+is to admit a certain weariness with the American reflex of personalizing
+important debates (e.g. Weinberger's calling Yau's review "a nervous
+breakdown in print," &  other examples too numerous to mention).
+
+One interesting note: Yau wrote exactly the review Weinberger had apparently
+been having nightmares about while preparing the book (see his defensive
+"note on the selection" at the front of his book, with its Malthusian ref-
+erence to a "population explosion" in recent poetry apparently contradicting
+the denigration, several pages later, heaped on those who "count heads" or
+maintain "police-blotter files on individual poets".)   That the "Very
+Brief History" of "American Poetry Since 1950" is more than an apology for
+the editorial decisions of the book I also take to be incontrovertible.  Had
+Weinberger admitted that his description is *historically* accurate for the
+period between 1950-1965 (or 70 at the latest), and then only for a very
+specific (and indeed, very significant: cannot specific and significant
+be thought at the same time?) group of writers, there would have been a lot
+less room for misunderstanding.
+
+My point here is: Weinberger and Yau are playing two sides in a single game,
+a game in which "marginality" has been converted into the stake and highest
+honor even by intellectuals who feel few of its withering social effects.
+I would suggest that we wean ourselves of "marginality" and consider more
+seriously the values and meanings of "specificity"; that we, further, dis-
+abuse ourselves of illusions that, historically, avant-garde formations have
+been drawn from any class other than the dominant one, and that in the U.S.
+that class has been and continues to be white; and finally, that positions
+in the economy of literary canonization have any *direct* correspondence to
+positions of social power.  I hope that it is recognized that the latter two
+points go together: drawn from the dominant class does not mean loyal to it.
+The avant-garde hasn't had, by any means, the monopoly on oppositional
+cultural and political practice in capitalist societies; but it has had, at
+various times, important links to oppositional social movements and to the
+intellectuals who inevitably emerge as such movements progress. Vexed, con-
+tradictory, seldom studied in any detail, such links might be the basis for
+an anthology neither Yau nor Weinberger, nor for that matter Michael Harper
+(*Every Shut Eye Ain't Asleep: An Anthology of Poetry by African Americans
+Since 1945,* $13 from Back Bay/Little, Brown), have yet imagined.
+
+One last note: Erica Hunt's "Notes for an Oppositional Poetics" has been
+mentioned on this list before, but its relevance for this discussion seems
+worth noting once again.  It is published in *The Politics of Poetic Form*
+(Roof, 1990).  Cary Nelson's *Repression and Recovery: Modern American Poetry
+and the Politics of Cultural Memory* (U Wisconsin, 1989) also is useful here,
+especially with respect to the way class, and class struggle--two things
+that identity politics and official multiculturalism cannot recognize--
+were once vital, generative, categories of poetic practice in this country.
+
+I apologize for the length of this post; as usual I couldn't resist the
+opportunity for discussion this list represents to me.
+
+Regards to all,
+
+Steve Evans
+=========================================================================
+Date:         Wed, 27 Jul 1994 16:14:51 -0500
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Joseph Conte <ENGCONTE@UBVMS.CC.BUFFALO.EDU>
+Organization: University at Buffalo
+Subject:      Re: Anthologies
+
+I for one can't remember the last time I bought an anthology for
+personal reading.  I evaluate them as textbooks for survey courses,
+trying to anticipate their appropriateness for a fairly disinterested
+group of largely blue-collar students here in Buffalo.  I order an
+anthology because my students can't afford a long reading list, and
+so they get a wide selection at one low price.  I used Codrescu's
+_Up Late: American Poetry Since 1970_ in a class on Contemporary
+Literature (along with several pbk. novels).  Antin's talk poems
+and Judy Grahn's lesbian odes were the surprise hits; much other
+experimental work was largely met with stoney silence.  I actually
+looking forward to trying out Hoover's book next spring.  I think
+the poetry has to move the audience, regardless of race, gender,
+or sexuality.  If gets them talking about something other than
+the Buffalo Bills on Monday Night Football, it's a success.
+
+From Buffalo, where the cool breezes blow off Lake Erie and there's
+nary a day over 90 degrees:
+
+Joseph Conte
+=========================================================================
+Date:         Wed, 27 Jul 1994 23:00:32 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Marc Nasdor <ABOHC@CUNYVM.BITNET>
+Subject:      Re: Yau's Review
+In-Reply-To:  Message of Wed, 27 Jul 1994 03:16:34 EDT from <ST001515@BROWNVM>
+
+Thanks to Steve Evans for his relevant posting. I look forward to rereading
+Cary Nelson's book. I just have a couple of points to add. First, Steve, I
+think that it's a bit disingenuous to say, in 1994, that the dominant class
+"has been and continues to be white." That sounds like a statement by someone
+who never gets off campus. I'm a freelancer and I have been poking my nose into
+many types of work and social situations for a long time. I can guarantee you
+that the dominant class--the "middle" class, the class to which we're
+referring--is well represented by non-white members, who spend the same amount
+of energy as white people hypeing the dominant culture--capitalism, know-
+nothingism, the general conservative ethic, etc. I think that for domestic
+politics in the present and future, race is and will be a distraction, and I
+don't think that the community of "alternative" poets and writers will ever
+really come together, to make definitive cultural/political action, until it
+recognizes that *class* was/is/will be the central issue here. I don't know,
+people seem to go out of their way to avoid talking about class. I wrote this
+posting because of the way you ended yours (making reference to the fact that
+identity politics and official multiculturalism cannot recognize class and
+class struggle). I think you contradict yourself.
+    The second bone in my throat: your inference that "credentials" may be a
+substantive issue in the politics of representation. Steve, that's why we
+love the Net, because it frees us from such emphemera. I have no idea what your
+credentials are, and I couldn't give a flying Flinstone. We should all be
+grateful to be alive to see the crumbling of the priesthoods. We only have to
+be vigilant enough to watch out for new ones.
+
+Regards, Marc
+=========================================================================
+Date:         Thu, 28 Jul 1994 14:47:04 -0500
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         MARK WALLACE <V212XHM3@UBVMS.CC.BUFFALO.EDU>
+Organization: University at Buffalo
+Subject:      Situation on the move
+
+Situation magazine is moving again,
+this time to Washington D.C.
+Please send all correspondence after August 1
+to:
+
+Mark Wallace
+Situation
+10402 Ewell Ave.
+Kensington, MD 20895
+
+Issue #7, just out, features the work of
+Kevin Killian, Ron Silliman, Dodie Bellamy,
+Carmen Orrega, A.L. Nielsen, Mark Hammer, and Sterling Plumpp.
+
+Only $8 for four issues,
+$2 for single and back issues.
+
+I hope to hear from you.
+
+Sincerely,
+Mark
+=========================================================================
+Date:         Fri, 29 Jul 1994 08:03:30 -0500
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Joe Amato <jamato@UX1.CSO.UIUC.EDU>
+Subject:      anthologies...
+
+for alla this talk contra anthology, which i do 'preciate & understand, still:
+
+1. if somebody wanted to anthologize my work ("me") i'd be tickled pink...
+perhaps i wouldn't feel this way after countless such 'events'... on the
+other hand, i think it would be an Immensely Satisfying ego-massage... some
+of you who have had the dis/pleasure can comment here on this---do it feel
+as good as it looks?...
+2. as i think it were john fowler pointed out, the net represents to those
+with access places to distribute foc... use at your own in/discretion...
+for you academics out there (like moi):  this will of course not help your
+tenure case in any causal sense (as things currently stand)...
+3. what "counts" as an anthology in poetry is perhaps a different
+construction (say, in historiographic terms) than similar compendia in,
+say, fiction...
+4. let's not gloss the less-than-scholarly-and-entirely-human tendency to
+want to see one's friends families oneSelf in print, side-by with other
+perhaps more famous names... i refer here to the tendency for editors to
+plain & simply play faves... which is simply an extension of any such
+editorial stance (& it happens ALL the time)... which is again one rather
+obvious reason why ANYTHING gets published in the first place, whatever the
+merit...
+5. anthologies, as a few folks have suggested, are useful in pedagogical
+terms... if you make your own you're not necessarily more
+disinterested---the impulse may very well be precisely the same...
+luigi-bob's comment re purchasing five or six 'little books' strikes me as
+on the mark... yet there do seem to be a need now & again for some sweep,
+some 'representational' grid of who's who in institutional terms (& in
+accord with one's sense of institution)... anthologies are texts... that
+is, they have contexts... they are not static, they emerge (jed & alan &
+____ are probably most familiar with this argument) against a specific set
+of cultural exigencies... hence they oughtta be used in light of this... if
+intro'd this way, anthologies can be seen as the normative constructions
+they in fact are...
+6. & of course, back to emedia, what of the digital-form issues at stake in
+this process of amalgamating?... we take work composed with pen pencil
+typewriter wordprocesser & lord knows what new software, we convert it to
+print-bound matter, & we publish accordingly... perhaps this seems a moot
+point---to those who view these letters as just that---but i find it more
+problematic in poetry than, say, in publishing paperbacks of victorian
+prose... owing to my sense of things poetic, attention to formal
+constraints etc... & because there has been for some time now, all over the
+net, ongoing discussion of dislocations slippages etc. as a consequence of
+emedia, alphabetically speaking...
+
+so so... just some random noninklings, bubbling up through...
+
+joe
+=========================================================================
+Date:         Fri, 29 Jul 1994 12:43:17 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Steve Evans <ST001515@BROWNVM.BROWN.EDU>
+Subject:      Re: Yau's Review
+In-Reply-To:  Message of Wed, 27 Jul 1994 23:00:32 EDT from <ABOHC@CUNYVM>
+
+Just a couple of quick points in reference to Marc's post.  I take
+the point that whites no longer monopolize the exercise of domination,
+though I don't happen to share Marc's view that the middle-class
+is "dominant" in the national or the global economy.  I invite Marc
+to provide an explanation for the "whiteness of the avant-garde" that
+is more solidly grounded than the one I gestured towards.  In schematic
+terms I simply tried to suggest that: avant-garde cultural production
+tends to be an option in the universe of subjects socially positioned
+nearer to economic power; as the terms of access to that power get
+redefined, so will the terms of access to the avant-garde project.  I
+draw this inference from looking at the composition of actual avant-
+garde formations since the mid-nineteenth century, but I will be the
+first to rethink the position if people present good reason to do so.
+
+On the question of "credentials": here I'm afraid that it's your turn to be
+disingenuous, Marc. I was explicit in my criticism of turning credentials
+into the central point of contention in the Weinberger-Yau debate.  However,
+as a geniune set of questions about tradition underlies the manic debate about
+Canon, so a genuine set of questions about competence underlies the debate
+about credentials, or so I would contend.  The bridge term in each case
+seems to be institution(s), since they convert traditions into Canons and
+competence into Credentials.  But perhaps I overestimate, here at my
+university-subsidized internet link, the importance of the institution?
+
+As for the crumbling of "the crumbling of the priesthoods"--please don't
+mention it to Salmon Rushdie, since such comments must tempt his patience.
+The "old" ones are still here, and there are new ones in addition to that.
+As Andy Levy remarked in a series of posts several months ago, the Net
+itself is, more likely than not, one of these new ones.  There is plently
+to be vigilant about, agreed, but not only up ahead.
+
+Regards,
+
+Steve Evans
+=========================================================================
+Date:         Fri, 29 Jul 1994 17:06:53 -0400
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Chris Funk <CF2785@ALBNYVMS.BITNET>
+Subject:      synnerlyptium
+
+          d          i           u                        4
+
+
+
+                    All persons interested in text-based virtual realities:
+
+               Describers of an Imaginary Univercity will meet
+          in the living room on lambda-MOO, Monday August 1st 10 pm
+     east coast time. To accompany:  telnet lambda.xerox.com 8888
+If you are unfamiliar with this medium, you might experiment before-
+     hand, and obtain a "Character" if possible. C you there.
+
+
+
+
+
+
+"XXXX   OOOO  EH" incites us to imbibe the "strong, costly wine"
+of Robert Herrick's verse, but students here at DIU should know
+just how strong and just how costly a whine it is:
+
+
+        UPON SOME WOMEN
+
+         by Robert Herrick
+
+Thou who wilt not love, doe this;
+Learne of me what Woman is.
+Something made of thred and thrumme;
+A meere Botch of all and some.
+Pieces, patches, ropes of haire;
+In-laid Garbage ev'ry where.
+Out-side silk, and out-side Lawne;
+Sceanes to cheat us neatly drawne.
+False in legs, and false in thighes;
+False in breast, teeth, haire and eyes:
+False in head, and false enough;
+Onely true in shreds and stuffe.
+                                        --Patriarchal Poetry
+
+
+
+
+
+
+                 *** REQUEST FOR INFORMATION ***
+
+For a study on the "objectivist poets" in preparation for DIU
+Press I would appreciate any anecdotal information (including
+letters, photographs, first person accounts or copies of memoirs)
+that would shed light on the brief marriage of Lorine Niedecker
+and William Carlos Williams.  I am also seeking information on
+Joyce Hopkins, in particular the circumstances that brought her
+to reveal "Louis Zukofsky," "Charles Reznikoff" and "George
+Oppen" as Niedecker's pseudonyms.  Lastly, if anyone knows the
+whereabouts of Robert Creeley, I have been trying to track him
+down.  I understand he is the last living member of the original
+"objectivist conspiracy," and that he went into hiding shortly
+after the coup but remained within the borders of the old United
+States.
+             --Kimberly Filbee
+
+
+
+
+
+
+CLASS ANNOUNCEMENT FOR "AMERICAN POETRY"
+
+What does it mean to be an American?  I have presumed to regard this
+question as an historical one.
+
+Yet Marianne Moore suggests our historiography lacks something in the
+way of truth.  Do you agree?
+
+In the way of truth stands history itself, blocking the light.  History in
+the form of an author casts its shadow on our reading.  What to do?
+
+As we begin our reading of Whitman's "Drum Taps," let's presume to imagine
+that Whitman himself is listening in on our conversation.  Can we provoke
+him into stepping aside, that the light might return to the page?
+
+The dark is good to dream in, but to dream in the light is better still.
+
+"He comprehended that the effort to mold the incoherent and vertiginous
+matter dreams are made of was the most arduous task a man could
+undertake, though he might penetrate all the enigmas of the upper and
+lower orders:  much more arduous than weaving a rope of sand or coining
+the faceless wind."  (Jorge Luis Borges)
+
+Discuss.
+
+             --Black Hole Sun
+
+
+
+
+
+
+from: SLICES OF KNOWLEDGE
+
+
+
+        Never despair. Let macerate longer.
+
+
+*
+
+
+        An inn of soft muds for fish who spend the night out of the water.
+
+
+*
+
+
+        A beggar, but he governs a beggar's cup.
+
+
+*
+
+
+        Mornings, if one is a bee, no mucking about, one has to pilfer.
+
+
+*
+
+
+        Funerals should take place in swamps. Wouldn't it be just that
+        the living, who follow the dead, should also be in difficulty?
+
+
+*
+
+
+        The birds' delirium does not interest the trees.
+
+
+*
+
+
+        It is not the crocodile's job to yell: "Watch out for the crocodile!"
+
+
+*
+
+
+        He who hides his madman, dies voiceless.
+
+
+*
+
+
+        Even if it is true, it is false.
+
+
+*
+
+
+        - What would a distillation of the whole world be like? - asked
+        a man in amazement, drunk for the first time.
+
+
+*
+
+
+        The caravans want respect.
+
+
+*
+
+
+        There is no proof that the flee, which lives on the mouse, is
+        afraid of the cat.
+
+
+*
+
+
+        The blood of the ox, put into a tiger, would give the latter
+        nightmares.
+
+
+*
+
+
+        Evil traces, good floods.
+
+
+*
+
+
+        That one uses his vice to jerk off his virtue.
+
+
+*
+                                        --HM translated by PJ
+
+
+
+
+
+
+
+Let us recall the Kent State massacre.  What was at stake?  Why
+was the National Guard shooting down middle-class young
+people in middle America?
+
+Their ancestors were enthralled by the utopia sublime.  Right
+there in Ohio, in Akron and Cleveland, they were in the thrall
+of the absolute.  So utterly were they taken up by what their self-
+repression might gain them that, when the Cayuga River
+caught on fire and burned, they did not understand that it was
+a sign.
+
+The children were lured by beauty--forms that were available to
+the senses, not crumbling between a lost origin and an
+infinitely receding goal.
+
+I or I would recall the virtue of Herbert Marcuse in this
+connection:
+
+"Before the court of theoretical or practical reason, which has
+shaped the world of the performance principle, the aesthetic
+existence stands condemned.  However, we shall try to show
+that this notion of aesthetics results from a 'cultural
+repression' of contents and truths that are inimical to the
+performance principle.  We shall attempt to undo this
+repression theoretically by recalling the original meaning and
+function of aesthetic.  This task involves the demonstration of
+the inner connection between pleasure, sensuousness, beauty,
+truth,  art, and freedom--a connection revealed in the
+philosophical  history of the world aesthetic."
+
+                                 --Thus, Albert or Hubert
+
+
+
+
+
+
+
+Playlist, Conference of the Birds, KZSC, Santa Cruz  7-11-94
+
+
+Silvio Rodriguez/ Sueno Con Serpientes/ Dias y Flores
+Mercedes Sosa/ Los Hermanos/ en Argentina
+Ketama/ Creo/ El Arte de lo Invisible
+Ismael Miranda/ Aventura/ Por El Buen Camino
+...
+Don Cherry and Ed Blackwell/ Roland Alphonso/ El Corazon
+Old and New Dreams/ Mopti/ Playing
+...
+Cesaria Evora/ Sodade/ Trance Planet
+Songhai/ Africa/ Songhai
+Seleshe Damissae/ Sewnetwa/ Seleshe's Collection
+Hrant Kenkulian/ Dilerum Sen (Past Sarki)/ Udi hrant Kenkulian
+...
+Salim Halali/ Nlaguik Ellila/ En Tunisie
+David Murray/ Patricia/ NYC 1986
+Oppong/ Anadwo Bea/ 1960's Highlife
+...
+Frankiln Kiermyer/ Peace on Earth/ Solomon's Daughter
+Andrew Cyrille, Jimmy Lyons, Jeanne Lee/ In These Last Days/ Nuba
+Julius Hemphill/ Rites/ Dogon A.D.
+...
+Alemayehu Eshete/ Ambassel/ Addis Ababa
+The Tahitian Choir/ Morotiri Nei/ Trance Planet
+...
+Youssou N' Dour/ Woma/ Bir Sorano Juin '93
+Orchestra Reve/ El Ron pa Despue/ La Explosion del Momento
+Rabab/ (title in arabic)/ Best of Rabab Vol 2
+Khaled/ Hebou/ N'ssi N'ssi
+...
+Nasida Ria/ Janikan Anak Asuh/ Keadilan
+Ornette Coleman/ What Reason Could I Give/ Science Fiction
+...
+Thelonius Monk/ untitled solo piano/ Blues Five Spot
+James Booker/ Lawdy Miss Clawdy, Ballad at the Maple Leaf/
+     Ressurection of the Bayou Maharaja
+
+
+
+
+
+             "errata" diu 3:  line 9 --Patriarchal Poetry should
+             read "construction is precisely what is leading us to
+             (ecological) crisis." rather than "destruction...". phrase
+             in  line 16 --XXXX    OOOO    EH should read "punch not"
+             not "puncnot". the editors humbly apologize for such
+             ghosts.
+
+                please send thought pleasures & correspondence to
+                 cf2785@albnyvms.bitnet
+
+                 diu is (c)irculated weekly by the logic of snowflakes
+                                          "nodal extension" of wepress
+=========================================================================
+Date:         Fri, 29 Jul 1994 20:10:07 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Jed Rasula <RASULAJ@QUCDN.QUEENSU.CA>
+Subject:      Re: Yau's Review
+In-Reply-To:  Message of Fri, 29 Jul 1994 12:43:17 EDT from
+              <ST001515@BROWNVM.BROWN.EDU>
+
+I think Steve Evans has come up with a useful formulation: that institutions
+convert traditions into canons and competence into credentials. You could also
+say that institutions *define* competence as the ability to convert traditions
+into credentials. In the end it comes to the same thing: who gets accredited to
+speak on behalf of, and in the name of, others. The anthologists' familiar ploy
+of gesturing towards the contents and saying "the poems will speak for themselv
+es" is an old ventriloquist stage trick. I'd welcome a return of the old mode
+of the commonplace book (the last author to publish one that I'm aware of was
+Auden), in which a patchwork of citations pretends to be nothing less than (in
+Emerson's term) "colossal autobiography". Where all this gets wearying is in th
+e overinvestment, on the part of editors, in the pretence that a "community" or
+a "tradition" is somehow being preserved--which is not the same, by the way, as
+the case (like Allen's NAP) of an anthology inaugurating the conditions for a
+community that only retrospectively identifies itself in the past conditional,
+which is precisely what Weinberger, Hoover, and Messerli propose to do: "if we
+had been there all along, 'we' would have ended up looking like this."
+=========================================================================
+Date:         Fri, 29 Jul 1994 22:29:55 -0400
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Alan Sondheim <sondheim@PANIX.COM>
+Subject:      Submission
+
+The Trouble I had with Poets
+
+
+What I remember about the poets and the trouble I had with them was
+first the time Anne called and I picked up the phone and said Anne,
+knowing it was her. But Bernadette said that I was involved
+with Rosemary to get closer to Vito and Vito had told Rosemary I was
+a pest, which he also told to Dara who Vito told me was a pest. In
+short order, pests were everywhere. My ex-wife went to Bernadette's
+ex and there were fights all around. Keith seemed to put up with me
+and once when I was crying around midnight told me I was a real artist.
+Jackson saw the tape that Kathy and I did and said it took courage.
+Meanwhile Vito saw the tape and said I wan't a real artist and Laurie
+saw the tape and said I was. Allison went up to Kathy by the way and
+said she was married to me and Kathy told Allison I was crazy. Rosmarie
+I don't think ever liked me although I liked her with a great aplumb.
+Meanwhile David just about stopped talking to me and Aram thought I
+should focus more and was just impossible. Clark and I talked all night
+long early on and I owe him for that, but I felt used and abandoned
+towards the end. When I first read Allen that was all the Allen there
+was, but Dan told me that Vito said he never wanted to end up like me.
+Still Alan told me I wasn't as arrogant as he had heard, and Krister
+hated me for reading Lacan until later when she read Lacan and more,
+according to Henry, and then just hated me. So anyway, I.A. said I had
+surprising talent, orphaning me, and quite a few years later I saw
+Robert stand up, which I had not seen him do before, although there was
+no reason for him not to do it. I fell in love with someone who lived
+with Diane probably because she lived with Diane or maybe she didn't.
+I published Michael in some early work, and Robert wanted to publish
+my translations from a langauge I didn't know. I am never sure about
+poets, about these poets. Poets trick me a lot and I always fall for the
+same old things. Susan always walked around in her underwear and it did
+tricks on me. And like everyone else, George had severe doubts, but Tom
+at least published some things as bad poetry. Now I look back and see
+that I should have listened to Peggy, but how was I to know the differ-
+ence between heroin and heroine? Ed wrote all too well, and Charles I am
+sure had his doubts, although Karen wrote America's greatest unpublished
+poetry. Ed was never particularly supportive, part of a group I viewed
+with jealousy and dismay. I could never believe in anything after hear-
+ing all of them, reading all of them - I could never believe in poetry
+ever again, including my own; I can never use `poetry' without shudder-
+ing. I get suspicious of poetics which always seems to invoke Charles or
+someone like Charles. If not Charles, William or Robert, all those
+anglo names coming in from small-town crater America. Always I wonder
+what the rest of the planet and the other Roberts are up to, and more
+and more identify with Violette Leduc and her malaise. I have weaned
+myself from aphorism or metaphor, rhetoric or the bon mot that gains
+a pause, a witticism in a foreign language. I am a pariah for the poets
+if they even remember me, a nuisance or a pest refusing to settle down,
+half-male, half-thing. I doubt they remember me or would care to if given
+the choice. They were the troubles of my life.
+=========================================================================
+Date:         Fri, 29 Jul 1994 22:31:04 -0400
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Alan Sondheim <sondheim@PANIX.COM>
+Subject:      Submission
+
+----------------------------------------------------------------------
+
+
+GOD
+
+I am a fifteen-year-old girl who is also a fifteen-year-old boy and
+I have both a penis and a pocket to put it in. And I have no hair
+there yet so I can see myself when I put it in and someday I will
+have a baby because my friends have babies. I will have a baby soon
+and I know this because I am always wet because I can do things to
+myself.
+
+But I don't sleep very good and I always think about God and I don't
+think that God really cares for me because she is a he and he can't
+give birth to anything because he doesn't have a pocket. And it
+doesn't make sense that he would make a pocket because if he could
+do that he could make himself like me and I don't think he would
+like that.
+
+But I don't think God really cares for anyone either because what is
+the point of all those prayers just thanking and thanking him for
+everyone's misery because they really don't like anything that's
+happening to them, that's for sure. So if he did care then he's not
+so powerful because he's a he and because he doesn't seem to do
+anything about it. And if he wanted to do something about it and
+didn't then he wouldn't be very good, he would be evil. I would hate
+to think that God is evil but I just can't thank him for anything.
+
+Besides, if God made everything, then who made God? I think that
+people like the idea of God coming first because God is something
+like people, even weak like them, and I think that weakness making
+something is better for people than strength making something,
+especially if it's strength they don't have. But anyway, there's this
+to think about, that God would be made by people, because people
+would want to make something not like them at all, but different, but
+not so different as, say a mountain. So I think that God would be
+just different enough to say that he is there forever or doesn't have
+to obey the rules, and I think he doesn't even know what the rules
+are.
+
+So if he doesn't know what the rules are, then what is the point, if
+you ask me, for God, because why not just let things alone, and if you
+need something to let things alone, then you are living in a dream
+because there is nobody to tell you to stop touching yourself. And if
+I stopped touching myself down there, I would never have a baby.
+
+(Oh, I forgot to tell you that I love to tell you about myself because
+I know you love to think about me touching myself there and it will
+make you forget all about God who will never punish me because he will
+be busy with your prayers and everything and will never know.)
+
+
+----------------------------------------------------------------------
+=========================================================================
+Date:         Fri, 29 Jul 1994 22:32:20 -0400
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Alan Sondheim <sondheim@PANIX.COM>
+Subject:      Submission
+
+KARL KRAUS COMPRESSION MACHINE
+
+
+"There are writers who can express in as little as twenty pages
+what I occasionally need as many as two for." (Karl Kraus)
+
+To force a rhyme which, lying on its back, flounders
+All legs, thrusts the loss of hope and energy
+Against the sun or moon, as if a tendency
+Returns this spatial clot upon its back.
+
+Tendency is towards, and not to mix a metaphor,
+Which I won't do, is towards something which
+Is not where it could be before the tendency,
+Such as fascism, for everything
+
+Flies on the surface of an enormous rope
+Pulling its own weight behind its legs, dull gleam
+Ahead, as if something were there, which it is not
+Or rather, the fleeing tendency of time.
+
+You might have known I write beyond the speech
+Of which ridicule has barely parted, continuous work
+On subject and its objects, of nothing in that space
+Beyond the names. This beyond is my written leg,
+
+Just one, falling everywhere beside the point,
+Crippled in every direction, but there at least
+A gesture in every direction, which I am not against.
+
+                   _________
+                __/O\__    |
+                |     |    V
+                |     |
+
+The mechanism on the left contains a _cylinder_ with a spherical
+bearing held in place. An arm extends from the bearing with an
+attached secondary arm at right-angles. Even with a limited
+degree of rotational freedom, the secondary arm is capable of
+alignment with any given point in three-space.*
+
+Playing fields are drowned by words or dreams because
+They bend, rip, are torn asunder, sodden, dull, because
+They are not there but made from sentiment, because
+Death works hard on them, returns a loss become a loss because
+Victory is a young girl or boy hard upon a playing field because
+The field is all their world laid out before the names because
+The names don't amount to much at all because
+They're not there, and nothing is intended because
+The boy and girl are dead and no one plays there because
+Playing fields are drowned.**
+
+"How much material I would have if nothing happened!" (Karl Kraus)
+____________________________
+                            |
+                            |
+                            V
+
+*To penetrate the labia of god is perfect harmony, writing played
+out against the lips of god murmuring of afterbirth.
+
+**The fearful world. The terrible language. The sun a brilliant red.
+The Romantic _blue deer._ The violence of cement.
+
+------------------------------------------------------end K2----------
+=========================================================================
+Date:         Fri, 29 Jul 1994 22:53:09 -0400
+Reply-To:     Robert Drake <au462@cleveland.Freenet.Edu>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Robert Drake <au462@CLEVELAND.FREENET.EDU>
+Subject:      Re: Submission
+
+jeez--
+
+i've always, so much, unjoyed the phraseology ov "Submission";
+and, one version ov truth be told, always enjoyed being in thee
+editor's ship, and having authors/others "Submitting" to me;
+and ('nother version ov thee a4mentioned "truth") thee author
+submitting to thee Editorial _We_.  We are, actually, rather
+a-mused.
+
+           & now, on thee net, yr all yr own editors.
+           'ow wonderful, 2 bad.
+
+luigi
+_EDITOR_ (& don't you ferget it)
+TapRoot Remiews
+=========================================================================
+Date:         Fri, 29 Jul 1994 22:39:26 -0700
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Marjorie Perloff <perloff@LELAND.STANFORD.EDU>
+Subject:      Re: Submission
+X-cc:         Rgreene@oregon.uoregon.edu
+
+I'm seeing if my new program will work.
+Best regards, Marjorie
+z
+echo
+/
+=========================================================================
+Date:         Fri, 29 Jul 1994 22:46:37 -0700
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Comments:     RFC822 error: <W> Incorrect or incomplete address field found and
+              ignored.
+From:         Marjorie Perloff <perloff@LELAND.STANFORD.EDU>
+Subject:      Re: Submission
+X-cc:         422-1898@elaine16.Stanford.EDU, MCI@elaine16.Stanford.EDU,
+              Marjorie@elaine16.Stanford.EDU
+
+Here I am est  testing again but I can't figure it out.
+Anybody have help on the SUNIX system and how you create messages?
+=========================================================================
+Date:         Sat, 30 Jul 1994 03:35:34 EDT
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         SONDHEIM@NEWSCHOOL.EDU
+Subject:      Submission
+
+Ah, in relation to some response to _submission,_ yes, I was aware of
+the masochistic tentation of the word which was deliberately poised
+above the three... _submissions_ and is not my usual heading - in
+other words, _submission_ is part of the contents of the posts which
+begin after all in their heading.
+
+Alan Sondheim
+=========================================================================
+Date:         Sun, 31 Jul 1994 20:34:14 -0400
+Reply-To:     UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+Sender:       UB Poetics discussion group <POETICS@UBVM.CC.BUFFALO.EDU>
+From:         Tom Mandel <tmandel@UMD5.UMD.EDU>
+Subject:      Flavia
+
+1. If the dog won't let go the trouserleg, it must taste good.
+2. Anthology - bunch of flowers - a selection of "choice" items, in
+   both senses. I choose these, because they are so wonderful, and I
+   want you to have them. There's no way around that. It's up to
+   readers to tell us which they like (sorry, no way around that,
+   either).
+3. Oh sure, most anthologies are terrible; I mean, it's one person's
+   taste, and in the kingdom of poetry - an absolute monarchy in
+   which each one is monarch, subject to none, and none a subject -
+   you start by having a completely different view from everyone
+   else.
+4. Yes, institutions and committees and all other formations of
+   professionalism manipulate, mold, warp if you like the mirage
+   which is our view of the art at this or any time, but there is
+   no better committee to substitute, and such a substitution is
+   all I see offered, not just in this debate or on this forum,
+   but most (a polite formulation for damn near all) the constructed
+   social critique is a demand for allocation of space to *my* brand
+   of frogs in the existing pond. Viz. the only alternate university
+   herein discussed proclaims itself imaginary: here's where I would
+   drive if I had a car. But the only valid critique of a form of
+   life is a different form of life. A poem can answer a poem,
+   naught else. Nor is an alternative link equal to an alternative
+   community. If you are a grad student or a professor, start a
+   different university to teach something different.
+5. Sometimes an anthologist is lucky (it is always better to be lucky
+   than to be smart), viz. Don Allen. But, no one (perhaps Jed R.)
+   has pointed to the social context of Allen's anthology: people
+   living and doing something evidently and definitively different
+   from a prevailing life. The authenticity of the anthology - which
+   needed to make no self-eliminating "argument" ala Weinberger -
+   was in the stuff. (I don't at all mean that Don Allen was lucky
+   *not* smart, by the way, just that he was fortunate to be faced
+   with such a potent task to which to commit his smarts).
+6. The same operations which enable a canon and credentials enable
+   the critique of that canon. There is a struggle for power and
+   life and space and the crowning of these in a sense of worth
+   for what one has done and chosen. If the canon we debate arose
+   because the classical languages were moved out of the center
+   of education (i.e. worse housing = bigger bombs), then what
+   would happen if we all read greek again ((don't get me wrong,
+   it doesn't have to be greek, just a horizon and to replace all
+   this margin-making wch replaced a sense of the horizon and its
+   beyond))? But, we will always be empowering something larger and
+   more abstract than the works we read, and will furiously unmake
+   the beds we refuse to sleep in.
+7. Grad students, quit school. Professors, resign your jobs. Talk
+   about "avant garde" formations, that'd do it. Is a university
+   a place where new art has traditionally formed (credentially
+   formed)? Of course, if you have a family to help support (or
+   you'd like to), then... just as you were, keep up the good
+   work. But, can we move on to another topic?
+8. Somewhere near Pittsburgh is a small town called Harmony; it
+   began in a utopian gesture sometime near the middle of the
+   19th century. I turned toward my Dodge Dart toward it one
+   day in I think it was 1973, but when I arrived it was a dim
+   steeltown suburb black with oil and soot of the rivers that
+   mingle thereabouts to (at the time) carry away what was not
+   wanted in making the steel. I'm trying to remember whether
+   I've ever looked at a map and seen a town called Rhyme.
+
+tom mandel
